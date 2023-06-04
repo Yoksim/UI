@@ -1,0 +1,26 @@
+,Sentiment,Sentiment Num,Multi,Text,Text-original,Text_with_fullstop,Polarities Found,Polarity Count,Sarcasm?,Adversative Polarity,Adversative Present?,Polarity Count-after Adversative,Emoji Score,Polarity Count-multi,,com1,com2
+0,Negative,-1,-1,arent good,arent good.,arent good .,"[11, 1]",-1,0,-1,0,-1,0,-1,,0,0
+1,Neutral,0,0,not excellent,don excellent.,not excellent .,"[11, (1, -7)]",0,0,0,0,0,0,0,,0,0
+2,Neutral,0,0,not anger,not anger.,not anger .,"[11, (-1, -7)]",0,0,0,0,0,0,0,,0,0
+3,Negative,-1,-1,cant love,cant love.,cant love .,"[11, 1]",-1,0,-1,0,-1,0,-1,,0,0
+4,Neutral,0,0,cant hate,can't hate.,cant hate .,"[11, (-1, -7)]",0,0,0,0,0,0,0,,0,0
+5,Negative,-1,-1,did not enjoy,did not enjoy.,did not enjoy .,"[0, 11, 1]",-1,0,-1,0,-1,0,-1,,0,0
+6,Negative,-1,-1,didnot satisfied,didn’t satisfied.,didnot satisfied .,"[11, 1]",-1,0,-1,0,-1,0,-1,,0,0
+7,Negative,-1,-1,not excited,don excited.,not excited .,"[11, 1]",-1,0,-1,0,-1,0,-1,,0,0
+8,Negative,-1,-1,doesnot nice,doesnot nice?,doesnot nice ?,"[11, 1]",-1,0,-1,0,-1,0,-2,,0,1
+9,Neutral,0,0,not outstanding,not outstanding.,not outstanding .,"[11, (1, -7)]",0,0,0,0,0,0,0,,0,0
+10,Negative,-1,-1,cant be amazing,cant be amazing?,cant be amazing ?,"[11, 0, 1]",-1,0,-1,0,-1,0,-2,,0,1
+11,Negative,-1,-1,hadnt smart,hadnt smart.,hadnt smart .,"[11, 1]",-1,0,-1,0,-1,0,-1,,0,0
+12,Negative,-1,-1,hasnot happy,hasn’t happy.,hasnot happy .,"[11, 1]",-1,0,-1,0,-1,0,-1,,0,0
+13,Positive,1,2,this is so good,this is so good.,this is so good .,"[0, 0, 0, 1]",1,0,1,0,1,0,2,,0,0
+14,Negative,-1,-2,very bad movie,very bad movie.,very bad movie .,"[0, -1, 0]",-1,0,-1,0,-1,0,-2,,0,0
+15,Positive,1,1,this is not bad movie,this is not bad movie.,this is not bad movie .,"[0, 0, 11, -1, 0]",1,0,1,0,1,0,1,,0,0
+16,Neutral,0,0, still didnt state how graphic designers are paid to do their jobs in singapore, @smrtsg Still didn't state how graphic designers are paid to do their jobs in Singapore., still didnt state how graphic designers are paid to do their jobs in singapore .,"[0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",0,0,0,0,0,0,0,,0,0
+17,Positive,1,2,i hope i can get more informationwishing you all the best uncle," I hope I can get more information, wishing you all the best uncle. ",i hope i can get more informationwishing you all the best uncle .,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, (1, -7), 0]",1,0,1,0,1,0,2,,0,0
+18,Positive,1,2,sufficient nice,sufficient nice,sufficient nice,"[1, 1]",1,0,1,0,1,0,2,,0,0
+19,Positive,1,2,tremendous beauty,tremendous beauty,tremendous beauty,"[1, 1]",1,0,1,0,1,0,2,,0,0
+20,Positive,1,2,ultimately goodi amhere,"ultimately good. I am, here.",ultimately good . i amhere .,"[0, 0, 0]",0,0,0,0,0,0,0,,1,1
+21,Negative,-1,-2,ultimately bad,ultimately bad,ultimately bad,"[0, -1]",-1,0,-1,0,-1,0,-2,,0,0
+22,Positive,1,2,vast good,vast good,vast good,"[0, 1]",1,0,1,0,1,0,2,,0,0
+23,Negative,-1,-2,awful,awful,awful,"[(-1, -7)]",-1,0,-1,0,-1,0,-2,,0,0
+24,Negative,-1,-2,terrified,terrified,terrified,[-1],-1,0,-1,0,-1,0,-2,,0,0

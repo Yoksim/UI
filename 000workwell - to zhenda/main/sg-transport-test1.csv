@@ -1,0 +1,5056 @@
+﻿Sentiment,Sentiment Num,Multi,Text
+Negative,-1,-1,alcohol addiction
+Negative,-1,-1,bad condition
+Negative,-1,-1,health hazard
+Negative,-1,-1,old age
+Negative,-1,-1,persistent cruelty
+Negative,-1,-1,poor shape
+Negative,-1,-1,sinking spell
+Negative,-1,-1,act blur
+Negative,-1,-1,act cute
+Negative,-1,-1,ah beng
+Negative,-1,-1,ah lian
+Negative,-1,-1,ah long
+Negative,-1,-1,ah nei
+Negative,-1,-1,ah tiong
+Negative,-1,-1,ai see
+Negative,-1,-1,ai see buay see
+Negative,-1,-1,ai ya
+Negative,-1,-1,ai yah
+Negative,-1,-1,a tiong
+Negative,-1,-1,a tiong
+Negative,-1,-1,bo bian
+Negative,-1,-1,bo doh
+Negative,-1,-1,bo jio
+Negative,-1,-1,bo pien
+Negative,-1,-1,bo wei kong
+Negative,-1,-1,bo zheng hu
+Negative,-1,-1,buay lun
+Negative,-1,-1,buay sai
+Negative,-1,-1,buay steady
+Negative,-1,-1,buay tahan
+Negative,-1,-1,buey lun
+Negative,-1,-1,buey sai
+Negative,-1,-1,buey sai
+Negative,-1,-1,buey steady
+Negative,-1,-1,buey tahan
+Negative,-1,-1,bu soh
+Negative,-1,-1,catch no ball
+Negative,-1,-1,chee bai
+Negative,-1,-1,chee bye
+Negative,-1,-1,chicken business
+Negative,-1,-1,Chinese helicopter
+Negative,-1,-1,du lan
+Negative,-1,-1,earlier never say
+Negative,-1,-1,eat snake
+Negative,-1,-1,geh kiang
+Negative,-1,-1,gone case
+Negative,-1,-1,guai lan
+Negative,-1,-1,gu niang
+Negative,-1,-1,hai yah
+Negative,-1,-1,han nah
+Negative,-1,-1,hao lian
+Negative,-1,-1,jiak chao
+Negative,-1,-1,jiak zua
+Negative,-1,-1,kao pei
+Negative,-1,-1,kay po
+Negative,-1,-1,killer litter
+Negative,-1,-1,kuai lan
+Negative,-1,-1,kwai lan
+Negative,-1,-1,lan jiao
+Negative,-1,-1,liak bo kiu
+Negative,-1,-1,na bei
+Negative,-1,-1,never say earlier
+Negative,-1,-1,orh hor
+Negative,-1,-1,pai say
+Negative,-1,-1,pai seh
+Negative,-1,-1,pai sey
+Negative,-1,-1,pang sai
+Negative,-1,-1,pang she
+Negative,-1,-1,pek chek
+Negative,-1,-1,peng san
+Negative,-1,-1,si beh
+Negative,-1,-1,si bei
+Negative,-1,-1,si bey
+Negative,-1,-1,tak boleh tahan
+Negative,-1,-1,talk cock
+Negative,-1,-1,tok tok
+Negative,-1,-1,wah biang
+Negative,-1,-1,wah kao
+Negative,-1,-1,wah lan
+Negative,-1,-1,wah piang
+Negative,-1,-1,wa kao
+Negative,-1,-1,wa lan
+Negative,-1,-1,wa lang
+Negative,-1,-1,wa piang
+Negative,-1,-1,wa yang
+Negative,-1,-1,yah lah
+Negative,-1,-1,yaya papaya
+Negative,-1,-1,zi siao
+Negative,-1,-1,disapprove of
+Negative,-1,-1,fed up
+Negative,-1,-1,grief stricken
+Negative,-1,-1,heart stricken
+Negative,-1,-1,heavy hearted
+Negative,-1,-1,hung up
+Negative,-1,-1,ill at ease
+Negative,-1,-1,mixed up
+Negative,-1,-1,on edge
+Negative,-1,-1,pissed off
+Negative,-1,-1,self centred
+Negative,-1,-1,self destructive
+Negative,-1,-1,self pity
+Negative,-1,-1,shook up
+Negative,-1,-1,sick at heart
+Negative,-1,-1,uncared for
+Negative,-1,-1,woe stricken
+Negative,-1,-1,act blur
+Negative,-1,-1,act cute
+Negative,-1,-1,ah beng
+Negative,-1,-1,ah lian
+Negative,-1,-1,ah long
+Negative,-1,-1,ah nei
+Negative,-1,-1,ah tiong
+Negative,-1,-1,ai see
+Negative,-1,-1,ai see buay see
+Negative,-1,-1,ai ya
+Negative,-1,-1,ai yah
+Negative,-1,-1,a tiong
+Negative,-1,-1,a tiong
+Negative,-1,-1,bo bian
+Negative,-1,-1,bo doh
+Negative,-1,-1,bo jio
+Negative,-1,-1,bo pien
+Negative,-1,-1,bo wei kong
+Negative,-1,-1,bo zheng hu
+Negative,-1,-1,buay lun
+Negative,-1,-1,buay sai
+Negative,-1,-1,buay steady
+Negative,-1,-1,buay tahan
+Negative,-1,-1,buey lun
+Negative,-1,-1,buey sai
+Negative,-1,-1,buey sai
+Negative,-1,-1,buey steady
+Negative,-1,-1,buey tahan
+Negative,-1,-1,bu soh
+Negative,-1,-1,catch no ball
+Negative,-1,-1,chee bai
+Negative,-1,-1,chee bye
+Negative,-1,-1,chicken business
+Negative,-1,-1,Chinese helicopter
+Negative,-1,-1,du lan
+Negative,-1,-1,earlier never say
+Negative,-1,-1,eat snake
+Negative,-1,-1,geh kiang
+Negative,-1,-1,gone case
+Negative,-1,-1,guai lan
+Negative,-1,-1,gu niang
+Negative,-1,-1,hai yah
+Negative,-1,-1,han nah
+Negative,-1,-1,hao lian
+Negative,-1,-1,jiak chao
+Negative,-1,-1,jiak zua
+Negative,-1,-1,kao pei
+Negative,-1,-1,kay po
+Negative,-1,-1,killer litter
+Negative,-1,-1,kuai lan
+Negative,-1,-1,kwai lan
+Negative,-1,-1,lan jiao
+Negative,-1,-1,liak bo kiu
+Negative,-1,-1,na bei
+Negative,-1,-1,never say earlier
+Negative,-1,-1,orh hor
+Negative,-1,-1,pai say
+Negative,-1,-1,pai seh
+Negative,-1,-1,pai sey
+Negative,-1,-1,pang sai
+Negative,-1,-1,pang she
+Negative,-1,-1,pek chek
+Negative,-1,-1,peng san
+Negative,-1,-1,si beh
+Negative,-1,-1,si bei
+Negative,-1,-1,si bey
+Negative,-1,-1,tak boleh tahan
+Negative,-1,-1,talk cock
+Negative,-1,-1,tok tok
+Negative,-1,-1,wah biang
+Negative,-1,-1,wah kao
+Negative,-1,-1,wah lan
+Negative,-1,-1,wah piang
+Negative,-1,-1,wa kao
+Negative,-1,-1,wa lan
+Negative,-1,-1,wa lang
+Negative,-1,-1,wa piang
+Negative,-1,-1,wa yang
+Negative,-1,-1,yah lah
+Negative,-1,-1,yaya papaya
+Negative,-1,-1,zi siao
+Negative,-1,-1,disapprove of
+Negative,-1,-1,fed up
+Negative,-1,-1,grief stricken
+Negative,-1,-1,heart stricken
+Negative,-1,-1,heavy hearted
+Negative,-1,-1,hung up
+Negative,-1,-1,ill at ease
+Negative,-1,-1,mixed up
+Negative,-1,-1,on edge
+Negative,-1,-1,pissed off
+Negative,-1,-1,self centred
+Negative,-1,-1,self destructive
+Negative,-1,-1,self pity
+Negative,-1,-1,shook up
+Negative,-1,-1,sick at heart
+Negative,-1,-1,uncared for
+Negative,-1,-1,woe stricken
+Negative,-1,-1,act blur
+Negative,-1,-1,act cute
+Negative,-1,-1,ah beng
+Negative,-1,-1,ah lian
+Negative,-1,-1,ah long
+Negative,-1,-1,ah nei
+Negative,-1,-1,ah tiong
+Negative,-1,-1,ai see
+Negative,-1,-1,ai see buay see
+Negative,-1,-1,ai ya
+Negative,-1,-1,ai yah
+Negative,-1,-1,a tiong
+Negative,-1,-1,a tiong
+Negative,-1,-1,bo bian
+Negative,-1,-1,bo doh
+Negative,-1,-1,bo jio
+Negative,-1,-1,bo pien
+Negative,-1,-1,bo wei kong
+Negative,-1,-1,bo zheng hu
+Negative,-1,-1,buay lun
+Negative,-1,-1,buay sai
+Negative,-1,-1,buay steady
+Negative,-1,-1,buay tahan
+Negative,-1,-1,buey lun
+Negative,-1,-1,buey sai
+Negative,-1,-1,buey sai
+Negative,-1,-1,buey steady
+Negative,-1,-1,buey tahan
+Negative,-1,-1,bu soh
+Negative,-1,-1,catch no ball
+Negative,-1,-1,chee bai
+Negative,-1,-1,chee bye
+Negative,-1,-1,chicken business
+Negative,-1,-1,Chinese helicopter
+Negative,-1,-1,du lan
+Negative,-1,-1,earlier never say
+Negative,-1,-1,eat snake
+Negative,-1,-1,geh kiang
+Negative,-1,-1,gone case
+Negative,-1,-1,guai lan
+Negative,-1,-1,gu niang
+Negative,-1,-1,hai yah
+Negative,-1,-1,han nah
+Negative,-1,-1,hao lian
+Negative,-1,-1,jiak chao
+Negative,-1,-1,jiak zua
+Negative,-1,-1,kao pei
+Negative,-1,-1,kay po
+Negative,-1,-1,killer litter
+Negative,-1,-1,kuai lan
+Negative,-1,-1,kwai lan
+Negative,-1,-1,lan jiao
+Negative,-1,-1,liak bo kiu
+Negative,-1,-1,na bei
+Negative,-1,-1,never say earlier
+Negative,-1,-1,orh hor
+Negative,-1,-1,pai say
+Negative,-1,-1,pai seh
+Negative,-1,-1,pai sey
+Negative,-1,-1,pang sai
+Negative,-1,-1,pang she
+Negative,-1,-1,pek chek
+Negative,-1,-1,peng san
+Negative,-1,-1,si beh
+Negative,-1,-1,si bei
+Negative,-1,-1,si bey
+Negative,-1,-1,tak boleh tahan
+Negative,-1,-1,talk cock
+Negative,-1,-1,tok tok
+Negative,-1,-1,wah biang
+Negative,-1,-1,wah kao
+Negative,-1,-1,wah lan
+Negative,-1,-1,wah piang
+Negative,-1,-1,wa kao
+Negative,-1,-1,wa lan
+Negative,-1,-1,wa lang
+Negative,-1,-1,wa piang
+Negative,-1,-1,wa yang
+Negative,-1,-1,yah lah
+Negative,-1,-1,yaya papaya
+Negative,-1,-1,zi siao
+Negative,-1,-1,disapprove of
+Negative,-1,-1,fed up
+Negative,-1,-1,grief stricken
+Negative,-1,-1,heart stricken
+Negative,-1,-1,heavy hearted
+Negative,-1,-1,hung up
+Negative,-1,-1,ill at ease
+Negative,-1,-1,mixed up
+Negative,-1,-1,on edge
+Negative,-1,-1,pissed off
+Negative,-1,-1,self centred
+Negative,-1,-1,self destructive
+Negative,-1,-1,self pity
+Negative,-1,-1,shook up
+Negative,-1,-1,sick at heart
+Negative,-1,-1,uncared for
+Negative,-1,-1,woe stricken
+Negative,-1,-1,act blur
+Negative,-1,-1,act cute
+Negative,-1,-1,ah beng
+Negative,-1,-1,ah lian
+Negative,-1,-1,ah long
+Negative,-1,-1,ah nei
+Negative,-1,-1,ah tiong
+Negative,-1,-1,ai see
+Negative,-1,-1,ai see buay see
+Negative,-1,-1,ai ya
+Negative,-1,-1,ai yah
+Negative,-1,-1,a tiong
+Negative,-1,-1,a tiong
+Negative,-1,-1,bo bian
+Negative,-1,-1,bo doh
+Negative,-1,-1,bo jio
+Negative,-1,-1,bo pien
+Negative,-1,-1,bo wei kong
+Negative,-1,-1,bo zheng hu
+Negative,-1,-1,buay lun
+Negative,-1,-1,buay sai
+Negative,-1,-1,buay steady
+Negative,-1,-1,buay tahan
+Negative,-1,-1,buey lun
+Negative,-1,-1,buey sai
+Negative,-1,-1,buey sai
+Negative,-1,-1,buey steady
+Negative,-1,-1,buey tahan
+Negative,-1,-1,bu soh
+Negative,-1,-1,catch no ball
+Negative,-1,-1,chee bai
+Negative,-1,-1,chee bye
+Negative,-1,-1,chicken business
+Negative,-1,-1,Chinese helicopter
+Negative,-1,-1,du lan
+Negative,-1,-1,earlier never say
+Negative,-1,-1,eat snake
+Negative,-1,-1,geh kiang
+Negative,-1,-1,gone case
+Negative,-1,-1,guai lan
+Negative,-1,-1,gu niang
+Negative,-1,-1,hai yah
+Negative,-1,-1,han nah
+Negative,-1,-1,hao lian
+Negative,-1,-1,jiak chao
+Negative,-1,-1,jiak zua
+Negative,-1,-1,kao pei
+Negative,-1,-1,kay po
+Negative,-1,-1,killer litter
+Negative,-1,-1,kuai lan
+Negative,-1,-1,kwai lan
+Negative,-1,-1,lan jiao
+Negative,-1,-1,liak bo kiu
+Negative,-1,-1,na bei
+Negative,-1,-1,never say earlier
+Negative,-1,-1,orh hor
+Negative,-1,-1,pai say
+Negative,-1,-1,pai seh
+Negative,-1,-1,pai sey
+Negative,-1,-1,pang sai
+Negative,-1,-1,pang she
+Negative,-1,-1,pek chek
+Negative,-1,-1,peng san
+Negative,-1,-1,si beh
+Negative,-1,-1,si bei
+Negative,-1,-1,si bey
+Negative,-1,-1,tak boleh tahan
+Negative,-1,-1,talk cock
+Negative,-1,-1,tok tok
+Negative,-1,-1,wah biang
+Negative,-1,-1,wah kao
+Negative,-1,-1,wah lan
+Negative,-1,-1,wah piang
+Negative,-1,-1,wa kao
+Negative,-1,-1,wa lan
+Negative,-1,-1,wa lang
+Negative,-1,-1,wa piang
+Negative,-1,-1,wa yang
+Negative,-1,-1,yah lah
+Negative,-1,-1,yaya papaya
+Negative,-1,-1,zi siao
+Negative,-1,-1,disapprove of
+Negative,-1,-1,fed up
+Negative,-1,-1,grief stricken
+Negative,-1,-1,heart stricken
+Negative,-1,-1,heavy hearted
+Negative,-1,-1,hung up
+Negative,-1,-1,ill at ease
+Negative,-1,-1,mixed up
+Negative,-1,-1,on edge
+Negative,-1,-1,pissed off
+Negative,-1,-1,self centred
+Negative,-1,-1,self destructive
+Negative,-1,-1,self pity
+Negative,-1,-1,shook up
+Negative,-1,-1,sick at heart
+Negative,-1,-1,uncared for
+Negative,-1,-1,woe stricken
+Negative,-1,-1,act blur
+Negative,-1,-1,act cute
+Negative,-1,-1,ah beng
+Negative,-1,-1,ah lian
+Negative,-1,-1,ah long
+Negative,-1,-1,ah nei
+Negative,-1,-1,ah tiong
+Negative,-1,-1,ai see
+Negative,-1,-1,ai see buay see
+Negative,-1,-1,ai ya
+Negative,-1,-1,ai yah
+Negative,-1,-1,a tiong
+Negative,-1,-1,a tiong
+Negative,-1,-1,bo bian
+Negative,-1,-1,bo doh
+Negative,-1,-1,bo jio
+Negative,-1,-1,bo pien
+Negative,-1,-1,bo wei kong
+Negative,-1,-1,bo zheng hu
+Negative,-1,-1,buay lun
+Negative,-1,-1,buay sai
+Negative,-1,-1,buay steady
+Negative,-1,-1,buay tahan
+Negative,-1,-1,buey lun
+Negative,-1,-1,buey sai
+Negative,-1,-1,buey sai
+Negative,-1,-1,buey steady
+Negative,-1,-1,buey tahan
+Negative,-1,-1,bu soh
+Negative,-1,-1,catch no ball
+Negative,-1,-1,chee bai
+Negative,-1,-1,chee bye
+Negative,-1,-1,chicken business
+Negative,-1,-1,Chinese helicopter
+Negative,-1,-1,du lan
+Negative,-1,-1,earlier never say
+Negative,-1,-1,eat snake
+Negative,-1,-1,geh kiang
+Negative,-1,-1,gone case
+Negative,-1,-1,guai lan
+Negative,-1,-1,gu niang
+Negative,-1,-1,hai yah
+Negative,-1,-1,han nah
+Negative,-1,-1,hao lian
+Negative,-1,-1,jiak chao
+Negative,-1,-1,jiak zua
+Negative,-1,-1,kao pei
+Negative,-1,-1,kay po
+Negative,-1,-1,killer litter
+Negative,-1,-1,kuai lan
+Negative,-1,-1,kwai lan
+Negative,-1,-1,lan jiao
+Negative,-1,-1,liak bo kiu
+Negative,-1,-1,na bei
+Negative,-1,-1,never say earlier
+Negative,-1,-1,orh hor
+Negative,-1,-1,pai say
+Negative,-1,-1,pai seh
+Negative,-1,-1,pai sey
+Negative,-1,-1,pang sai
+Negative,-1,-1,pang she
+Negative,-1,-1,pek chek
+Negative,-1,-1,peng san
+Negative,-1,-1,si beh
+Negative,-1,-1,si bei
+Negative,-1,-1,si bey
+Negative,-1,-1,tak boleh tahan
+Negative,-1,-1,talk cock
+Negative,-1,-1,tok tok
+Negative,-1,-1,wah biang
+Negative,-1,-1,wah kao
+Negative,-1,-1,wah lan
+Negative,-1,-1,wah piang
+Negative,-1,-1,wa kao
+Negative,-1,-1,wa lan
+Negative,-1,-1,wa lang
+Negative,-1,-1,wa piang
+Negative,-1,-1,wa yang
+Negative,-1,-1,yah lah
+Negative,-1,-1,yaya papaya
+Negative,-1,-1,zi siao
+Negative,-1,-1,disapprove of
+Negative,-1,-1,fed up
+Negative,-1,-1,grief stricken
+Negative,-1,-1,heart stricken
+Negative,-1,-1,heavy hearted
+Negative,-1,-1,hung up
+Negative,-1,-1,ill at ease
+Negative,-1,-1,mixed up
+Negative,-1,-1,on edge
+Negative,-1,-1,pissed off
+Negative,-1,-1,self centred
+Negative,-1,-1,self destructive
+Negative,-1,-1,self pity
+Negative,-1,-1,shook up
+Negative,-1,-1,sick at heart
+Negative,-1,-1,uncared for
+Negative,-1,-1,woe stricken
+Negative,-1,-1,act blur
+Negative,-1,-1,act cute
+Negative,-1,-1,ah beng
+Negative,-1,-1,ah lian
+Negative,-1,-1,ah long
+Negative,-1,-1,ah nei
+Negative,-1,-1,ah tiong
+Negative,-1,-1,ai see
+Negative,-1,-1,ai see buay see
+Negative,-1,-1,ai ya
+Negative,-1,-1,ai yah
+Negative,-1,-1,a tiong
+Negative,-1,-1,a tiong
+Negative,-1,-1,bo bian
+Negative,-1,-1,bo doh
+Negative,-1,-1,bo jio
+Negative,-1,-1,bo pien
+Negative,-1,-1,bo wei kong
+Negative,-1,-1,bo zheng hu
+Negative,-1,-1,buay lun
+Negative,-1,-1,buay sai
+Negative,-1,-1,buay steady
+Negative,-1,-1,buay tahan
+Negative,-1,-1,buey lun
+Negative,-1,-1,buey sai
+Negative,-1,-1,buey sai
+Negative,-1,-1,buey steady
+Negative,-1,-1,buey tahan
+Negative,-1,-1,bu soh
+Negative,-1,-1,catch no ball
+Negative,-1,-1,chee bai
+Negative,-1,-1,chee bye
+Negative,-1,-1,chicken business
+Negative,-1,-1,Chinese helicopter
+Negative,-1,-1,du lan
+Negative,-1,-1,earlier never say
+Negative,-1,-1,eat snake
+Negative,-1,-1,geh kiang
+Negative,-1,-1,gone case
+Negative,-1,-1,guai lan
+Negative,-1,-1,gu niang
+Negative,-1,-1,hai yah
+Negative,-1,-1,han nah
+Negative,-1,-1,hao lian
+Negative,-1,-1,jiak chao
+Negative,-1,-1,jiak zua
+Negative,-1,-1,kao pei
+Negative,-1,-1,kay po
+Negative,-1,-1,killer litter
+Negative,-1,-1,kuai lan
+Negative,-1,-1,kwai lan
+Negative,-1,-1,lan jiao
+Negative,-1,-1,liak bo kiu
+Negative,-1,-1,na bei
+Negative,-1,-1,never say earlier
+Negative,-1,-1,orh hor
+Negative,-1,-1,pai say
+Negative,-1,-1,pai seh
+Negative,-1,-1,pai sey
+Negative,-1,-1,pang sai
+Negative,-1,-1,pang she
+Negative,-1,-1,pek chek
+Negative,-1,-1,peng san
+Negative,-1,-1,si beh
+Negative,-1,-1,si bei
+Negative,-1,-1,si bey
+Negative,-1,-1,tak boleh tahan
+Negative,-1,-1,talk cock
+Negative,-1,-1,tok tok
+Negative,-1,-1,wah biang
+Negative,-1,-1,wah kao
+Negative,-1,-1,wah lan
+Negative,-1,-1,wah piang
+Negative,-1,-1,wa kao
+Negative,-1,-1,wa lan
+Negative,-1,-1,wa lang
+Negative,-1,-1,wa piang
+Negative,-1,-1,wa yang
+Negative,-1,-1,yah lah
+Negative,-1,-1,yaya papaya
+Negative,-1,-1,zi siao
+Negative,-1,-1,disapprove of
+Negative,-1,-1,fed up
+Negative,-1,-1,grief stricken
+Negative,-1,-1,heart stricken
+Negative,-1,-1,heavy hearted
+Negative,-1,-1,hung up
+Negative,-1,-1,ill at ease
+Negative,-1,-1,mixed up
+Negative,-1,-1,on edge
+Negative,-1,-1,pissed off
+Negative,-1,-1,self centred
+Negative,-1,-1,self destructive
+Negative,-1,-1,self pity
+Negative,-1,-1,shook up
+Negative,-1,-1,sick at heart
+Negative,-1,-1,uncared for
+Negative,-1,-1,woe stricken
+Negative,-1,-1,act blur
+Negative,-1,-1,act cute
+Negative,-1,-1,ah beng
+Negative,-1,-1,ah lian
+Negative,-1,-1,ah long
+Negative,-1,-1,ah nei
+Negative,-1,-1,ah tiong
+Negative,-1,-1,ai see
+Negative,-1,-1,ai see buay see
+Negative,-1,-1,ai ya
+Negative,-1,-1,ai yah
+Negative,-1,-1,a tiong
+Negative,-1,-1,a tiong
+Negative,-1,-1,bo bian
+Negative,-1,-1,bo doh
+Negative,-1,-1,bo jio
+Negative,-1,-1,bo pien
+Negative,-1,-1,bo wei kong
+Negative,-1,-1,bo zheng hu
+Negative,-1,-1,buay lun
+Negative,-1,-1,buay sai
+Negative,-1,-1,buay steady
+Negative,-1,-1,buay tahan
+Negative,-1,-1,buey lun
+Negative,-1,-1,buey sai
+Negative,-1,-1,buey sai
+Negative,-1,-1,buey steady
+Negative,-1,-1,buey tahan
+Negative,-1,-1,bu soh
+Negative,-1,-1,catch no ball
+Negative,-1,-1,chee bai
+Negative,-1,-1,chee bye
+Negative,-1,-1,chicken business
+Negative,-1,-1,Chinese helicopter
+Negative,-1,-1,du lan
+Negative,-1,-1,earlier never say
+Negative,-1,-1,eat snake
+Negative,-1,-1,geh kiang
+Negative,-1,-1,gone case
+Negative,-1,-1,guai lan
+Negative,-1,-1,gu niang
+Negative,-1,-1,hai yah
+Negative,-1,-1,han nah
+Negative,-1,-1,hao lian
+Negative,-1,-1,jiak chao
+Negative,-1,-1,jiak zua
+Negative,-1,-1,kao pei
+Negative,-1,-1,kay po
+Negative,-1,-1,killer litter
+Negative,-1,-1,kuai lan
+Negative,-1,-1,kwai lan
+Negative,-1,-1,lan jiao
+Negative,-1,-1,liak bo kiu
+Negative,-1,-1,na bei
+Negative,-1,-1,never say earlier
+Negative,-1,-1,orh hor
+Negative,-1,-1,pai say
+Negative,-1,-1,pai seh
+Negative,-1,-1,pai sey
+Negative,-1,-1,pang sai
+Negative,-1,-1,pang she
+Negative,-1,-1,pek chek
+Negative,-1,-1,peng san
+Negative,-1,-1,si beh
+Negative,-1,-1,si bei
+Negative,-1,-1,si bey
+Negative,-1,-1,tak boleh tahan
+Negative,-1,-1,talk cock
+Negative,-1,-1,tok tok
+Negative,-1,-1,wah biang
+Negative,-1,-1,wah kao
+Negative,-1,-1,wah lan
+Negative,-1,-1,wah piang
+Negative,-1,-1,wa kao
+Negative,-1,-1,wa lan
+Negative,-1,-1,wa lang
+Negative,-1,-1,wa piang
+Negative,-1,-1,wa yang
+Negative,-1,-1,yah lah
+Negative,-1,-1,yaya papaya
+Negative,-1,-1,zi siao
+Negative,-1,-1,disapprove of
+Negative,-1,-1,fed up
+Negative,-1,-1,grief stricken
+Negative,-1,-1,heart stricken
+Negative,-1,-1,heavy hearted
+Negative,-1,-1,hung up
+Negative,-1,-1,ill at ease
+Negative,-1,-1,mixed up
+Negative,-1,-1,on edge
+Negative,-1,-1,pissed off
+Negative,-1,-1,self centred
+Negative,-1,-1,self destructive
+Negative,-1,-1,self pity
+Negative,-1,-1,shook up
+Negative,-1,-1,sick at heart
+Negative,-1,-1,uncared for
+Negative,-1,-1,woe stricken
+Negative,-1,-1,cheap shots
+Negative,-1,-1,how will she be able
+Negative,-1,-1,not because I want to
+Negative,-1,-1,sweeping under the carpet
+Negative,-1,-1,butt off
+Negative,-1,-1,haven't had the same luck
+Negative,-1,-1,no control over
+Negative,-1,-1,only looks good on reusme
+Negative,-1,-1,cheated us
+Negative,-1,-1,how will she be able?
+Negative,-1,-1,not been
+Negative,-1,-1,swept under carpet
+Negative,-1,-1,by no means perfect
+Negative,-1,-1,Haven't looked at the perks
+Negative,-1,-1,no culture
+Negative,-1,-1,opportunity is minimal
+Negative,-1,-1,chia lat
+Negative,-1,-1,idealism issues
+Negative,-1,-1,not been working
+Negative,-1,-1,can barely save
+Negative,-1,-1,hazing and minor sexual harassment
+Negative,-1,-1,no culture of its own
+Negative,-1,-1,other organization has better compensation
+Negative,-1,-1,chiat lat
+Negative,-1,-1,I don't trust her
+Negative,-1,-1,not benefit
+Negative,-1,-1,taken out of context
+Negative,-1,-1,can be more colloborative
+Negative,-1,-1,heads down
+Negative,-1,-1,No diversity
+Negative,-1,-1,out dated
+Negative,-1,-1,childish and unacceptable
+Negative,-1,-1,If only
+Negative,-1,-1,not clear
+Negative,-1,-1,take over our PMET jobs
+Negative,-1,-1,can be stuck
+Negative,-1,-1,Health issue
+Negative,-1,-1,no exit opportunities
+Negative,-1,-1,out for themselves
+Negative,-1,-1,closing down
+Negative,-1,-1,not cleared
+Negative,-1,-1,talk alot
+Negative,-1,-1,can be unreasonable
+Negative,-1,-1,Heavy politics
+Negative,-1,-1,no family feeling
+Negative,-1,-1,out of compensation
+Negative,-1,-1,cmi
+Negative,-1,-1,if they have confidence
+Negative,-1,-1,not competitive
+Negative,-1,-1,talk big
+Negative,-1,-1,Can be very politicized
+Negative,-1,-1,hierarchy is a con
+Negative,-1,-1,No Family Life
+Negative,-1,-1,out of culture
+Negative,-1,-1,coe very high
+Negative,-1,-1,if you think
+Negative,-1,-1,not concrete
+Negative,-1,-1,talk cock
+Negative,-1,-1,can get lost
+Negative,-1,-1,high demands
+Negative,-1,-1,no feedback
+Negative,-1,-1,out of line
+Negative,-1,-1,compensation is behind
+Negative,-1,-1,ignore the calibre
+Negative,-1,-1,not convinced
+Negative,-1,-1,talking rocks
+Negative,-1,-1,can get stifling
+Negative,-1,-1,high expectations
+Negative,-1,-1,no flexibility with salary
+Negative,-1,-1,out of luck
+Negative,-1,-1,compensation is not on
+Negative,-1,-1,I had enuf
+Negative,-1,-1,not convincing
+Negative,-1,-1,talk is cheap
+Negative,-1,-1,canned and subjective
+Negative,-1,-1,High stress
+Negative,-1,-1,No flexiblity
+Negative,-1,-1,out of reach
+Negative,-1,-1,compensation lags
+Negative,-1,-1,im outta here
+Negative,-1,-1,not doing
+Negative,-1,-1,talk like kid
+Negative,-1,-1,cannot choose
+Negative,-1,-1,High travel requirements
+Negative,-1,-1,no focus on professional development
+Negative,-1,-1,Outdated technology
+Negative,-1,-1,concern to the public
+Negative,-1,-1,inconsistent time management
+Negative,-1,-1,not doing good
+Negative,-1,-1,talk like that
+Negative,-1,-1,cannot completely override
+Negative,-1,-1,high turn over
+Negative,-1,-1,no future
+Negative,-1,-1,outside of your control
+Negative,-1,-1,con man
+Negative,-1,-1,increase accident
+Negative,-1,-1,not enough
+Negative,-1,-1,talk nonsense
+Negative,-1,-1,cannot override
+Negative,-1,-1,high turnover
+Negative,-1,-1,no global delivery
+Negative,-1,-1,over discrimination
+Negative,-1,-1,conquer the world
+Negative,-1,-1,increase breakdown
+Negative,-1,-1,not enough payment
+Negative,-1,-1,talk only
+Negative,-1,-1,cannot take leave+D113
+Negative,-1,-1,High working hours
+Negative,-1,-1,no good reasons
+Negative,-1,-1,over past work hours
+Negative,-1,-1,contesting miss universe
+Negative,-1,-1,increase fare
+Negative,-1,-1,not even qualify
+Negative,-1,-1,talk properly can
+Negative,-1,-1,cannot trust
+Negative,-1,-1,High workload
+Negative,-1,-1,No good salary
+Negative,-1,-1,over time
+Negative,-1,-1,increase its prices
+Negative,-1,-1,not extremely fond
+Negative,-1,-1,talk so shallowly
+Negative,-1,-1,cant always plan
+Negative,-1,-1,hinder growth
+Negative,-1,-1,no group building
+Negative,-1,-1,over whelming
+Negative,-1,-1,copy paste
+Negative,-1,-1,increase jam
+Negative,-1,-1,not fit
+Negative,-1,-1,tapping on
+Negative,-1,-1,can't be expensed
+Negative,-1,-1,hit or miss
+Negative,-1,-1,no guidance
+Negative,-1,-1,overdrive into
+Negative,-1,-1,could have been better
+Negative,-1,-1,increase molest
+Negative,-1,-1,not fit to comment
+Negative,-1,-1,targeting the senior ah pek lah
+Negative,-1,-1,can't compare
+Negative,-1,-1,horrendous
+Negative,-1,-1,no idea
+Negative,-1,-1,over-whelming
+Negative,-1,-1,could not produce
+Negative,-1,-1,increase price
+Negative,-1,-1,not for the people of Singapore
+Negative,-1,-1,targetting cheeky man
+Negative,-1,-1,can't keep their promises
+Negative,-1,-1,horrible salary
+Negative,-1,-1,No integration
+Negative,-1,-1,overworked
+Negative,-1,-1,couldn't bear
+Negative,-1,-1,increase profits
+Negative,-1,-1,not for you
+Negative,-1,-1,team environment often toxic
+Negative,-1,-1,cant learn
+Negative,-1,-1,hours are horrific
+Negative,-1,-1,no junior resources
+Negative,-1,-1,ovetime hours
+Negative,-1,-1,could use improvement
+Negative,-1,-1,increase waiting time
+Negative,-1,-1,not going to vote
+Negative,-1,-1,the come
+Negative,-1,-1,can't really develop
+Negative,-1,-1,hours are rough
+Negative,-1,-1,No life balance
+Negative,-1,-1,pain
+Negative,-1,-1,courtesy token
+Negative,-1,-1,increasing costs
+Negative,-1,-1,not happy
+Negative,-1,-1,the mastermind who caused almost ALL OUR PROBLEMS
+Negative,-1,-1,cant stay too long
+Negative,-1,-1,Hours were not realistic
+Negative,-1,-1,no life outside of work
+Negative,-1,-1,Painfully slow to move
+Negative,-1,-1,cover the hole
+Negative,-1,-1,increasing the Fare
+Negative,-1,-1,theres no place for u
+Negative,-1,-1,can't succeed
+Negative,-1,-1,huge egos
+Negative,-1,-1,no long term visibility
+Negative,-1,-1,Partial in growth opportunities
+Negative,-1,-1,cover their financial deficit
+Negative,-1,-1,inexperienced managers
+Negative,-1,-1,nothing gets done
+Negative,-1,-1,the way she dress
+Negative,-1,-1,can't support
+Negative,-1,-1,huge set back
+Negative,-1,-1,partiality
+Negative,-1,-1,cover up
+Negative,-1,-1,instill fear
+Negative,-1,-1,nothing have done
+Negative,-1,-1,they don deserve us anymore
+Negative,-1,-1,can't take vacation
+Negative,-1,-1,hyper-competitive
+Negative,-1,-1,No mentor
+Negative,-1,-1,partiality in rewards
+Negative,-1,-1,craving for attention
+Negative,-1,-1,integrity is in question
+Negative,-1,-1,not interested
+Negative,-1,-1,they have proved to fail us
+Negative,-1,-1,can't think of any
+Negative,-1,-1,imporvement needs to be made
+Negative,-1,-1,No much increments
+Negative,-1,-1,pay are not in-line
+Negative,-1,-1,created the mess
+Negative,-1,-1,internal conflict
+Negative,-1,-1,not just look
+Negative,-1,-1,thick skin
+Negative,-1,-1,career is dependant
+Negative,-1,-1,impossible to achieve
+Negative,-1,-1,No off
+Negative,-1,-1,pay can be better
+Negative,-1,-1,created these problems
+Negative,-1,-1,in the end nothin
+Negative,-1,-1,not just talk
+Negative,-1,-1,think harder
+Negative,-1,-1,caste hierarchy
+Negative,-1,-1,Improve work life balance
+Negative,-1,-1,no one cares for work-life balance
+Negative,-1,-1,pay can vary dramatically
+Negative,-1,-1,crickey tears
+Negative,-1,-1,invisible man
+Negative,-1,-1,not kpop culture
+Negative,-1,-1,this act that act
+Negative,-1,-1,claw all over
+Negative,-1,-1,Increasingly difficult to achieve
+Negative,-1,-1,no one cares for your work
+Negative,-1,-1,pay could be better
+Negative,-1,-1,crocodile tears
+Negative,-1,-1,is a con
+Negative,-1,-1,not liking
+Negative,-1,-1,throw him out
+Negative,-1,-1,coach is lazy
+Negative,-1,-1,incredibly complex
+Negative,-1,-1,no one really cares
+Negative,-1,-1,pay does not justify
+Negative,-1,-1,cry foul
+Negative,-1,-1,is a joke
+Negative,-1,-1,not only you
+Negative,-1,-1,throw in
+Negative,-1,-1,cog in a wheel
+Negative,-1,-1,inexperienced
+Negative,-1,-1,no opportunities
+Negative,-1,-1,pay doesn't commensurate
+Negative,-1,-1,cut throat
+Negative,-1,-1,is a situation
+Negative,-1,-1,not prepared
+Negative,-1,-1,time shorten
+Negative,-1,-1,cog in factory
+Negative,-1,-1,inferiority complex
+Negative,-1,-1,no OT pay
+Negative,-1,-1,pay is average
+Negative,-1,-1,damage done
+Negative,-1,-1,isn't good
+Negative,-1,-1,not productive
+Negative,-1,-1,time to change
+Negative,-1,-1,cog in the wheel
+Negative,-1,-1,Inorganic growth
+Negative,-1,-1,No overtime pay
+Negative,-1,-1,pay is awful
+Negative,-1,-1,dare not
+Negative,-1,-1,isn't worth
+Negative,-1,-1,not putting in effort
+Negative,-1,-1,time to go
+Negative,-1,-1,compensated slower
+Negative,-1,-1,Internal competition
+Negative,-1,-1,no path of advancement
+Negative,-1,-1,Pay is below market
+Negative,-1,-1,dare not even think
+Negative,-1,-1,is there better candidate
+Negative,-1,-1,no transparency
+Negative,-1,-1,tired of
+Negative,-1,-1,compensation are black-box
+Negative,-1,-1,Internal Politics
+Negative,-1,-1,no perks
+Negative,-1,-1,pay is irrelavant
+Negative,-1,-1,dare not see
+Negative,-1,-1,I talking to u meh
+Negative,-1,-1,not ready
+Negative,-1,-1,to be specific
+Negative,-1,-1,compensation are opaque
+Negative,-1,-1,interpoersonal skills are simply not there
+Negative,-1,-1,No positives
+Negative,-1,-1,pay is joke
+Negative,-1,-1,dare to question
+Negative,-1,-1,I thought
+Negative,-1,-1,not real sense of team
+Negative,-1,-1,to be taken seriously
+Negative,-1,-1,compensation is below average
+Negative,-1,-1,interpoersonal skills is not there
+Negative,-1,-1,No proper allocation
+Negative,-1,-1,Pay is less
+Negative,-1,-1,debate like a schoolboy
+Negative,-1,-1,jia lat
+Negative,-1,-1,not so brilliant
+Negative,-1,-1,to b specific
+Negative,-1,-1,could be better
+Negative,-1,-1,isn't a job
+Negative,-1,-1,No proper communication
+Negative,-1,-1,Pay is low
+Negative,-1,-1,decreases the quality
+Negative,-1,-1,jialat lah
+Negative,-1,-1,not so good
+Negative,-1,-1,to gain publicity
+Negative,-1,-1,could be more competitive
+Negative,-1,-1,isn't always in balance
+Negative,-1,-1,no proper culture
+Negative,-1,-1,pay is not near
+Negative,-1,-1,deeply concerned
+Negative,-1,-1,jia liao bee
+Negative,-1,-1,not so nice
+Negative,-1,-1,to look only
+Negative,-1,-1,could be more objective
+Negative,-1,-1,isn't as flashy
+Negative,-1,-1,No proper hike
+Negative,-1,-1,Pay isn't as great
+Negative,-1,-1,defended eternal pure land
+Negative,-1,-1,jia liao mi
+Negative,-1,-1,not the same
+Negative,-1,-1,to lose
+Negative,-1,-1,could do much better
+Negative,-1,-1,isn't as organized
+Negative,-1,-1,No proper recruitment policies
+Negative,-1,-1,pay isn't that great
+Negative,-1,-1,destroyed future
+Negative,-1,-1,jigo pek
+Negative,-1,-1,not transparent
+Negative,-1,-1,too bad
+Negative,-1,-1,could use some improvement
+Negative,-1,-1,isn't consistent
+Negative,-1,-1,No pros
+Negative,-1,-1,pay isn't worth
+Negative,-1,-1,jjst to make noise
+Negative,-1,-1,not very articulate
+Negative,-1,-1,too bad n stupid
+Negative,-1,-1,couldn't take a break
+Negative,-1,-1,isn't constructive
+Negative,-1,-1,no raise
+Negative,-1,-1,pays less
+Negative,-1,-1,did not do a good job
+Negative,-1,-1,joke of the week
+Negative,-1,-1,not very clear
+Negative,-1,-1,too concerned
+Negative,-1,-1,coworkers will leave
+Negative,-1,-1,isn't easily facilitated
+Negative,-1,-1,No raise for cost of living
+Negative,-1,-1,penny pinching
+Negative,-1,-1,did not go through hard times
+Negative,-1,-1,jump ship
+Negative,-1,-1,not very competitive
+Negative,-1,-1,too few
+Negative,-1,-1,crapload of work
+Negative,-1,-1,isn't enough
+Negative,-1,-1,No real bonus
+Negative,-1,-1,people usally leave for better pay
+Negative,-1,-1,did not obtain
+Negative,-1,-1,jump tread
+Negative,-1,-1,not waste
+Negative,-1,-1,too focused
+Negative,-1,-1,crappy place to work
+Negative,-1,-1,isn't enough transparency
+Negative,-1,-1,no real investment
+Negative,-1,-1,performance is not objective
+Negative,-1,-1,did not seek
+Negative,-1,-1,just another
+Negative,-1,-1,not what I want
+Negative,-1,-1,too much 
+Negative,-1,-1,culture is callous
+Negative,-1,-1,isn't fair
+Negative,-1,-1,No real team
+Negative,-1,-1,performance issues
+Negative,-1,-1,didn't do anything at all
+Negative,-1,-1,just do
+Negative,-1,-1,not yet answered
+Negative,-1,-1,Too much work
+Negative,-1,-1,culture is not right
+Negative,-1,-1,isn't in balance
+Negative,-1,-1,No real work/life balance
+Negative,-1,-1,perks aren't great
+Negative,-1,-1,didn't manage
+Negative,-1,-1,just talking only
+Negative,-1,-1,no use
+Negative,-1,-1,Too much work 
+Negative,-1,-1,cut back
+Negative,-1,-1,isn't much differentiation
+Negative,-1,-1,no recognition
+Negative,-1,-1,playing mind tricks
+Negative,-1,-1,didn't query
+Negative,-1,-1,just to make noise
+Negative,-1,-1,no voice
+Negative,-1,-1,too often
+Negative,-1,-1,cut down
+Negative,-1,-1,isn't the most interesting
+Negative,-1,-1,no recourse
+Negative,-1,-1,policies are not followed
+Negative,-1,-1,didn't speak
+Negative,-1,-1,keep quiet
+Negative,-1,-1,nowhere near
+Negative,-1,-1,too presumptuous
+Negative,-1,-1,deadline are too short
+Negative,-1,-1,isnt too great
+Negative,-1,-1,no resources
+Negative,-1,-1,policy is weak
+Negative,-1,-1,didn't want
+Negative,-1,-1,keep saying
+Negative,-1,-1,no wonder
+Negative,-1,-1,too soon
+Negative,-1,-1,deadlines are tight
+Negative,-1,-1,Lack of annual bonus 
+Negative,-1,-1,no rewards
+Negative,-1,-1,politics
+Negative,-1,-1,die ah
+Negative,-1,-1,keeps changing
+Negative,-1,-1,no working from home
+Negative,-1,-1,too thin
+Negative,-1,-1,decreasing staff morale
+Negative,-1,-1,lack of resources
+Negative,-1,-1,no room for growth
+Negative,-1,-1,poor benefits
+Negative,-1,-1,die faster
+Negative,-1,-1,kena conned
+Negative,-1,-1,no work life balance
+Negative,-1,-1,too young
+Negative,-1,-1,de-emphasis on specification
+Negative,-1,-1,lack of training
+Negative,-1,-1,No room for innovation
+Negative,-1,-1,poor fit
+Negative,-1,-1,die laughing
+Negative,-1,-1,keyboard warrier
+Negative,-1,-1,no work/life balance
+Negative,-1,-1,to see this amount of ignorance
+Negative,-1,-1,deliver nothing
+Negative,-1,-1,lack of understanding
+Negative,-1,-1,no sponsorship
+Negative,-1,-1,Poor incentive
+Negative,-1,-1,die liao
+Negative,-1,-1,keyboard warrior
+Negative,-1,-1,now then bother
+Negative,-1,-1,totally against
+Negative,-1,-1,depends on luck
+Negative,-1,-1,lack of work life balance
+Negative,-1,-1,No straight forward answers
+Negative,-1,-1,poor performance
+Negative,-1,-1,dig out
+Negative,-1,-1,keyboard warriors
+Negative,-1,-1,now they want to work hard
+Negative,-1,-1,traffic jam
+Negative,-1,-1,development at lower levels
+Negative,-1,-1,lack of work/life balance
+Negative,-1,-1,No such thing as work life balance
+Negative,-1,-1,poor way
+Negative,-1,-1,din see any opp parties doing bonding
+Negative,-1,-1,kicked out
+Negative,-1,-1,NSP is nothing
+Negative,-1,-1,treated like cattle
+Negative,-1,-1,did not support
+Negative,-1,-1,lack thereof
+Negative,-1,-1,no sympathy
+Negative,-1,-1,preached but not practiced
+Negative,-1,-1,dirty game
+Negative,-1,-1,Kick him out
+Negative,-1,-1,oh god
+Negative,-1,-1,treating like a game
+Negative,-1,-1,did not warrant
+Negative,-1,-1,lacked focus
+Negative,-1,-1,no team focus
+Negative,-1,-1,pretty dismal
+Negative,-1,-1,DisGrace Fu
+Negative,-1,-1,kick him out of your house
+Negative,-1,-1,Oh no
+Negative,-1,-1,trust if you are gullible
+Negative,-1,-1,didn't enjoy
+Negative,-1,-1,lackluster
+Negative,-1,-1,No time
+Negative,-1,-1,pretty hard to reconcile
+Negative,-1,-1,Diversity is an issue
+Negative,-1,-1,kick out
+Negative,-1,-1,old fucking cb bitch
+Negative,-1,-1,try harder
+Negative,-1,-1,didn't get the impression
+Negative,-1,-1,Laggard in pay
+Negative,-1,-1,no time for family
+Negative,-1,-1,pretty lock step
+Negative,-1,-1,Diversity is still an issue
+Negative,-1,-1,kick out OUT
+Negative,-1,-1,only now
+Negative,-1,-1,trying to get quick
+Negative,-1,-1,difficult and competitive
+Negative,-1,-1,lags competitiors
+Negative,-1,-1,no transparency even
+Negative,-1,-1,pretty long hours
+Negative,-1,-1,diversity lacking
+Negative,-1,-1,kick them out
+Negative,-1,-1,only raising
+Negative,-1,-1,turned off
+Negative,-1,-1,difficult to be promoted
+Negative,-1,-1,no value
+Negative,-1,-1,process is a joke
+Negative,-1,-1,does not
+Negative,-1,-1,kick your butt
+Negative,-1,-1,only utters
+Negative,-1,-1,typically ahlians
+Negative,-1,-1,difficult to convince
+Negative,-1,-1,last minute cancellation
+Negative,-1,-1,No vision or planning skills
+Negative,-1,-1,prolonged work time
+Negative,-1,-1,does not address
+Negative,-1,-1,kill me now
+Negative,-1,-1,only want high salary
+Negative,-1,-1,unable to solve
+Negative,-1,-1,difficult to get partner support 
+Negative,-1,-1,lazy colleagues
+Negative,-1,-1,no way correlated
+Negative,-1,-1,Promotion process is ambiguous
+Negative,-1,-1,does not know
+Negative,-1,-1,knife into his belly
+Negative,-1,-1,only want to shine
+Negative,-1,-1,unaccounted for
+Negative,-1,-1,difficult to have a work life balance
+Negative,-1,-1,lead to fewer opportunities
+Negative,-1,-1,no way to impove
+Negative,-1,-1,promotions are opaque
+Negative,-1,-1,does not voice out
+Negative,-1,-1,knife into your belly
+Negative,-1,-1,Opaque compensation
+Negative,-1,-1,uncalled for
+Negative,-1,-1,difficult to manage work/life balance
+Negative,-1,-1,Leadership and transparency could be better
+Negative,-1,-1,no way to live your life
+Negative,-1,-1,putting one fire after another
+Negative,-1,-1,doesn't know
+Negative,-1,-1,know nuts
+Negative,-1,-1,open leg
+Negative,-1,-1,Unclear guidance
+Negative,-1,-1,difficult to stand
+Negative,-1,-1,Learned how not to work hard
+Negative,-1,-1,no way to network
+Negative,-1,-1,questionable managers
+Negative,-1,-1,doesn't look confident
+Negative,-1,-1,knows nothing
+Negative,-1,-1,or for herself
+Negative,-1,-1,uncle like
+Negative,-1,-1,difficult to stand out
+Negative,-1,-1,learn't nothing
+Negative,-1,-1,no weekend holidays or vacations
+Negative,-1,-1,quite inexistant
+Negative,-1,-1,doesn't make you grow up
+Negative,-1,-1,kudos to opposition
+Negative,-1,-1,out-of-date technology
+Negative,-1,-1,under appreciated
+Negative,-1,-1,difficult to succeed
+Negative,-1,-1,least amount you're worth
+Negative,-1,-1,no weekend plans
+Negative,-1,-1,quite meaningless
+Negative,-1,-1,doesn't mean anything
+Negative,-1,-1,ku niangs
+Negative,-1,-1,out of jobs
+Negative,-1,-1,under market pay
+Negative,-1,-1,difficult to switch
+Negative,-1,-1,leave the firm
+Negative,-1,-1,no where near
+Negative,-1,-1,quite tiring
+Negative,-1,-1,doesn't mean u will do a good job
+Negative,-1,-1,lack of
+Negative,-1,-1,out of thin air
+Negative,-1,-1,under-paid
+Negative,-1,-1,difficult work like balance
+Negative,-1,-1,Less attractive incentives
+Negative,-1,-1,No work
+Negative,-1,-1,real day off
+Negative,-1,-1,doesn't understand
+Negative,-1,-1,lack of appropriate promotion
+Negative,-1,-1,Out u go
+Negative,-1,-1,under paid
+Negative,-1,-1,digressed significantly
+Negative,-1,-1,less benefits
+Negative,-1,-1,No work ethics
+Negative,-1,-1,reates a gap
+Negative,-1,-1,dog eat dog
+Negative,-1,-1,lack of calibre
+Negative,-1,-1,over budget
+Negative,-1,-1,unexpected travel
+Negative,-1,-1,diminishing return
+Negative,-1,-1,Less bonuses
+Negative,-1,-1,no workers satisfaction
+Negative,-1,-1,red tape
+Negative,-1,-1,do groundwork before come out
+Negative,-1,-1,lack of class
+Negative,-1,-1,over looked
+Negative,-1,-1,unlawful activities
+Negative,-1,-1,do not actually trickle down
+Negative,-1,-1,less desirable
+Negative,-1,-1,no work-life balance
+Negative,-1,-1,Reduction in benefits
+Negative,-1,-1,dog shit
+Negative,-1,-1,lack of conviction and determination
+Negative,-1,-1,overly optimistic
+Negative,-1,-1,unmotivated people
+Negative,-1,-1,do not carry enough
+Negative,-1,-1,less experienced people
+Negative,-1,-1,No work-life balance or flexibility
+Negative,-1,-1,revolving door concept
+Negative,-1,-1,do homework
+Negative,-1,-1,lack of documentation
+Negative,-1,-1,over-worked
+Negative,-1,-1,unnecessary hoohas
+Negative,-1,-1,do not communicate clearly
+Negative,-1,-1,less fair
+Negative,-1,-1,no work-like balance
+Negative,-1,-1,ridged silos
+Negative,-1,-1,don;t have
+Negative,-1,-1,Lack of experience
+Negative,-1,-1,over worked
+Negative,-1,-1,unwilling to come clean
+Negative,-1,-1,do not expect
+Negative,-1,-1,less flexibility
+Negative,-1,-1,nobody will notice
+Negative,-1,-1,ridiculously mean
+Negative,-1,-1,don't have
+Negative,-1,-1,lack of sleep
+Negative,-1,-1,own claims
+Negative,-1,-1,use it wisely
+Negative,-1,-1,do not expect a good bonus
+Negative,-1,-1,Less flexible
+Negative,-1,-1,noise of other disgruntled
+Negative,-1,-1,rigid progression
+Negative,-1,-1,don;t just talk
+Negative,-1,-1,lack of transparency
+Negative,-1,-1,own pocket
+Negative,-1,-1,use more us
+Negative,-1,-1,do not expect work life balance
+Negative,-1,-1,Less Holidays
+Negative,-1,-1,noncompetitive salary
+Negative,-1,-1,sacrifice long Hours
+Negative,-1,-1,don't just talk
+Negative,-1,-1,lacks credible
+Negative,-1,-1,paid is behind
+Negative,-1,-1,use to be good
+Negative,-1,-1,do not get in the way
+Negative,-1,-1,less important
+Negative,-1,-1,None
+Negative,-1,-1,sacrifices are plenty
+Negative,-1,-1,don even dare
+Negative,-1,-1,lacks honesting
+Negative,-1,-1,PAP bully you
+Negative,-1,-1,very concerned
+Negative,-1,-1,do not get to pick
+Negative,-1,-1,Less likely to be appreciated
+Negative,-1,-1,none of the associates were happy
+Negative,-1,-1,Salary is less
+Negative,-1,-1,done your homework
+Negative,-1,-1,lack teamwork
+Negative,-1,-1,paper general
+Negative,-1,-1,very defensive
+Negative,-1,-1,do not have a work life balance
+Negative,-1,-1,less opportunities
+Negative,-1,-1,non-existent
+Negative,-1,-1,satisfaction will depend
+Negative,-1,-1,do not even know
+Negative,-1,-1,lap dog
+Negative,-1,-1,PAP sinks
+Negative,-1,-1,very desperate
+Negative,-1,-1,do not justify
+Negative,-1,-1,less organization support
+Negative,-1,-1,not a consideration
+Negative,-1,-1,savvy politician
+Negative,-1,-1,do not have
+Negative,-1,-1,last min
+Negative,-1,-1,pays little
+Negative,-1,-1,very disappointed
+Negative,-1,-1,do not really put themselves
+Negative,-1,-1,less pay package
+Negative,-1,-1,not a deal breaker
+Negative,-1,-1,screw up
+Negative,-1,-1,do not mentor
+Negative,-1,-1,laying off
+Negative,-1,-1,pay little
+Negative,-1,-1,very hard to integrate
+Negative,-1,-1,do not support the empty rhetoric
+Negative,-1,-1,less salary
+Negative,-1,-1,not a fan of the politics
+Negative,-1,-1,Screwing up
+Negative,-1,-1,do not want you
+Negative,-1,-1,lay off
+Negative,-1,-1,pays very little
+Negative,-1,-1,very high pay
+Negative,-1,-1,do not value
+Negative,-1,-1,less than working
+Negative,-1,-1,not a good thing
+Negative,-1,-1,seldom matched
+Negative,-1,-1,don't always blame others
+Negative,-1,-1,lazy bums
+Negative,-1,-1,pay very little
+Negative,-1,-1,very one sided
+Negative,-1,-1,Do till you die
+Negative,-1,-1,less time for personal commitments
+Negative,-1,-1,Not a great option
+Negative,-1,-1,sell and squeeze you out
+Negative,-1,-1,don't benefitted
+Negative,-1,-1,leadership failure
+Negative,-1,-1,people voices
+Negative,-1,-1,very partner driven
+Negative,-1,-1,does not address employee issues
+Negative,-1,-1,less time to breath
+Negative,-1,-1,not a high priority
+Negative,-1,-1,sell your soul
+Negative,-1,-1,dont care
+Negative,-1,-1,legal corruption
+Negative,-1,-1,petty arguments
+Negative,-1,-1,very tired
+Negative,-1,-1,does not allow
+Negative,-1,-1,less training
+Negative,-1,-1,not a lot of room
+Negative,-1,-1,seriously flawed
+Negative,-1,-1,don't care about you
+Negative,-1,-1,Less of
+Negative,-1,-1,pick cardboard
+Negative,-1,-1,vote against
+Negative,-1,-1,does not care
+Negative,-1,-1,life ending stress
+Negative,-1,-1,not a place for work life balance
+Negative,-1,-1,should be improved
+Negative,-1,-1,don't come
+Negative,-1,-1,Less of a team
+Negative,-1,-1,picking cardboards
+Negative,-1,-1,Vote all out
+Negative,-1,-1,does not come close
+Negative,-1,-1,like robots
+Negative,-1,-1,Not a place for working mother
+Negative,-1,-1,should be provided
+Negative,-1,-1,don't come back
+Negative,-1,-1,less sensible than her
+Negative,-1,-1,pinch of salt
+Negative,-1,-1,vote all the WP jokers out
+Negative,-1,-1,does not do enough to fill in gaps
+Negative,-1,-1,like slavery
+Negative,-1,-1,not a place to work
+Negative,-1,-1,should come with good
+Negative,-1,-1,don't come back
+Negative,-1,-1,less transparent
+Negative,-1,-1,pissed off
+Negative,-1,-1,voted out
+Negative,-1,-1,does not have an up-or-out structure
+Negative,-1,-1,like they are in middle school
+Negative,-1,-1,Not a tightly run operation
+Negative,-1,-1,should get their feet wet
+Negative,-1,-1,don't deserved
+Negative,-1,-1,lets see how long
+Negative,-1,-1,play acting
+Negative,-1,-1,vote for pap
+Negative,-1,-1,does not have any idea
+Negative,-1,-1,limit agility
+Negative,-1,-1,Not a very lucrative experience
+Negative,-1,-1,Should improve
+Negative,-1,-1,don't deserve us
+Negative,-1,-1,liao liao
+Negative,-1,-1,playing dirty
+Negative,-1,-1,vote LHL out
+Negative,-1,-1,does not have the reputation
+Negative,-1,-1,limit exit opportunities
+Negative,-1,-1,not accessible
+Negative,-1,-1,should pay more
+Negative,-1,-1,Don't even have the confidence
+Negative,-1,-1,licking dogs
+Negative,-1,-1,please help
+Negative,-1,-1,vote out
+Negative,-1,-1,does not justify hours
+Negative,-1,-1,limit future opportunities
+Negative,-1,-1,not acted upon
+Negative,-1,-1,significant flaw
+Negative,-1,-1,don't even try
+Negative,-1,-1,like cattle
+Negative,-1,-1,please lah
+Negative,-1,-1,vote PAP
+Negative,-1,-1,does not listen
+Negative,-1,-1,limited advancement
+Negative,-1,-1,not adequately compensated
+Negative,-1,-1,significant time commitments
+Negative,-1,-1,don't fully practice
+Negative,-1,-1,like a dog
+Negative,-1,-1,please no no
+Negative,-1,-1,vote them out
+Negative,-1,-1,does not make sense
+Negative,-1,-1,Limited change
+Negative,-1,-1,not adequately supervised
+Negative,-1,-1,significantly higher stress 
+Negative,-1,-1,don't have the support
+Negative,-1,-1,limited advancement opportunities
+Negative,-1,-1,please step down
+Negative,-1,-1,vote the WP out
+Negative,-1,-1,does not match
+Negative,-1,-1,limited development
+Negative,-1,-1,not aligned with right partner
+Negative,-1,-1,significantly less
+Negative,-1,-1,don't have to say out loud
+Negative,-1,-1,limited opportunities
+Negative,-1,-1,Pls don't use
+Negative,-1,-1,vote u out
+Negative,-1,-1,does not measure
+Negative,-1,-1,Limited exposure
+Negative,-1,-1,not always a team environment
+Negative,-1,-1,siphoned off
+Negative,-1,-1,don't hear or see
+Negative,-1,-1,limited quality
+Negative,-1,-1,pls leave
+Negative,-1,-1,vote WP out
+Negative,-1,-1,does not pay as well as other elite firms
+Negative,-1,-1,limited flexibility
+Negative,-1,-1,not always acknowledged
+Negative,-1,-1,slanted toward
+Negative,-1,-1,don't juz talk
+Negative,-1,-1,lip service
+Negative,-1,-1,pls not
+Negative,-1,-1,vote you guys out
+Negative,-1,-1,does not promote as quickly
+Negative,-1,-1,Limited industries
+Negative,-1,-1,not always based on performance
+Negative,-1,-1,slow the process significantly
+Negative,-1,-1,don't know
+Negative,-1,-1,listen and learn
+Negative,-1,-1,poisonous mushroom
+Negative,-1,-1,wagging tails
+Negative,-1,-1,does not provide
+Negative,-1,-1,limited interaction
+Negative,-1,-1,not always on the bleeding edge
+Negative,-1,-1,slow to uptake
+Negative,-1,-1,don't know anytin
+Negative,-1,-1,little opportunity
+Negative,-1,-1,politically motivated
+Negative,-1,-1,wake up
+Negative,-1,-1,does not reflect
+Negative,-1,-1,limited number of people
+Negative,-1,-1,not always qualified
+Negative,-1,-1,small office
+Negative,-1,-1,don't know what she's doing
+Negative,-1,-1,live in glass houses shall nott hrow stones
+Negative,-1,-1,politician or beauty pegeant
+Negative,-1,-1,wake up lah
+Negative,-1,-1,does not respond on time
+Negative,-1,-1,limited pay
+Negative,-1,-1,not always recognized
+Negative,-1,-1,so long hours
+Negative,-1,-1,don't like to talk to them
+Negative,-1,-1,living in wonderland
+Negative,-1,-1,poor leadership
+Negative,-1,-1,wake your brain
+Negative,-1,-1,does not support
+Negative,-1,-1,limited perks
+Negative,-1,-1,not always the key
+Negative,-1,-1,so many problems
+Negative,-1,-1,don't listen to
+Negative,-1,-1,lock up
+Negative,-1,-1,poor man's
+Negative,-1,-1,walao aye
+Negative,-1,-1,doesn't allow
+Negative,-1,-1,Limited positive feedback
+Negative,-1,-1,not always the most stimulating work
+Negative,-1,-1,solely rewarded
+Negative,-1,-1,long hours
+Negative,-1,-1,long hour
+Negative,-1,-1,pose nudity
+Negative,-1,-1,wa lau
+Negative,-1,-1,doesn't care
+Negative,-1,-1,limited quality staff
+Negative,-1,-1,not always the reality
+Negative,-1,-1,soul-sucking
+Negative,-1,-1,don't reply
+Negative,-1,-1,long hour
+Negative,-1,-1,postponing payments
+Negative,-1,-1,walkover constituency
+Negative,-1,-1,doesn't communicate
+Negative,-1,-1,Limited variable compensation
+Negative,-1,-1,not an easy job
+Negative,-1,-1,spent lots of time
+Negative,-1,-1,don't sing praises
+Negative,-1,-1,pot calling the kettle black
+Negative,-1,-1,warped logic
+Negative,-1,-1,doesn't deliver
+Negative,-1,-1,limited work like balance
+Negative,-1,-1,Not an ideal job
+Negative,-1,-1,spread false rumors
+Negative,-1,-1,don't subscribe
+Negative,-1,-1,long Q
+Negative,-1,-1,Pray not like
+Negative,-1,-1,was hoping
+Negative,-1,-1,doesn't even come close
+Negative,-1,-1,little ability
+Negative,-1,-1,not an interesting job
+Negative,-1,-1,Stay away
+Negative,-1,-1,Don't talk first
+Negative,-1,-1,long time for the police to take action
+Negative,-1,-1,pressure to eat hours
+Negative,-1,-1,wasn't convince
+Negative,-1,-1,doesn't get easier
+Negative,-1,-1,little appreciation
+Negative,-1,-1,Not an open culture
+Negative,-1,-1,stiff you on money
+Negative,-1,-1,don't tell
+Negative,-1,-1,look at her
+Negative,-1,-1,pretend cannot hear
+Negative,-1,-1,wasted of resources
+Negative,-1,-1,doesn't include a co-pay
+Negative,-1,-1,Little benefit
+Negative,-1,-1,Not applicable at this time
+Negative,-1,-1,Stodgy culture
+Negative,-1,-1,don't think so
+Negative,-1,-1,looked down on
+Negative,-1,-1,pretend cannot hera
+Negative,-1,-1,waste of our time
+Negative,-1,-1,Doesn't make sense
+Negative,-1,-1,little better
+Negative,-1,-1,not appreciated
+Negative,-1,-1,stringent regulatory environment
+Negative,-1,-1,don't understand
+Negative,-1,-1,look in the mirror
+Negative,-1,-1,pretend cannot see
+Negative,-1,-1,waste of time
+Negative,-1,-1,doesn't meet your goals
+Negative,-1,-1,little consulting
+Negative,-1,-1,not appropriately allocated
+Negative,-1,-1,stuck and lack
+Negative,-1,-1,don't vote
+Negative,-1,-1,look like mr.bean
+Negative,-1,-1,pretty dumb
+Negative,-1,-1,waste tax payer money
+Negative,-1,-1,doesn't offer enough money
+Negative,-1,-1,little correlation to annual reviews
+Negative,-1,-1,Not as committed as a practice
+Negative,-1,-1,Stuck in their ways
+Negative,-1,-1,don't vote
+Negative,-1,-1,look like passerby
+Negative,-1,-1,prices go up
+Negative,-1,-1,waste time
+Negative,-1,-1,doesn't pay much
+Negative,-1,-1,little disappointed
+Negative,-1,-1,not as equitable
+Negative,-1,-1,stupid task
+Negative,-1,-1,don't want
+Negative,-1,-1,look more like
+Negative,-1,-1,prices keep on rising
+Negative,-1,-1,waste your precious time
+Negative,-1,-1,doesn't realize
+Negative,-1,-1,little flexibility
+Negative,-1,-1,not as many short-term strategy
+Negative,-1,-1,such a joke
+Negative,-1,-1,do something
+Negative,-1,-1,lose lose
+Negative,-1,-1,prices shoot rocket
+Negative,-1,-1,waste your time
+Negative,-1,-1,doesn't resonate
+Negative,-1,-1,Little free time
+Negative,-1,-1,not as merit 
+Negative,-1,-1,suck the juice out
+Negative,-1,-1,double standards
+Negative,-1,-1,lose lots of votes
+Negative,-1,-1,propose the fare
+Negative,-1,-1,wasting their time
+Negative,-1,-1,doesn't reward effectiveness
+Negative,-1,-1,Little growth opportunity
+Negative,-1,-1,Not as much room for growth
+Negative,-1,-1,sucking up
+Negative,-1,-1,dream of the day when pap is not the government
+Negative,-1,-1,lose more
+Negative,-1,-1,prove it's real
+Negative,-1,-1,wayang party
+Negative,-1,-1,Doesn't take a smart person
+Negative,-1,-1,Little guidance
+Negative,-1,-1,not as nimble
+Negative,-1,-1,sucks big time
+Negative,-1,-1,0 contributions
+Negative,-1,-1,dream on
+Negative,-1,-1,lose your pants
+Negative,-1,-1,prove us first
+Negative,-1,-1,weak controls
+Negative,-1,-1,don't deliver
+Negative,-1,-1,little help
+Negative,-1,-1,Not as prestigious
+Negative,-1,-1,sucks life
+Negative,-1,-1,100 slides
+Negative,-1,-1,dress up correctly
+Negative,-1,-1,losing face
+Negative,-1,-1,provide us Zero
+Negative,-1,-1,weaken the controls
+Negative,-1,-1,don't actually contribute
+Negative,-1,-1,little incentive
+Negative,-1,-1,not balanced
+Negative,-1,-1,super stressed
+Negative,-1,-1,1 night stand
+Negative,-1,-1,drinking shit water
+Negative,-1,-1,lost 36 millions
+Negative,-1,-1,Pullout? Look stupid
+Negative,-1,-1,wear until like that
+Negative,-1,-1,Don't always get ideal
+Negative,-1,-1,little pay
+Negative,-1,-1,not balanced.
+Negative,-1,-1,take much longer than exptected
+Negative,-1,-1,1 to 1
+Negative,-1,-1,dubious integrity
+Negative,-1,-1,lost all
+Negative,-1,-1,push myself
+Negative,-1,-1,we become labourers
+Negative,-1,-1,don't appreciate loyalty
+Negative,-1,-1,little respect
+Negative,-1,-1,not based on contribution
+Negative,-1,-1,take up to several hours 
+Negative,-1,-1,2015 version
+Negative,-1,-1,due for change
+Negative,-1,-1,lost half of the battle
+Negative,-1,-1,raise from taxpayer money
+Negative,-1,-1,we don't want you
+Negative,-1,-1,don't back them up
+Negative,-1,-1,little reward
+Negative,-1,-1,not based on individual
+Negative,-1,-1,talk behind each others backs
+Negative,-1,-1,2 million bonus
+Negative,-1,-1,dun have to fight
+Negative,-1,-1,lot of political 
+Negative,-1,-1,raising the cost
+Negative,-1,-1,we want
+Negative,-1,-1,dont be surprised
+Negative,-1,-1,little skewed
+Negative,-1,-1,not be able to switch
+Negative,-1,-1,tend to leave
+Negative,-1,-1,3rd class efficiency
+Negative,-1,-1,dun listen
+Negative,-1,-1,love to brag
+Negative,-1,-1,rather hv a new team
+Negative,-1,-1,what a joke
+Negative,-1,-1,don't care
+Negative,-1,-1,little time
+Negative,-1,-1,not be helpful
+Negative,-1,-1,tend to sell assessment project
+Negative,-1,-1,about zouk
+Negative,-1,-1,dunno hot to manage
+Negative,-1,-1,low bonus
+Negative,-1,-1,rat sperm
+Negative,-1,-1,what a retard
+Negative,-1,-1,don't exactly reflect
+Negative,-1,-1,little time for anything
+Negative,-1,-1,not be local
+Negative,-1,-1,throw someone under
+Negative,-1,-1,act blur
+Negative,-1,-1,dunno how to manage
+Negative,-1,-1,low class
+Negative,-1,-1,real bimbo
+Negative,-1,-1,what? do?
+Negative,-1,-1,don't expect to enjoy
+Negative,-1,-1,little time off
+Negative,-1,-1,not be necessarily
+Negative,-1,-1,throw you under
+Negative,-1,-1,act fierce only
+Negative,-1,-1,dun sound confident
+Negative,-1,-1,lower level of bonus
+Negative,-1,-1,real joker
+Negative,-1,-1,what does he know
+Negative,-1,-1,Don't feel appreciated
+Negative,-1,-1,little upward feedback
+Negative,-1,-1,not being open to change
+Negative,-1,-1,thrown out
+Negative,-1,-1,action plse
+Negative,-1,-1,dun understd
+Negative,-1,-1,low IQ
+Negative,-1,-1,Really sad*
+Negative,-1,-1,what do you think
+Negative,-1,-1,don't fit in
+Negative,-1,-1,live out of a suitcase
+Negative,-1,-1,not being paid or recognized
+Negative,-1,-1,Time commitment
+Negative,-1,-1,add on to tax payer
+Negative,-1,-1,dwell over the past success
+Negative,-1,-1,low paid
+Negative,-1,-1,really? Take a try
+Negative,-1,-1,what for
+Negative,-1,-1,don't get any time off
+Negative,-1,-1,living out of a suitcase
+Negative,-1,-1,not being that much
+Negative,-1,-1,time commitment is substantial
+Negative,-1,-1,administrative red tape
+Negative,-1,-1,dwell over the psat success
+Negative,-1,-1,low pay
+Negative,-1,-1,recruit FT
+Negative,-1,-1,what have they done
+Negative,-1,-1,don't get fairly compensated
+Negative,-1,-1,loads of work
+Negative,-1,-1,not billable
+Negative,-1,-1,time consuming
+Negative,-1,-1,affect her
+Negative,-1,-1,easier said
+Negative,-1,-1,low pay 
+Negative,-1,-1,reduce your opportunities
+Negative,-1,-1,what in the world is going on
+Negative,-1,-1,don't get the raise
+Negative,-1,-1,long commutes
+Negative,-1,-1,not care about people
+Negative,-1,-1,times are tough
+Negative,-1,-1,affecting her
+Negative,-1,-1,easy to get lost
+Negative,-1,-1,low standard
+Negative,-1,-1,reflect upon ourselves
+Negative,-1,-1,what is the difference
+Negative,-1,-1,don't have much of a future
+Negative,-1,-1,Long interview process
+Negative,-1,-1,not challenging
+Negative,-1,-1,timing deadline
+Negative,-1,-1,affecting herself
+Negative,-1,-1,easy to say
+Negative,-1,-1,make him retire
+Negative,-1,-1,refuse to admit deficiencies
+Negative,-1,-1,what is this
+Negative,-1,-1,don't have work/life balance
+Negative,-1,-1,long time to be implemented
+Negative,-1,-1,Not client or sales oriented
+Negative,-1,-1,tons of travel
+Negative,-1,-1,after all these years
+Negative,-1,-1,eat snake
+Negative,-1,-1,makes absolutely no sense
+Negative,-1,-1,refuse to answer question in Parliament
+Negative,-1,-1,what is your problem
+Negative,-1,-1,don't know how to manage
+Negative,-1,-1,long way to go
+Negative,-1,-1,not commensurate
+Negative,-1,-1,Tons of work
+Negative,-1,-1,against the people
+Negative,-1,-1,election or ms pegeant
+Negative,-1,-1,make them resign
+Negative,-1,-1,refuse to face reality
+Negative,-1,-1,what she knows
+Negative,-1,-1,don't know how to navigate
+Negative,-1,-1,long working hours
+Negative,-1,-1,not comparable
+Negative,-1,-1,too authentic
+Negative,-1,-1,Aggressive environment
+Negative,-1,-1,Emperor's New Clothes
+Negative,-1,-1,make you believe
+Negative,-1,-1,remove him
+Negative,-1,-1,what's the difference
+Negative,-1,-1,don't know what they are talking
+Negative,-1,-1,longer promotion schedule
+Negative,-1,-1,not consistent
+Negative,-1,-1,too concerned with their own importance
+Negative,-1,-1,AIM saga
+Negative,-1,-1,empty promise
+Negative,-1,-1,making a nuisance
+Negative,-1,-1,reserve depleted
+Negative,-1,-1,whats the point
+Negative,-1,-1,dont like
+Negative,-1,-1,lose a lot of good
+Negative,-1,-1,not consistently
+Negative,-1,-1,Too conservative
+Negative,-1,-1,airy talk
+Negative,-1,-1,empty promises
+Negative,-1,-1,making him
+Negative,-1,-1,right hand pocket to left
+Negative,-1,-1,what's the use
+Negative,-1,-1,don't listen
+Negative,-1,-1,loses it's meritocracy
+Negative,-1,-1,not covered
+Negative,-1,-1,too expensive
+Negative,-1,-1,empty vessel
+Negative,-1,-1,rising transport costs
+Negative,-1,-1,what's the use?
+Negative,-1,-1,don't look for position
+Negative,-1,-1,lost in the shuffle
+Negative,-1,-1,not defined
+Negative,-1,-1,too hectic
+Negative,-1,-1,a little too siloed
+Negative,-1,-1,end a career
+Negative,-1,-1,mega high salary
+Negative,-1,-1,roll eyes
+Negative,-1,-1,what was contribution
+Negative,-1,-1,don't plan
+Negative,-1,-1,lot of control
+Negative,-1,-1,not develop any expertise
+Negative,-1,-1,too many hours
+Negative,-1,-1,all about me
+Negative,-1,-1,endless debt
+Negative,-1,-1,messed up
+Negative,-1,-1,rolls eyes
+Negative,-1,-1,where got enough
+Negative,-1,-1,don't really feel like you're appreciated
+Negative,-1,-1,lot of executive
+Negative,-1,-1,not earned
+Negative,-1,-1,too much
+Negative,-1,-1,all are greedy
+Negative,-1,-1,Everybody knows that
+Negative,-1,-1,mess up
+Negative,-1,-1,run beauty contest
+Negative,-1,-1,where is yr brain
+Negative,-1,-1,don't seem happy
+Negative,-1,-1,lot of focuses
+Negative,-1,-1,not easy
+Negative,-1,-1,too much administrative
+Negative,-1,-1,all I hear is issue
+Negative,-1,-1,everyone is there to gain something
+Negative,-1,-1,might have
+Negative,-1,-1,running away
+Negative,-1,-1,white saliva
+Negative,-1,-1,don't treat you well
+Negative,-1,-1,lot of friction
+Negative,-1,-1,not efficient
+Negative,-1,-1,too much asskissing
+Negative,-1,-1,al little
+Negative,-1,-1,everything should be easy to solve
+Negative,-1,-1,miles ahead
+Negative,-1,-1,running in deficit
+Negative,-1,-1,who you work for that decides your raise or bonus
+Negative,-1,-1,double talk
+Negative,-1,-1,lot of politics
+Negative,-1,-1,Not enough appreciation
+Negative,-1,-1,too much bureaucracy
+Negative,-1,-1,all rubbish
+Negative,-1,-1,extremely annoy
+Negative,-1,-1,milk the system
+Negative,-1,-1,running miss singapore
+Negative,-1,-1,why bother
+Negative,-1,-1,dull moment
+Negative,-1,-1,lot of rush
+Negative,-1,-1,Not enough diversity
+Negative,-1,-1,too much emphasis
+Negative,-1,-1,all shoot her liao
+Negative,-1,-1,extremely concerned
+Negative,-1,-1,Minimal salary raise
+Negative,-1,-1,sacrificial lamb
+Negative,-1,-1,why does she
+Negative,-1,-1,easily feel lost
+Negative,-1,-1,lot of sacrifices
+Negative,-1,-1,Not enough focus
+Negative,-1,-1,too much travel
+Negative,-1,-1,all talk and no action
+Negative,-1,-1,extremely disappointing
+Negative,-1,-1,misleading information
+Negative,-1,-1,sad day
+Negative,-1,-1,why does she?
+Negative,-1,-1,easy to feel lost
+Negative,-1,-1,lot of work
+Negative,-1,-1,not enough information
+Negative,-1,-1,tough hours 
+Negative,-1,-1,a lot to do
+Negative,-1,-1,eyeing a share
+Negative,-1,-1,misses the opportunity
+Negative,-1,-1,safe his own arse
+Negative,-1,-1,why do you even bother
+Negative,-1,-1,efficiency doesn't matter
+Negative,-1,-1,lot to be desired
+Negative,-1,-1,not enough mentoring
+Negative,-1,-1,travel is excess
+Negative,-1,-1,already lost
+Negative,-1,-1,eye powering
+Negative,-1,-1,missing the woods for the tree
+Negative,-1,-1,same wages
+Negative,-1,-1,"efforts with ""bad behavior"""
+Negative,-1,-1,lots of control
+Negative,-1,-1,Not enough money
+Negative,-1,-1,travel is excessive
+Negative,-1,-1,fail us
+Negative,-1,-1,monopolizing opportunities
+Negative,-1,-1,save his own arse
+Negative,-1,-1,why should
+Negative,-1,-1,end up having nothing
+Negative,-1,-1,lots of executive
+Negative,-1,-1,not enough pay
+Negative,-1,-1,travel is extensive
+Negative,-1,-1,angkat bodeh
+Negative,-1,-1,fake degree
+Negative,-1,-1,more cleavage
+Negative,-1,-1,save it
+Negative,-1,-1,why use
+Negative,-1,-1,everyone just does mediocre
+Negative,-1,-1,lots of focuses
+Negative,-1,-1,not enough people
+Negative,-1,-1,travel sucks
+Negative,-1,-1,animal farm
+Negative,-1,-1,fall apart
+Negative,-1,-1,more concerned about herself
+Negative,-1,-1,say no
+Negative,-1,-1,wihtout using your brain
+Negative,-1,-1,exceedingly hard
+Negative,-1,-1,lots of friction
+Negative,-1,-1,not enough practical experience
+Negative,-1,-1,treat you like second class citizens
+Negative,-1,-1,another bimbo
+Negative,-1,-1,fare increase
+Negative,-1,-1,more convincing
+Negative,-1,-1,say only
+Negative,-1,-1,will never achieve
+Negative,-1,-1,excessive travelling
+Negative,-1,-1,lots of health issue
+Negative,-1,-1,not enough pressure
+Negative,-1,-1,treated as 2nd class
+Negative,-1,-1,any auntie
+Negative,-1,-1,far far away
+Negative,-1,-1,mr moo moo
+Negative,-1,-1,scape goat
+Negative,-1,-1,will never treat us like that
+Negative,-1,-1,Expect to work a lot
+Negative,-1,-1,lots of hours
+Negative,-1,-1,Not enough resources
+Negative,-1,-1,treated as second class
+Negative,-1,-1,far from excessive
+Negative,-1,-1,much better than her
+Negative,-1,-1,school boy
+Negative,-1,-1,will not survive
+Negative,-1,-1,expectation is high
+Negative,-1,-1,Lots of mandatory networking
+Negative,-1,-1,Not enough staff
+Negative,-1,-1,treated like a cog
+Negative,-1,-1,anyhow spend
+Negative,-1,-1,fatal error
+Negative,-1,-1,must change
+Negative,-1,-1,screwed up
+Negative,-1,-1,wishful thoughts
+Negative,-1,-1,expectations are high
+Negative,-1,-1,lots of politics
+Negative,-1,-1,Not enough training
+Negative,-1,-1,treated like robots
+Negative,-1,-1,are cons
+Negative,-1,-1,fcuk out
+Negative,-1,-1,must go
+Negative,-1,-1,screw things up
+Negative,-1,-1,wishy washy
+Negative,-1,-1,expected to work late
+Negative,-1,-1,Lots of process
+Negative,-1,-1,not every one is fairly treated
+Negative,-1,-1,treating like slaves
+Negative,-1,-1,are u stupid
+Negative,-1,-1,fear mongering
+Negative,-1,-1,must know
+Negative,-1,-1,secondary school student
+Negative,-1,-1,without any great ideas
+Negative,-1,-1,extensive trave
+Negative,-1,-1,lots of rush
+Negative,-1,-1,Not everyone's engaged
+Negative,-1,-1,trivial task
+Negative,-1,-1,articulation problem
+Negative,-1,-1,fear tactic
+Negative,-1,-1,must stop
+Negative,-1,-1,second class citizens
+Negative,-1,-1,without being compensated
+Negative,-1,-1,extensive travel
+Negative,-1,-1,lots of sacrifices
+Negative,-1,-1,not exception
+Negative,-1,-1,turn out to be much less
+Negative,-1,-1,as if
+Negative,-1,-1,fed up
+Negative,-1,-1,my children will not have a good future
+Negative,-1,-1,second-class employees
+Negative,-1,-1,without calling
+Negative,-1,-1,extremely bad
+Negative,-1,-1,lots of smoke and mirrors
+Negative,-1,-1,not factored
+Negative,-1,-1,turn over
+Negative,-1,-1,asked for it
+Negative,-1,-1,Fed up with
+Negative,-1,-1,my foot
+Negative,-1,-1,without competition
+Negative,-1,-1,extremely monotonous
+Negative,-1,-1,Lots of talking
+Negative,-1,-1,not fast enough
+Negative,-1,-1,turn some people off
+Negative,-1,-1,as long as it not
+Negative,-1,-1,feel lost
+Negative,-1,-1,nabe cb
+Negative,-1,-1,see how good you really arh
+Negative,-1,-1,without confident
+Negative,-1,-1,extremely political
+Negative,-1,-1,Lots of work
+Negative,-1,-1,Not finding anything
+Negative,-1,-1,unable to motivate
+Negative,-1,-1,as long as its not
+Negative,-1,-1,fewer me
+Negative,-1,-1,nah jokes
+Negative,-1,-1,see what happened
+Negative,-1,-1,without using your brain
+Negative,-1,-1,extremely stressful
+Negative,-1,-1,low morale
+Negative,-1,-1,not for everyone
+Negative,-1,-1,unachievable expectations
+Negative,-1,-1,at stake
+Negative,-1,-1,fight for
+Negative,-1,-1,name calling
+Negative,-1,-1,self interest
+Negative,-1,-1,won't let you
+Negative,-1,-1,fail to recognizing
+Negative,-1,-1,low tolerance to uncertainty
+Negative,-1,-1,not free enough to develop
+Negative,-1,-1,Unclear pathways
+Negative,-1,-1,attract uncle lah
+Negative,-1,-1,fight for themsleves not singapore
+Negative,-1,-1,natural aristocracy
+Negative,-1,-1,selling eye candies 
+Negative,-1,-1,won't understand
+Negative,-1,-1,failed to recognize
+Negative,-1,-1,low utilization
+Negative,-1,-1,not frequent
+Negative,-1,-1,under market
+Negative,-1,-1,bad choice leh
+Negative,-1,-1,finally appear
+Negative,-1,-1,nearly impossible to win back
+Negative,-1,-1,sell soul
+Negative,-1,-1,work against you
+Negative,-1,-1,fails to capture some important
+Negative,-1,-1,lower job satisfaction
+Negative,-1,-1,not frequent enough
+Negative,-1,-1,under -staffed
+Negative,-1,-1,bad habit
+Negative,-1,-1,financial deficit
+Negative,-1,-1,need an alternative
+Negative,-1,-1,seriously concerned
+Negative,-1,-1,working at a sweatshop
+Negative,-1,-1,fake co-workers
+Negative,-1,-1,lower job stability
+Negative,-1,-1,not gain any skills
+Negative,-1,-1,under utilized
+Negative,-1,-1,bad luck
+Negative,-1,-1,finding fault
+Negative,-1,-1,need maturity
+Negative,-1,-1,serve for money
+Negative,-1,-1,working in pub
+Negative,-1,-1,Fake policies
+Negative,-1,-1,lower professional respect
+Negative,-1,-1,not get an opportunity
+Negative,-1,-1,Underperformers
+Negative,-1,-1,be accountable
+Negative,-1,-1,first time
+Negative,-1,-1,needs to be
+Negative,-1,-1,shag from listening to her words
+Negative,-1,-1,working in pub or club
+Negative,-1,-1,fall behind
+Negative,-1,-1,make sacrifices
+Negative,-1,-1,not getting any skills/knowledge
+Negative,-1,-1,undervalued
+Negative,-1,-1,bear in mind
+Negative,-1,-1,fix the opposition
+Negative,-1,-1,needs to be competitive
+Negative,-1,-1,shake head
+Negative,-1,-1,work less
+Negative,-1,-1,fall through the cracks
+Negative,-1,-1,many sacrifices
+Negative,-1,-1,not given a lot of guidance
+Negative,-1,-1,unethical behavior
+Negative,-1,-1,beat about the bush
+Negative,-1,-1,flying high rate
+Negative,-1,-1,needs to be more competitive
+Negative,-1,-1,shame on you
+Negative,-1,-1,work life balance does not exist
+Negative,-1,-1,Falls quickly
+Negative,-1,-1,mass layoffs
+Negative,-1,-1,not going to meet requirements
+Negative,-1,-1,unfulfilling work
+Negative,-1,-1,beauty contestant
+Negative,-1,-1,follow blindly
+Negative,-1,-1,needs to change
+Negative,-1,-1,sharpened Japanese sword
+Negative,-1,-1,Work life balance is poor
+Negative,-1,-1,far from perfect
+Negative,-1,-1,massive strain
+Negative,-1,-1,not good compensation
+Negative,-1,-1,unhealthy lifestyles
+Negative,-1,-1,beauty pageant
+Negative,-1,-1,follow oppo candidates' backsides
+Negative,-1,-1,needs to get
+Negative,-1,-1,she couldn't
+Negative,-1,-1,work life balance no exist
+Negative,-1,-1,Favoratism seems pretty common
+Negative,-1,-1,massive wheel
+Negative,-1,-1,not have any
+Negative,-1,-1,Unofficial hierarchy
+Negative,-1,-1,become her personal issue
+Negative,-1,-1,forced curve
+Negative,-1,-1,needs to give better
+Negative,-1,-1,she elected
+Negative,-1,-1,work life balance not exist
+Negative,-1,-1,feel bit like zoo
+Negative,-1,-1,match is laughable
+Negative,-1,-1,not have much time
+Negative,-1,-1,unpredictable schedule
+Negative,-1,-1,becoming beauty pageant
+Negative,-1,-1,forget the purpose
+Negative,-1,-1,needs to improve
+Negative,-1,-1,she experiencing it
+Negative,-1,-1,Workload is very high
+Negative,-1,-1,Feel like a cog
+Negative,-1,-1,May not receive a project
+Negative,-1,-1,not hiring
+Negative,-1,-1,Unreal expectations
+Negative,-1,-1,below the belt
+Negative,-1,-1,for jiko peh
+Negative,-1,-1,never been so wrong
+Negative,-1,-1,she wasn't prepared
+Negative,-1,-1,Workload is high
+Negative,-1,-1,feel like a rather conservative
+Negative,-1,-1,meager result
+Negative,-1,-1,not ideal for parents
+Negative,-1,-1,unrealistic budgets
+Negative,-1,-1,be presentable
+Negative,-1,-1,for show
+Negative,-1,-1,never change
+Negative,-1,-1,shifting goalposts
+Negative,-1,-1,Workload high
+Negative,-1,-1,feel like a slave
+Negative,-1,-1,Mean fellows
+Negative,-1,-1,not in a clique
+Negative,-1,-1,unrealistic expectaions
+Negative,-1,-1,best actor
+Negative,-1,-1,for the public
+Negative,-1,-1,never lasted
+Negative,-1,-1,shooting his mouth
+Negative,-1,-1,work overtime
+Negative,-1,-1,feel like expendable widgets
+Negative,-1,-1,mean working machine
+Negative,-1,-1,not in line
+Negative,-1,-1,unrealistic expectations
+Negative,-1,-1,better rethink
+Negative,-1,-1,found out
+Negative,-1,-1,never make
+Negative,-1,-1,should ask them
+Negative,-1,-1,worse reputation
+Negative,-1,-1,feel sort of pressured
+Negative,-1,-1,mercy of the client
+Negative,-1,-1,not in place
+Negative,-1,-1,Unshaped firm
+Negative,-1,-1,beyond a reasonable
+Negative,-1,-1,free advertisement
+Negative,-1,-1,never mind the people
+Negative,-1,-1,should be chided
+Negative,-1,-1,would expect
+Negative,-1,-1,feels a bit not personable
+Negative,-1,-1,merit raises are small
+Negative,-1,-1,not increased
+Negative,-1,-1,Unstructured schedule
+Negative,-1,-1,big fat pay
+Negative,-1,-1,frequent breakdown
+Negative,-1,-1,never over
+Negative,-1,-1,should get
+Negative,-1,-1,wouldn't vote for party hopper
+Negative,-1,-1,feels like a jail sentence
+Negative,-1,-1,messaging doesn't match up with reality
+Negative,-1,-1,not in-tune
+Negative,-1,-1,unwanted expense
+Negative,-1,-1,big hole
+Negative,-1,-1,fuck tard
+Negative,-1,-1,never quite reocvered
+Negative,-1,-1,should go
+Negative,-1,-1,would rather
+Negative,-1,-1,feels like a sweat shop
+Negative,-1,-1,minimal bonuses
+Negative,-1,-1,not justify
+Negative,-1,-1,up or out culture
+Negative,-1,-1,big mouth
+Negative,-1,-1,full of lies
+Negative,-1,-1,never see
+Negative,-1,-1,should let
+Negative,-1,-1,wrong become right
+Negative,-1,-1,felt like an outsider in a club
+Negative,-1,-1,Minimal flexibility
+Negative,-1,-1,not keeping pace
+Negative,-1,-1,usually an issue
+Negative,-1,-1,big talks
+Negative,-1,-1,full of lies;
+Negative,-1,-1,never support
+Negative,-1,-1,should migrate
+Negative,-1,-1,wrong campaign
+Negative,-1,-1,fewer milestone awards
+Negative,-1,-1,minimal Promotional opportunities
+Negative,-1,-1,not learned in-depth
+Negative,-1,-1,valued less
+Negative,-1,-1,bimbo much
+Negative,-1,-1,funny persons
+Negative,-1,-1,next please
+Negative,-1,-1,should not
+Negative,-1,-1,wrong party
+Negative,-1,-1,fight for seat
+Negative,-1,-1,Minimal work life balance
+Negative,-1,-1,not manifesting
+Negative,-1,-1,very demanding
+Negative,-1,-1,blame other
+Negative,-1,-1,gana jiak
+Negative,-1,-1,nicole is much much better
+Negative,-1,-1,show more cleavage
+Negative,-1,-1,wrong role
+Negative,-1,-1,fire employees
+Negative,-1,-1,misfit
+Negative,-1,-1,Not meet international practice
+Negative,-1,-1,very gossipy
+Negative,-1,-1,bloody gutless
+Negative,-1,-1,generic issue
+Negative,-1,-1,nicole seah is much better
+Negative,-1,-1,show no mercy
+Negative,-1,-1,Wu Jian Dao
+Negative,-1,-1,firings do occur
+Negative,-1,-1,Misleading management
+Negative,-1,-1,not much advancement
+Negative,-1,-1,Very hard
+Negative,-1,-1,Blur King
+Negative,-1,-1,get left out
+Negative,-1,-1,no accountability
+Negative,-1,-1,show them some color
+Negative,-1,-1,Xiao Si Bo
+Negative,-1,-1,flexibility is preached
+Negative,-1,-1,more time consuming
+Negative,-1,-1,Not much at the moment
+Negative,-1,-1,very little
+Negative,-1,-1,bond to loose
+Negative,-1,-1,get lost
+Negative,-1,-1,No Action Talk Only
+Negative,-1,-1,shut down
+Negative,-1,-1,Yaya Papaya
+Negative,-1,-1,fluctuation in work
+Negative,-1,-1,most talented people tend to leave
+Negative,-1,-1,not much else
+Negative,-1,-1,very random
+Negative,-1,-1,bonuses small
+Negative,-1,-1,get off balance
+Negative,-1,-1,no backbone
+Negative,-1,-1,shut his mouth
+Negative,-1,-1,Yes man
+Negative,-1,-1,flying out of the windows
+Negative,-1,-1,much of workload
+Negative,-1,-1,Not much growth
+Negative,-1,-1,want to leave
+Negative,-1,-1,bonus is behind
+Negative,-1,-1,get rid of
+Negative,-1,-1,no better
+Negative,-1,-1,shut up
+Negative,-1,-1,Yes men
+Negative,-1,-1,fratty culture
+Negative,-1,-1,my pay was not increased
+Negative,-1,-1,not much interaction
+Negative,-1,-1,Wants to Retire
+Negative,-1,-1,bonus little
+Negative,-1,-1,getting squeezed 
+Negative,-1,-1,nobody cares
+Negative,-1,-1,sick and tired
+Negative,-1,-1,Zero work life balance
+Negative,-1,-1,frowned upon
+Negative,-1,-1,Nasty people
+Negative,-1,-1,not much more than that
+Negative,-1,-1,wasn't doing anything positive
+Negative,-1,-1,Boot licker
+Negative,-1,-1,give it a rest
+Negative,-1,-1,no brain
+Negative,-1,-1,sick of
+Negative,-1,-1,2nd class citizens
+Negative,-1,-1,Future is really unknown
+Negative,-1,-1,need an overhaul
+Negative,-1,-1,wasn't impressed
+Negative,-1,-1,break down
+Negative,-1,-1,give money to own ppl
+Negative,-1,-1,no changes
+Negative,-1,-1,si liao
+Negative,-1,-1,a big issue
+Negative,-1,-1,get caught
+Negative,-1,-1,need lot of training
+Negative,-1,-1,Not much time outside of work
+Negative,-1,-1,wasn't one that fostered cohesiveness
+Negative,-1,-1,break downs
+Negative,-1,-1,give up
+Negative,-1,-1,no clue
+Negative,-1,-1,Singaporean dogs
+Negative,-1,-1,a bit behind
+Negative,-1,-1,get caught in the cog
+Negative,-1,-1,need more project
+Negative,-1,-1,Not much work-life balance
+Negative,-1,-1,wasn't too impressed
+Negative,-1,-1,breaking down
+Negative,-1,-1,give you one chicken wing and later take back one whole chicken
+Negative,-1,-1,no competitive
+Negative,-1,-1,skill lacking
+Negative,-1,-1,a lot of hours
+Negative,-1,-1,get laid off
+Negative,-1,-1,Need more structure around project
+Negative,-1,-1,Not objective
+Negative,-1,-1,weak economy
+Negative,-1,-1,break up
+Negative,-1,-1,giving away
+Negative,-1,-1,no confidence
+Negative,-1,-1,sleeping co driver
+Negative,-1,-1,a lot of politics
+Negative,-1,-1,get paid half
+Negative,-1,-1,Need more training
+Negative,-1,-1,not on the level
+Negative,-1,-1,wear a person out
+Negative,-1,-1,brick wall
+Negative,-1,-1,go and fly kite
+Negative,-1,-1,no constructive proposal
+Negative,-1,-1,sleeping followers
+Negative,-1,-1,absolutely dull
+Negative,-1,-1,get pigoneholed
+Negative,-1,-1,need some attentation
+Negative,-1,-1,not open minded
+Negative,-1,-1,weren't treated well
+Negative,-1,-1,broke down
+Negative,-1,-1,go away
+Negative,-1,-1,no experience
+Negative,-1,-1,sleepy eyes
+Negative,-1,-1,advancement are minimal
+Negative,-1,-1,get screwed
+Negative,-1,-1,Need to be good
+Negative,-1,-1,not paid enough
+Negative,-1,-1,will fire
+Negative,-1,-1,broken promise
+Negative,-1,-1,go back to primary school again
+Negative,-1,-1,no eye see
+Negative,-1,-1,small mindedness
+Negative,-1,-1,advancement is limited
+Negative,-1,-1,get stuck
+Negative,-1,-1,need to be improved
+Negative,-1,-1,not people first
+Negative,-1,-1,won't be involved
+Negative,-1,-1,broken promises
+Negative,-1,-1,go back to school
+Negative,-1,-1,no faith
+Negative,-1,-1,smear shit
+Negative,-1,-1,average leadership in charge
+Negative,-1,-1,get tiresome
+Negative,-1,-1,need to compensate
+Negative,-1,-1,Not people oriented
+Negative,-1,-1,won't get promoted
+Negative,-1,-1,buai sai
+Negative,-1,-1,god damn
+Negative,-1,-1,no familiar faces
+Negative,-1,-1,snubbed by
+Negative,-1,-1,away from home
+Negative,-1,-1,gets busy
+Negative,-1,-1,need to do a better job
+Negative,-1,-1,not publicized
+Negative,-1,-1,won't last too long
+Negative,-1,-1,buck up
+Negative,-1,-1,going for clubbing
+Negative,-1,-1,no freedom of speech
+Negative,-1,-1,so arrogant
+Negative,-1,-1,bad work life balance
+Negative,-1,-1,gets harder
+Negative,-1,-1,Need to do more than simply one
+Negative,-1,-1,Not putting efforts
+Negative,-1,-1,won't like
+Negative,-1,-1,budget overrun
+Negative,-1,-1,going zouk
+Negative,-1,-1,no free scholarship
+Negative,-1,-1,so blur
+Negative,-1,-1,bad work-like balance
+Negative,-1,-1,getting bored
+Negative,-1,-1,Need to fix
+Negative,-1,-1,not really cutting edge
+Negative,-1,-1,won't sponsor
+Negative,-1,-1,built castle in the air
+Negative,-1,-1,gone case
+Negative,-1,-1,no guts
+Negative,-1,-1,so coarse
+Negative,-1,-1,based on luck
+Negative,-1,-1,Gives excuses
+Negative,-1,-1,Need to focus
+Negative,-1,-1,not really worth
+Negative,-1,-1,work a lot of hours
+Negative,-1,-1,but this one errr
+Negative,-1,-1,gong tau
+Negative,-1,-1,no hope la
+Negative,-1,-1,so confident
+Negative,-1,-1,based on luck of the draw
+Negative,-1,-1,giving up
+Negative,-1,-1,Need to help and manage
+Negative,-1,-1,Not recommend
+Negative,-1,-1,work a ton
+Negative,-1,-1,buy vote
+Negative,-1,-1,go overseas
+Negative,-1,-1,no hope le
+Negative,-1,-1,so disappointed
+Negative,-1,-1,be tough
+Negative,-1,-1,go nowhere
+Negative,-1,-1,Need to put in a lot of time
+Negative,-1,-1,not reflective
+Negative,-1,-1,work around the clock
+Negative,-1,-1,bye bye speech
+Negative,-1,-1,go see
+Negative,-1,-1,Nohting I can
+Negative,-1,-1,so easy
+Negative,-1,-1,became extremely political 
+Negative,-1,-1,going to be challenging
+Negative,-1,-1,need to sacrifice a lot
+Negative,-1,-1,not rewarded
+Negative,-1,-1,work late nights
+Negative,-1,-1,bye bye time
+Negative,-1,-1,go to hell
+Negative,-1,-1,Nohting I can think of
+Negative,-1,-1,so funny
+Negative,-1,-1,behind market
+Negative,-1,-1,good self-care is crucial
+Negative,-1,-1,need to sacrifice personal
+Negative,-1,-1,not rigourous
+Negative,-1,-1,Work life balance isn't
+Negative,-1,-1,call confidence?
+Negative,-1,-1,got something inside her mouth
+Negative,-1,-1,no improvement
+Negative,-1,-1,so generic
+Negative,-1,-1,behind the times
+Negative,-1,-1,good work is not always recognized
+Negative,-1,-1,Need to strength
+Negative,-1,-1,not stay long
+Negative,-1,-1,work on weekends
+Negative,-1,-1,called this look pretty
+Negative,-1,-1,greedily devours
+Negative,-1,-1,no integrity
+Negative,-1,-1,so little specific
+Negative,-1,-1,being away from friends
+Negative,-1,-1,good work is not recognized
+Negative,-1,-1,need to think about future career
+Negative,-1,-1,Not suitable
+Negative,-1,-1,Work overload
+Negative,-1,-1,calling other names
+Negative,-1,-1,grow up
+Negative,-1,-1,no joke
+Negative,-1,-1,so many issue
+Negative,-1,-1,being fired
+Negative,-1,-1,groupism
+Negative,-1,-1,Need to travel a lot
+Negative,-1,-1,Not super crazy
+Negative,-1,-1,Work pressure
+Negative,-1,-1,can be on par
+Negative,-1,-1,had enough
+Negative,-1,-1,no life
+Negative,-1,-1,something more constructive
+Negative,-1,-1,below average
+Negative,-1,-1,growth do not exist
+Negative,-1,-1,needed to satisfy
+Negative,-1,-1,Not supportive
+Negative,-1,-1,work slavery
+Negative,-1,-1,can be put to better use
+Negative,-1,-1,Had to work
+Negative,-1,-1,no luck
+Negative,-1,-1,so not voting
+Negative,-1,-1,below cost of living
+Negative,-1,-1,had no choice but to leave
+Negative,-1,-1,needs a lot of work
+Negative,-1,-1,Not sure that is ture anymore
+Negative,-1,-1,work till you die
+Negative,-1,-1,can I still believe
+Negative,-1,-1,half baked leader
+Negative,-1,-1,no match
+Negative,-1,-1,so sad
+Negative,-1,-1,below entry level
+Negative,-1,-1,had to offer alot of pay
+Negative,-1,-1,needs improvement
+Negative,-1,-1,Not that much flexibility
+Negative,-1,-1,workload is tremendous
+Negative,-1,-1,cannot even
+Negative,-1,-1,hara kiri
+Negative,-1,-1,no money
+Negative,-1,-1,sound rude
+Negative,-1,-1,below expectation
+Negative,-1,-1,hampered my chances
+Negative,-1,-1,Needs more strong senior management
+Negative,-1,-1,not that team based
+Negative,-1,-1,would have been more project
+Negative,-1,-1,cannot la
+Negative,-1,-1,hard for me to keep up
+Negative,-1,-1,sound sensible
+Negative,-1,-1,below fair
+Negative,-1,-1,hard being on the road
+Negative,-1,-1,needs to be improved
+Negative,-1,-1,not the best
+Negative,-1,-1,would not suit you
+Negative,-1,-1,Cannot lah
+Negative,-1,-1,has not been trained
+Negative,-1,-1,non can be trusted
+Negative,-1,-1,sound so great
+Negative,-1,-1,below market
+Negative,-1,-1,hard time
+Negative,-1,-1,needs to be more flexible
+Negative,-1,-1,not the brightest
+Negative,-1,-1,Zero bonuses
+Negative,-1,-1,cannot lead
+Negative,-1,-1,hates ite supporter
+Negative,-1,-1,no need to answer to anyone
+Negative,-1,-1,so you say
+Negative,-1,-1,below market compensation
+Negative,-1,-1,hard to achieve
+Negative,-1,-1,never a guaranteed
+Negative,-1,-1,Not the ideal place
+Negative,-1,-1,ZERO interest
+Negative,-1,-1,cannot make it
+Negative,-1,-1,hates its supporter
+Negative,-1,-1,No need to vote for them
+Negative,-1,-1,speak with content
+Negative,-1,-1,below market rate
+Negative,-1,-1,hard to balance work & life
+Negative,-1,-1,never as valued
+Negative,-1,-1,not the place for you
+Negative,-1,-1,zero work-life balance
+Negative,-1,-1,cannot run
+Negative,-1,-1,have brain
+Negative,-1,-1,none opportunity
+Negative,-1,-1,squeeze more
+Negative,-1,-1,benefit not so great
+Negative,-1,-1,hard to determine
+Negative,-1,-1,never ending
+Negative,-1,-1,not time off
+Negative,-1,-1,cannot win back
+Negative,-1,-1,haven;t started
+Negative,-1,-1,non existent
+Negative,-1,-1,squeeze us
+Negative,-1,-1,benefits are average
+Negative,-1,-1,hard to enforce
+Negative,-1,-1,never forgive
+Negative,-1,-1,Not too many projects
+Negative,-1,-1,can say
+Negative,-1,-1,haven't started
+Negative,-1,-1,non is cleaned
+Negative,-1,-1,stand in geylang
+Negative,-1,-1,Benefits aren't great
+Negative,-1,-1,hard to feel
+Negative,-1,-1,never free
+Negative,-1,-1,not too much time to play
+Negative,-1,-1,can't afford
+Negative,-1,-1,have not reply
+Negative,-1,-1,no nonsense
+Negative,-1,-1,stand up comedian
+Negative,-1,-1,Benefits could be better
+Negative,-1,-1,hard to find strategy
+Negative,-1,-1,never let you
+Negative,-1,-1,not treated with the same priority and importance
+Negative,-1,-1,can talk
+Negative,-1,-1,have to put a lot of hours
+Negative,-1,-1,no no pls
+Negative,-1,-1,stand up comediant
+Negative,-1,-1,Benefits could have been better
+Negative,-1,-1,hard to get ahead
+Negative,-1,-1,never let you take vacation
+Negative,-1,-1,not up to date
+Negative,-1,-1,can't always effectively
+Negative,-1,-1,hear wrongly
+Negative,-1,-1,non value
+Negative,-1,-1,star search
+Negative,-1,-1,benefits on the low
+Negative,-1,-1,hard to get promoted
+Negative,-1,-1,never present in the office
+Negative,-1,-1,not upto the line
+Negative,-1,-1,can't believe
+Negative,-1,-1,heaven and hell
+Negative,-1,-1,no option to
+Negative,-1,-1,stay off
+Negative,-1,-1,beyond reasonable
+Negative,-1,-1,Hard to internally transfer
+Negative,-1,-1,never reap the true rewards
+Negative,-1,-1,not valued
+Negative,-1,-1,can't do
+Negative,-1,-1,heavily in debt
+Negative,-1,-1,no point
+Negative,-1,-1,still a big issue
+Negative,-1,-1,big disconnect
+Negative,-1,-1,Hard to justify
+Negative,-1,-1,night mare
+Negative,-1,-1,Not valuing others thoughts
+Negative,-1,-1,cant even
+Negative,-1,-1,hell break loose
+Negative,-1,-1,no portfolio
+Negative,-1,-1,Still a bit behind
+Negative,-1,-1,big gap
+Negative,-1,-1,hard to keep a satisfactory
+Negative,-1,-1,no ability
+Negative,-1,-1,Not very flexible
+Negative,-1,-1,can't even
+Negative,-1,-1,Hell to you
+Negative,-1,-1,no quality
+Negative,-1,-1,still cannot figure it out
+Negative,-1,-1,biggest con
+Negative,-1,-1,Hard to make transition
+Negative,-1,-1,no additional compensation
+Negative,-1,-1,not very meaningful work
+Negative,-1,-1,cant even handle
+Negative,-1,-1,help the Malaysians and India Indians more
+Negative,-1,-1,No real downside
+Negative,-1,-1,still got others
+Negative,-1,-1,biggest offender
+Negative,-1,-1,hard to manage
+Negative,-1,-1,No advisory
+Negative,-1,-1,not widely available
+Negative,-1,-1,can't even manage
+Negative,-1,-1,here comes
+Negative,-1,-1,no respect
+Negative,-1,-1,still not sleepy
+Negative,-1,-1,billable goals very high
+Negative,-1,-1,hard to pursue
+Negative,-1,-1,No appreciation
+Negative,-1,-1,not willing to experiment
+Negative,-1,-1,can't even perform
+Negative,-1,-1,hide behind
+Negative,-1,-1,no rights
+Negative,-1,-1,still prefer
+Negative,-1,-1,bit fragmented
+Negative,-1,-1,hard to remain
+Negative,-1,-1,no balance
+Negative,-1,-1,not work quality
+Negative,-1,-1,can't even protect me
+Negative,-1,-1,high cost
+Negative,-1,-1,no standard
+Negative,-1,-1,still to young in politics
+Negative,-1,-1,bit hierarchical
+Negative,-1,-1,hard to stand out
+Negative,-1,-1,no better learning
+Negative,-1,-1,not worked there long
+Negative,-1,-1,cant even run a T.C.
+Negative,-1,-1,high cost of living
+Negative,-1,-1,not a beauty pegeant
+Negative,-1,-1,still waiting
+Negative,-1,-1,bit much
+Negative,-1,-1,hard to take vacation
+Negative,-1,-1,no bonus
+Negative,-1,-1,not worth it
+Negative,-1,-1,can't give
+Negative,-1,-1,high unemployment
+Negative,-1,-1,not address
+Negative,-1,-1,stink of fish
+Negative,-1,-1,black sheep
+Negative,-1,-1,hard work
+Negative,-1,-1,No care
+Negative,-1,-1,nothing for your actual technical skills
+Negative,-1,-1,cant handle
+Negative,-1,-1,Ho Jinx
+Negative,-1,-1,not a game
+Negative,-1,-1,stoop that low
+Negative,-1,-1,blatantly apparent
+Negative,-1,-1,harder and harder
+Negative,-1,-1,No career advancement
+Negative,-1,-1,Nothing is good
+Negative,-1,-1,Can't look after
+Negative,-1,-1,hold up
+Negative,-1,-1,no talent
+Negative,-1,-1,strawman parrot
+Negative,-1,-1,bonus is a joke
+Negative,-1,-1,harder to get promoted
+Negative,-1,-1,no career growth
+Negative,-1,-1,nothing positive
+Negative,-1,-1,can't speak
+Negative,-1,-1,hostileworkenvironment
+Negative,-1,-1,not a lot of training
+Negative,-1,-1,street walker
+Negative,-1,-1,bonuses are rarely given
+Negative,-1,-1,has limited access
+Negative,-1,-1,no career path
+Negative,-1,-1,nothing really great
+Negative,-1,-1,can't speal
+Negative,-1,-1,hours are very long
+Negative,-1,-1,not always fair
+Negative,-1,-1,stress her
+Negative,-1,-1,bonuses are very small
+Negative,-1,-1,have no friends
+Negative,-1,-1,No career progression
+Negative,-1,-1,nothing to be excited about
+Negative,-1,-1,can't stop laughing
+Negative,-1,-1,how can
+Negative,-1,-1,not always reflected
+Negative,-1,-1,struggling to live
+Negative,-1,-1,bonuses could be better
+Negative,-1,-1,have no idea
+Negative,-1,-1,no carrer advancement
+Negative,-1,-1,nothing to do
+Negative,-1,-1,can't take care
+Negative,-1,-1,how can we
+Negative,-1,-1,not always reflected in compensation
+Negative,-1,-1,stubborn mule
+Negative,-1,-1,bottleneck at the top
+Negative,-1,-1,have to be adaptable and flexible
+Negative,-1,-1,No centralized leadership
+Negative,-1,-1,not-so-good deeds
+Negative,-1,-1,can't talk
+Negative,-1,-1,how dare she claim
+Negative,-1,-1,not a meritocracy
+Negative,-1,-1,stylo mylo drama king
+Negative,-1,-1,bottlenecks
+Negative,-1,-1,have to look hard
+Negative,-1,-1,no chance to learn
+Negative,-1,-1,offer a little bit more
+Negative,-1,-1,can't think
+Negative,-1,-1,HOW DO WE SOLVE IT
+Negative,-1,-1,not another
+Negative,-1,-1,suck all the funds out
+Negative,-1,-1,brainless managers
+Negative,-1,-1,have to sacrifice
+Negative,-1,-1,No chance to switch silos
+Negative,-1,-1,office politics
+Negative,-1,-1,cant unite
+Negative,-1,-1,how many chances u want
+Negative,-1,-1,not a party
+Negative,-1,-1,suck dry
+Negative,-1,-1,break ranks
+Negative,-1,-1,have to struggle
+Negative,-1,-1,no choice
+Negative,-1,-1,often compromised
+Negative,-1,-1,care less
+Negative,-1,-1,how many more year
+Negative,-1,-1,not as healthy
+Negative,-1,-1,suck enough money
+Negative,-1,-1,broken management
+Negative,-1,-1,have to take the good with the bad
+Negative,-1,-1,no choice but to leave the firm
+Negative,-1,-1,often short-staffed
+Negative,-1,-1,cash cow
+Negative,-1,-1,how to compaign
+Negative,-1,-1,not as my MP
+Negative,-1,-1,suck money
+Negative,-1,-1,brown-nosers
+Negative,-1,-1,have to work a lot
+Negative,-1,-1,no clear cut
+Negative,-1,-1,often travelling
+Negative,-1,-1,changes its stance
+Negative,-1,-1,how to contact
+Negative,-1,-1,not a ticket to success
+Negative,-1,-1,suck our money
+Negative,-1,-1,burdensome tools used
+Negative,-1,-1,have to work more
+Negative,-1,-1,No clear distinction
+Negative,-1,-1,on hold
+Negative,-1,-1,changes it stance
+Negative,-1,-1,how to contect
+Negative,-1,-1,not authorised
+Negative,-1,-1,sucks to be you
+Negative,-1,-1,burn out
+Negative,-1,-1,haven't experienced
+Negative,-1,-1,no coaching
+Negative,-1,-1,on the chopping block
+Negative,-1,-1,chaperoned in
+Negative,-1,-1,how to enjoy
+Negative,-1,-1,not a very intelligent
+Negative,-1,-1,super under market pay
+Negative,-1,-1,burn out quickly
+Negative,-1,-1,haven't experienced anything
+Negative,-1,-1,No collaboration
+Negative,-1,-1,one of the best suckers
+Negative,-1,-1,Charged in court
+Negative,-1,-1,how to make it like that
+Negative,-1,-1,not be able to trust
+Negative,-1,-1,sure to lose
+Negative,-1,-1,busy season is like hell
+Negative,-1,-1,haven't had my mind blown
+Negative,-1,-1,no compensation
+Negative,-1,-1,one way street
+Negative,-1,-1,disoriented mentally
+Negative,-1,-1,shake up
+Negative,-1,-1,dog days
+Negative,-1,-1,shook up
+Negative,-1,-1,shoot down
+Negative,-1,-1,dog in the manger
+Negative,-1,-1,short fuse
+Negative,-1,-1,dog it
+Negative,-1,-1,short-tempered
+Negative,-1,-1,double whammy
+Negative,-1,-1,shot down
+Negative,-1,-1,down and out
+Negative,-1,-1,shot to pieces
+Negative,-1,-1,down in dumps
+Negative,-1,-1,sick as a dog
+Negative,-1,-1,down in the dumps
+Negative,-1,-1,sinking feeling
+Negative,-1,-1,down in the mouth
+Negative,-1,-1,skin and bone
+Negative,-1,-1,down-in-the-mouth
+Negative,-1,-1,small frog in a large pond
+Negative,-1,-1,drive crazy
+Negative,-1,-1,soft in head
+Negative,-1,-1,drive insane
+Negative,-1,-1,soft in the head
+Negative,-1,-1,drive out of mind
+Negative,-1,-1,soft touch
+Negative,-1,-1,drive to distraction
+Negative,-1,-1,spaced out
+Negative,-1,-1,drive up the wall
+Negative,-1,-1,stage fright
+Negative,-1,-1,drop the ball
+Negative,-1,-1,state of high temperature
+Negative,-1,-1,dry as dust
+Negative,-1,-1,state of unrest
+Negative,-1,-1,dump on
+Negative,-1,-1,stiff as a board
+Negative,-1,-1,egg on
+Negative,-1,-1,stir up
+Negative,-1,-1,evil-doing
+Negative,-1,-1,stirred to anger
+Negative,-1,-1,expectation of worst
+Negative,-1,-1,stone broke
+Negative,-1,-1,faint-hearted
+Negative,-1,-1,stone cold
+Negative,-1,-1,falling-out
+Negative,-1,-1,stone deaf
+Negative,-1,-1,fault-finding
+Negative,-1,-1,stressed out
+Negative,-1,-1,febrile disease
+Negative,-1,-1,strike off the rolls
+Negative,-1,-1,feed the fire
+Negative,-1,-1,strong-arm
+Negative,-1,-1,feeling down
+Negative,-1,-1,strung out
+Negative,-1,-1,feeling of mercy toward another
+Negative,-1,-1,stuff the ballot box
+Negative,-1,-1,fever pitch
+Negative,-1,-1,take down a peg
+Negative,-1,-1,fingers to the bone
+Negative,-1,-1,take the bread out of 
+Negative,-1,-1,flare-up
+Negative,-1,-1,take the wind out
+Negative,-1,-1,flight of fancy
+Negative,-1,-1,tar and feather
+Negative,-1,-1,flip one's lid
+Negative,-1,-1,tarred with the same brush
+Negative,-1,-1,for the birds
+Negative,-1,-1,temper tantrum
+Negative,-1,-1,foul up
+Negative,-1,-1,terror-stricken
+Negative,-1,-1,fouled up
+Negative,-1,-1,the last straw that broke the camel's back
+Negative,-1,-1,freaked out
+Negative,-1,-1,thick-skinned
+Negative,-1,-1,free-for-all
+Negative,-1,-1,think little of
+Negative,-1,-1,full of sorrow
+Negative,-1,-1,thin-skinned
+Negative,-1,-1,get a rise out of
+Negative,-1,-1,thorn in one's side
+Negative,-1,-1,get gray hair
+Negative,-1,-1,thrilling situation
+Negative,-1,-1,get on one's nerves
+Negative,-1,-1,throw cold water on
+Negative,-1,-1,get one's comeuppance
+Negative,-1,-1,throw for a loop
+Negative,-1,-1,get the brush
+Negative,-1,-1,throw into a tizzy
+Negative,-1,-1,get under skin
+Negative,-1,-1,throw off
+Negative,-1,-1,give a black eye
+Negative,-1,-1,throw off balance
+Negative,-1,-1,give the cold shoulder
+Negative,-1,-1,throw to the dogs
+Negative,-1,-1,go to the dogs
+Negative,-1,-1,throwing a fit
+Negative,-1,-1,god-awful
+Negative,-1,-1,thrown off balance
+Negative,-1,-1,gone to pieces
+Negative,-1,-1,tick off
+Negative,-1,-1,good-for-nothing
+Negative,-1,-1,ticked off
+Negative,-1,-1,goose bumps
+Negative,-1,-1,toned down
+Negative,-1,-1,goose-bumpy
+Negative,-1,-1,tongue-lashing
+Negative,-1,-1,grate on
+Negative,-1,-1,topsy-turvy
+Negative,-1,-1,great haste
+Negative,-1,-1,torn-up
+Negative,-1,-1,green about the gills
+Negative,-1,-1,tossing and turning
+Negative,-1,-1,green with envy
+Negative,-1,-1,touch and go
+Negative,-1,-1,green-eyed
+Negative,-1,-1,tread on someone's toes
+Negative,-1,-1,grief-stricken
+Negative,-1,-1,tread water
+Negative,-1,-1,grim-faced
+Negative,-1,-1,trouble be brewing
+Negative,-1,-1,guilt-ridden
+Negative,-1,-1,try one's patience
+Negative,-1,-1,hang up
+Negative,-1,-1,try the patience of
+Negative,-1,-1,hanging by thread
+Negative,-1,-1,turmoil in real life
+Negative,-1,-1,hang-up
+Negative,-1,-1,turn on the heat
+Negative,-1,-1,hard feelings
+Negative,-1,-1,turn one off
+Negative,-1,-1,hard luck
+Negative,-1,-1,two-bit
+Negative,-1,-1,under an obligation
+Negative,-1,-1,hard-pressed
+Negative,-1,-1,under stress
+Negative,-1,-1,have a bone to pick
+Negative,-1,-1,under the weather
+Negative,-1,-1,have a brush with
+Negative,-1,-1,up against it
+Negative,-1,-1,have cold feet
+Negative,-1,-1,up in arms
+Negative,-1,-1,have the blahs
+Negative,-1,-1,up in the air
+Negative,-1,-1,heart of stone
+Negative,-1,-1,up the creek
+Negative,-1,-1,heaviness of heart
+Negative,-1,-1,up the wall
+Negative,-1,-1,heavy heart
+Negative,-1,-1,upset apple cart
+Negative,-1,-1,heavy-hearted
+Negative,-1,-1,upset someone
+Negative,-1,-1,heavyheartedness
+Negative,-1,-1,upset the applecart
+Negative,-1,-1,hell broke loose
+Negative,-1,-1,weak knees
+Negative,-1,-1,Herculean task
+Negative,-1,-1,weak-kneed
+Negative,-1,-1,high-strung
+Negative,-1,-1,weary load
+Negative,-1,-1,hissy fit
+Negative,-1,-1,weighed down
+Negative,-1,-1,ho hums
+Negative,-1,-1,weirded out
+Negative,-1,-1,hoo-hah
+Negative,-1,-1,white as a sheet
+Negative,-1,-1,horror-struck
+Negative,-1,-1,white elephant
+Negative,-1,-1,hot air
+Negative,-1,-1,white feather
+Negative,-1,-1,hot and bothered
+Negative,-1,-1,white flag
+Negative,-1,-1,hot under collar
+Negative,-1,-1,white knuckled
+Negative,-1,-1,hot under the collar
+Negative,-1,-1,wishy-washy
+Negative,-1,-1,hot water
+Negative,-1,-1,with bated breath
+Negative,-1,-1,hot-tempered
+Negative,-1,-1,work against
+Negative,-1,-1,house of cards
+Negative,-1,-1,work up
+Negative,-1,-1,hurly-burly
+Negative,-1,-1,worked-up
+Negative,-1,-1,ill at ease
+Negative,-1,-1,worried sick
+Negative,-1,-1,ill humor
+Negative,-1,-1,worried stiff
+Negative,-1,-1,ill temper
+Negative,-1,-1,cray cray
+Negative,-1,-1,ill will
+Negative,-1,-1,ill-advised
+Negative,-1,-1,ill-disposed
+Negative,-1,-1,ill-disposedness
+Negative,-1,-1,ill-fated
+Negative,-1,-1,ill-humor
+Negative,-1,-1,ill-humored
+Negative,-1,-1,ill-natured
+Negative,-1,-1,ill-starred
+Negative,-1,-1,ill-tempered
+Negative,-1,-1,impose upon
+Negative,-1,-1,in a dither
+Negative,-1,-1,in a panic
+Negative,-1,-1,in a sweat
+Negative,-1,-1,in a tight corner
+Negative,-1,-1,in hock
+Negative,-1,-1,in pain
+Negative,-1,-1,in suspense
+Negative,-1,-1,in the doghouse
+Negative,-1,-1,in the doldrums
+Negative,-1,-1,in the dumps
+Negative,-1,-1,in the red
+Negative,-1,-1,in the soup
+Negative,-1,-1,in turmoil
+Negative,-1,-1,insecure with oneself
+Negative,-1,-1,keyed up
+Negative,-1,-1,knock out
+Negative,-1,-1,lack of confidence
+Negative,-1,-1,lack of interest
+Negative,-1,-1,lacking courage
+Negative,-1,-1,lead a dog's life
+Negative,-1,-1,let down
+Negative,-1,-1,let the cat out of the bag
+Negative,-1,-1,like a cat on hot bricks
+Negative,-1,-1,like a chicken with its head cut off
+Negative,-1,-1,little pitchers have big ears
+Negative,-1,-1,long-faced
+Negative,-1,-1,look like something the cat dragged in
+Negative,-1,-1,loss of confidence
+Negative,-1,-1,lost momentum
+Negative,-1,-1,louse up
+Negative,-1,-1,low in spirits
+Negative,-1,-1,low spirits
+Negative,-1,-1,low-down
+Negative,-1,-1,low-quality
+Negative,-1,-1,low-rent
+Negative,-1,-1,low-spirited
+Negative,-1,-1,low-spiritedness
+Negative,-1,-1,mad as a hornet
+Negative,-1,-1,mad as hell
+Negative,-1,-1,mad rush
+Negative,-1,-1,make a federal case
+Negative,-1,-1,make a fool of
+Negative,-1,-1,make a monkey of
+Negative,-1,-1,make ashamed
+Negative,-1,-1,a bundle of nerves
+Negative,-1,-1,make bitter
+Negative,-1,-1,affected mentally
+Negative,-1,-1,make blood boil
+Negative,-1,-1,all hell break loose
+Negative,-1,-1,make eat dirt
+Negative,-1,-1,all torn up
+Negative,-1,-1,make little of
+Negative,-1,-1,alley cat
+Negative,-1,-1,make one feel small
+Negative,-1,-1,answerable for
+Negative,-1,-1,make resentful
+Negative,-1,-1,ants in pants
+Negative,-1,-1,make see red
+Negative,-1,-1,ass in a sling
+Negative,-1,-1,make sick
+Negative,-1,-1,at a loss
+Negative,-1,-1,make speechless
+Negative,-1,-1,at boiling point
+Negative,-1,-1,make turbid
+Negative,-1,-1,at sixes and sevens
+Negative,-1,-1,make unhappy
+Negative,-1,-1,at wits' end
+Negative,-1,-1,make very upset
+Negative,-1,-1,at wit's end
+Negative,-1,-1,mental weight
+Negative,-1,-1,back to the drawing board
+Negative,-1,-1,miss the boat
+Negative,-1,-1,back to the wall
+Negative,-1,-1,mix up
+Negative,-1,-1,backing out
+Negative,-1,-1,mixed up
+Negative,-1,-1,basket case
+Negative,-1,-1,mix-up
+Negative,-1,-1,basket-case
+Negative,-1,-1,Monday blues
+Negative,-1,-1,be disagreeable
+Negative,-1,-1,muck up
+Negative,-1,-1,beat the tar out of
+Negative,-1,-1,muddle-headed
+Negative,-1,-1,beat-down
+Negative,-1,-1,mutual hostility
+Negative,-1,-1,behind the eight ball
+Negative,-1,-1,nagging doubt
+Negative,-1,-1,bell the cat
+Negative,-1,-1,nail-biting
+Negative,-1,-1,bent out of shape
+Negative,-1,-1,nerve-racking
+Negative,-1,-1,between a rock and a hard place
+Negative,-1,-1,nervous restlessness
+Negative,-1,-1,between the devil and the deep blue sea
+Negative,-1,-1,nervous wreck
+Negative,-1,-1,bewilder someone
+Negative,-1,-1,no good
+Negative,-1,-1,big stink
+Negative,-1,-1,biting one's nails
+Negative,-1,-1,nose in the air
+Negative,-1,-1,black and blue
+Negative,-1,-1,not comfortable
+Negative,-1,-1,black book
+Negative,-1,-1,not content
+Negative,-1,-1,black eye
+Negative,-1,-1,not enough 
+Negative,-1,-1,black hole
+Negative,-1,-1,not enough room to swing a cat
+Negative,-1,-1,black list
+Negative,-1,-1,not feeling at ease
+Negative,-1,-1,black lists
+Negative,-1,-1,not feeling well
+Negative,-1,-1,black look
+Negative,-1,-1,not good
+Negative,-1,-1,black mark
+Negative,-1,-1,not with it
+Negative,-1,-1,black out
+Negative,-1,-1,no-win
+Negative,-1,-1,bleed white
+Negative,-1,-1,often caused by emotion
+Negative,-1,-1,blind as a bat
+Negative,-1,-1,old bat
+Negative,-1,-1,blow a fuse
+Negative,-1,-1,on a downer
+Negative,-1,-1,blow hot and cold
+Negative,-1,-1,on a string
+Negative,-1,-1,blow one's cork
+Negative,-1,-1,on edge
+Negative,-1,-1,blow one's lid
+Negative,-1,-1,on fire
+Negative,-1,-1,blow one's stack
+Negative,-1,-1,on pins and needles
+Negative,-1,-1,blow one's top
+Negative,-1,-1,on the rocks
+Negative,-1,-1,blow out
+Negative,-1,-1,on the warpath
+Negative,-1,-1,blow up
+Negative,-1,-1,on thin ice
+Negative,-1,-1,blowing a gasket
+Negative,-1,-1,out of a clear blue sky
+Negative,-1,-1,blowing one's top
+Negative,-1,-1,out of control
+Negative,-1,-1,blue devil
+Negative,-1,-1,out of countenance
+Negative,-1,-1,blue devils
+Negative,-1,-1,out of one's mind
+Negative,-1,-1,blue funk
+Negative,-1,-1,out of one's wit
+Negative,-1,-1,blue in the face
+Negative,-1,-1,out of place
+Negative,-1,-1,boiling mad
+Negative,-1,-1,out of spirits
+Negative,-1,-1,boiling over
+Negative,-1,-1,overboard
+Negative,-1,-1,bolt from the blue
+Negative,-1,-1,pain in the neck
+Negative,-1,-1,bone of contention
+Negative,-1,-1,paint oneself into a corner
+Negative,-1,-1,bowl over
+Negative,-1,-1,pandora's box
+Negative,-1,-1,brain drain
+Negative,-1,-1,panic-stricken
+Negative,-1,-1,break a leg
+Negative,-1,-1,paper tiger
+Negative,-1,-1,pins and needles
+Negative,-1,-1,break in
+Negative,-1,-1,break off
+Negative,-1,-1,play dirty
+Negative,-1,-1,break one's heart
+Negative,-1,-1,pop one's balloon
+Negative,-1,-1,break someone's heart
+Negative,-1,-1,poverty-stricken
+Negative,-1,-1,bring down
+Negative,-1,-1,psych out
+Negative,-1,-1,bring low
+Negative,-1,-1,pull a boner
+Negative,-1,-1,broken heart
+Negative,-1,-1,punch-drunk
+Negative,-1,-1,brush aside
+Negative,-1,-1,push around
+Negative,-1,-1,brush off
+Negative,-1,-1,pushed too far
+Negative,-1,-1,bummed out
+Negative,-1,-1,pushing the panic button
+Negative,-1,-1,bummed-out
+Negative,-1,-1,put down
+Negative,-1,-1,bundle of nerves
+Negative,-1,-1,put in a hole
+Negative,-1,-1,burned up
+Negative,-1,-1,put in a spot
+Negative,-1,-1,burning up
+Negative,-1,-1,put off
+Negative,-1,-1,busted up
+Negative,-1,-1,put on the spot
+Negative,-1,-1,butterflies in stomach
+Negative,-1,-1,put to shame
+Negative,-1,-1,cabin fever
+Negative,-1,-1,quick-tempered
+Negative,-1,-1,carried away
+Negative,-1,-1,ranting and raving
+Negative,-1,-1,cast down
+Negative,-1,-1,rattle one's cage
+Negative,-1,-1,cast the first stone
+Negative,-1,-1,raving mad
+Negative,-1,-1,castles in the air
+Negative,-1,-1,catch red handed
+Negative,-1,-1,red-faced
+Negative,-1,-1,caved-in
+Negative,-1,-1,render uncertain
+Negative,-1,-1,chilled to the bone
+Negative,-1,-1,rock bottom
+Negative,-1,-1,chomp at the bit
+Negative,-1,-1,rock the boat
+Negative,-1,-1,cliff-hanger
+Negative,-1,-1,climbing the walls
+Negative,-1,-1,rolling stone
+Negative,-1,-1,cloak and dagger
+Negative,-1,-1,rub the wrong way
+Negative,-1,-1,cold feet
+Negative,-1,-1,ruffle one's feathers
+Negative,-1,-1,cold fish
+Negative,-1,-1,run down
+Negative,-1,-1,cold sweat
+Negative,-1,-1,run into a stone wall
+Negative,-1,-1,cold-blooded
+Negative,-1,-1,run scared
+Negative,-1,-1,come apart
+Negative,-1,-1,running a temperature
+Negative,-1,-1,conscience-stricken
+Negative,-1,-1,running scared
+Negative,-1,-1,culture shock
+Negative,-1,-1,scared stiff
+Negative,-1,-1,curiosity killed the cat
+Negative,-1,-1,scared to death
+Negative,-1,-1,cut corners
+Negative,-1,-1,cut down to size
+Negative,-1,-1,second-class
+Negative,-1,-1,cut to the quick
+Negative,-1,-1,second-rate
+Negative,-1,-1,dark side
+Negative,-1,-1,see red
+Negative,-1,-1,dead duck
+Negative,-1,-1,seeing red
+Negative,-1,-1,dim view
+Negative,-1,-1,self-conscious
+Negative,-1,-1,dire straits
+Negative,-1,-1,sense of injury
+Negative,-1,-1,alcohol addiction
+Negative,-1,-1,bad condition
+Negative,-1,-1,health hazard
+Negative,-1,-1,old age
+Negative,-1,-1,persistent cruelty
+Negative,-1,-1,poor shape
+Negative,-1,-1,sinking spell
+Negative,-1,-1,something really wrong with him
+Negative,-1,-1,find so difficult
+Negative,-1,-1,paid to think n say
+Negative,-1,-1,long winded
+Negative,-1,-1,just for show
+Negative,-1,-1,broken tape recorder
+Negative,-1,-1,Shits Times
+Negative,-1,-1,go all out to demolish us
+Negative,-1,-1,poison the minds
+Negative,-1,-1,sit in silence
+Negative,-1,-1, goes off in a tangent
+Negative,-1,-1,didn't say anything new
+Negative,-1,-1,where is the logic
+Negative,-1,-1,double headed snake
+Negative,-1,-1,well paid spokesmen
+Negative,-1,-1,twist n turn
+Negative,-1,-1,leave this country
+Negative,-1,-1,bad influence
+Negative,-1,-1,poorly represented
+Negative,-1,-1,unequivocal aversion
+Negative,-1,-1,give themselves credit
+Negative,-1,-1,better be careful
+Negative,-1,-1,not respected
+Negative,-1,-1,accept what is wrong rather than correcting it
+Negative,-1,-1,pariah dog
+Negative,-1,-1,just as bad
+Negative,-1,-1,lap whores
+Negative,-1,-1,stirring hatred
+Negative,-1,-1,stoop low
+Negative,-1,-1,like to contradict
+Negative,-1,-1,taken our freedom
+Negative,-1,-1,pap puppet
+Negative,-1,-1,eat your own words
+Negative,-1,-1,good for nothing
+Negative,-1,-1,hate and division
+Negative,-1,-1,no place
+Negative,-1,-1,make it difficult
+Negative,-1,-1,less space
+Negative,-1,-1,no space
+Negative,-1,-1,no seat
+Negative,-1,-1,less seat
+Negative,-1,-1,pay fine
+Negative,-1,-1,got fined
+Negative,-1,-1,fine of
+Negative,-1,-1,don't like
+Negative,-1,-1,didn't like
+Negative,-1,-1,doesn't like
+Negative,-1,-1,did not like
+Negative,-1,-1,will not like
+Negative,-1,-1,do not like
+Negative,-1,-1,does not like
+Negative,-1,-1,would not like
+Negative,-1,-1,should not like
+Negative,-1,-1,scould not like
+Negative,-1,-1,fall off
+Negative,-1,-1,fall asleep
+Negative,-1,-1,2 faced
+Negative,-1,-1,2 faces
+Negative,-1,-1,absent minded
+Negative,-1,-1,anti-
+Negative,-1,-1,anti-american
+Negative,-1,-1,anti-israeli
+Negative,-1,-1,anti-occupation
+Negative,-1,-1,anti-proliferation
+Negative,-1,-1,anti-semites
+Negative,-1,-1,anti-social
+Negative,-1,-1,anti-us
+Negative,-1,-1,anti-white
+Negative,-1,-1,back logged
+Negative,-1,-1,back wood
+Negative,-1,-1,back woods
+Negative,-1,-1,bid rigging
+Negative,-1,-1,break ups
+Negative,-1,-1,broken hearted
+Negative,-1,-1,bull shit
+Negative,-1,-1,cash strapped
+Negative,-1,-1,counter productive
+Negative,-1,-1,die hard
+Negative,-1,-1,dilly dally
+Negative,-1,-1,drop out
+Negative,-1,-1,drop outs
+Negative,-1,-1,election rigger
+Negative,-1,-1,far fetched
+Negative,-1,-1,farcical yet provocative
+Negative,-1,-1,fat cats
+Negative,-1,-1,flat out
+Negative,-1,-1,full blown
+Negative,-1,-1,hard hit
+Negative,-1,-1,hard line
+Negative,-1,-1,hard liner
+Negative,-1,-1,heavy handed
+Negative,-1,-1,high priced
+Negative,-1,-1,ho hum
+Negative,-1,-1,ill-conceived
+Negative,-1,-1,ill-defined
+Negative,-1,-1,ill-designed
+Negative,-1,-1,ill-favored
+Negative,-1,-1,ill-formed
+Negative,-1,-1,ill-mannered
+Negative,-1,-1,ill-sorted
+Negative,-1,-1,ill-treated
+Negative,-1,-1,ill-treatment
+Negative,-1,-1,ill-usage
+Negative,-1,-1,ill-used
+Negative,-1,-1,laid off
+Negative,-1,-1,last ditch
+Negative,-1,-1,left leaning
+Negative,-1,-1,less developed
+Negative,-1,-1,lesser known
+Negative,-1,-1,little known
+Negative,-1,-1,long time
+Negative,-1,-1,martyrdom seeking
+Negative,-1,-1,multi polarization
+Negative,-1,-1,muscle flexing
+Negative,-1,-1,one sided
+Negative,-1,-1,over acted
+Negative,-1,-1,over awe
+Negative,-1,-1,over balanced
+Negative,-1,-1,over hyped
+Negative,-1,-1,over priced
+Negative,-1,-1,over valuation
+Negative,-1,-1,rip off
+Negative,-1,-1,second class
+Negative,-1,-1,second tier
+Negative,-1,-1,self coup
+Negative,-1,-1,self serving
+Negative,-1,-1,semi retarded
+Negative,-1,-1,short lived
+Negative,-1,-1,slow moving
+Negative,-1,-1,so cal
+Negative,-1,-1,spoon fed
+Negative,-1,-1,spoon feed
+Negative,-1,-1,sub par
+Negative,-1,-1,sugar coat
+Negative,-1,-1,sugar coated
+Negative,-1,-1,thumb down
+Negative,-1,-1,thumbs down
+Negative,-1,-1,top heavy
+Negative,-1,-1,two faced
+Negative,-1,-1,two faces
+Negative,-1,-1,ultra hardline
+Negative,-1,-1,un viewable
+Negative,-1,-1,washed out
+Negative,-1,-1,water down
+Negative,-1,-1,watered down
+Negative,-1,-1,layoff-happy
+Negative,-1,-1,non-confidence
+Negative,-1,-1,self-interest
+Negative,-1,-1,self-interested
+Negative,-1,-1,act cute
+Negative,-1,-1,ah beng
+Negative,-1,-1,ah lian
+Negative,-1,-1,ah long
+Negative,-1,-1,ah nei
+Negative,-1,-1,ah tiong
+Negative,-1,-1,ai see
+Negative,-1,-1,ai see buay see
+Negative,-1,-1,ai ya
+Negative,-1,-1,ai yah
+Negative,-1,-1,a tiong
+Negative,-1,-1,bo bian
+Negative,-1,-1,bo doh
+Negative,-1,-1,boh chup
+Negative,-1,-1,boh liao
+Negative,-1,-1,bo jio
+Negative,-1,-1,bo liao
+Negative,-1,-1,bo pien
+Negative,-1,-1,bo wei kong
+Negative,-1,-1,bo zheng hu
+Negative,-1,-1,buay lun
+Negative,-1,-1,buay sai
+Negative,-1,-1,buay song
+Negative,-1,-1,buay steady
+Negative,-1,-1,buay tahan
+Negative,-1,-1,buey lun
+Negative,-1,-1,buey sai
+Negative,-1,-1,buey song
+Negative,-1,-1,bu soh
+Negative,-1,-1,catch no ball
+Negative,-1,-1,chee bai
+Negative,-1,-1,chee bye
+Negative,-1,-1,chicken business
+Negative,-1,-1,du lan
+Negative,-1,-1,earlier never say
+Negative,-1,-1,geh kiang
+Negative,-1,-1,guai lan
+Negative,-1,-1,gu niang
+Negative,-1,-1,han nah
+Negative,-1,-1,hao lian
+Negative,-1,-1,hong kan
+Negative,-1,-1,hong kan ah
+Negative,-1,-1,jiak chao
+Negative,-1,-1,jiak zua
+Negative,-1,-1,kao pei
+Negative,-1,-1,kay po
+Negative,-1,-1,kuai lan
+Negative,-1,-1,kwai lan
+Negative,-1,-1,lan jiao
+Negative,-1,-1,liak bo kiu
+Negative,-1,-1,na bei
+Negative,-1,-1,never say earlier
+Negative,-1,-1,orh hor
+Negative,-1,-1,pai say
+Negative,-1,-1,pai seh
+Negative,-1,-1,pai sey
+Negative,-1,-1,pang sai
+Negative,-1,-1,pang she
+Negative,-1,-1,pek chek
+Negative,-1,-1,peng san
+Negative,-1,-1,si beh
+Negative,-1,-1,si bei
+Negative,-1,-1,si bey
+Negative,-1,-1,tak boleh tahan
+Negative,-1,-1,tok tok
+Negative,-1,-1,wah biang
+Negative,-1,-1,wah kao
+Negative,-1,-1,wah lan
+Negative,-1,-1,wah piang
+Negative,-1,-1,wa kao
+Negative,-1,-1,wa lan
+Negative,-1,-1,wa lang
+Negative,-1,-1,wa piang
+Negative,-1,-1,wa yang
+Negative,-1,-1,yah lah
+Negative,-1,-1,zi siao
+Negative,-1,-1,nouveau riche
+Negative,-1,-1,smart alecky
+Negative,-1,-1,fallen angel
+Negative,-1,-1,heart rending
+Negative,-1,-1,without scruple
+Negative,-1,-1,acerbic wit
+Negative,-1,-1,too long
+Negative,-1,-1,gotten off
+Negative,-1,-1,hard to believe
+Negative,-1,-1,lousy friend
+Negative,-1,-1,burnt out
+Negative,-1,-1,bureaucratic nightmare
+Negative,-1,-1,no risk
+Negative,-1,-1,bonus is lower 
+Negative,-1,-1,bonus is low 
+Negative,-1,-1,compensation seems low
+Negative,-1,-1,compensation low
+Negative,-1,-1, low compensation
+Negative,-1,-1,pay at lower
+Negative,-1,-1,pay low
+Negative,-1,-1,lower pay
+Negative,-1,-1,pay lower
+Negative,-1,-1,No work / life balance
+Negative,-1,-1,No work/ life balance
+Negative,-1,-1,No work and life balance
+Negative,-1,-1,interested in utilization
+Negative,-1,-1,Demanding hours
+Negative,-1,-1,no compensation
+Negative,-1,-1,demanding workload
+Negative,-1,-1,Low salary
+Negative,-1,-1,have to work 
+Negative,-1,-1,wears on you
+Negative,-1,-1,wear on you
+Negative,-1,-1,bonus is lower 
+Negative,-1,-1,bonus is low 
+Negative,-1,-1,bonus low 
+Negative,-1,-1,low bonus 
+Negative,-1,-1,bonus lower
+Negative,-1,-1,lower bonus 
+Negative,-1,-1,salary is lower 
+Negative,-1,-1,salary is low 
+Negative,-1,-1,salary low 
+Negative,-1,-1,low salary
+Negative,-1,-1,salary lower
+Negative,-1,-1,lower salary
+Negative,-1,-1,working weekends
+Negative,-1,-1,weekends working 
+Negative,-1,-1,pay less
+Negative,-1,-1,less pay
+Negative,-1,-1,hours are long
+Negative,-1,-1,hours can be long
+Negative,-1,-1,challenge to
+Negative,-1,-1,have to work 
+Negative,-1,-1,challenging to
+Negative,-1,-1,Long working hours
+Positive,1,1,extension service
+Positive,1,1,extracurricular activity
+Positive,1,1,Cut off
+Positive,1,1,Cut away
+Positive,1,1,Cut back
+Positive,1,1,Fever has gone down
+Positive,1,1,take action
+Positive,1,1,advance directive
+Positive,1,1,all hail
+Positive,1,1,all right
+Positive,1,1,bill of health
+Positive,1,1,bounce back
+Positive,1,1,care delivery
+Positive,1,1,electrolyte balance
+Positive,1,1,fat farm
+Positive,1,1,feel like a million
+Positive,1,1,feel like a million dollars
+Positive,1,1,fountain of youth
+Positive,1,1,fringe benefit
+Positive,1,1,get over
+Positive,1,1,get well
+Positive,1,1,good for you
+Positive,1,1,group insurance
+Positive,1,1,health care
+Positive,1,1,health check
+Positive,1,1,health code
+Positive,1,1,health food
+Positive,1,1,health insurance
+Positive,1,1,health physics
+Positive,1,1,health profession
+Positive,1,1,health spa
+Positive,1,1,herbal medicine
+Positive,1,1,hot springs
+Positive,1,1,insured person
+Positive,1,1,malt extract
+Positive,1,1,managed+care
+Positive,1,1,mental balance
+Positive,1,1,mental soundness
+Positive,1,1,new thought
+Positive,1,1,one-hundred percent
+Positive,1,1,pine away
+Positive,1,1,primary health care
+Positive,1,1,rehabilitation program
+Positive,1,1,sanitary code
+Positive,1,1,sanitary engineering
+Positive,1,1,tai chi
+Positive,1,1,t'ai chi
+Positive,1,1,tai chi chuan
+Positive,1,1,t'ai chi chuan
+Positive,1,1,veterinary science
+Positive,1,1,vichy water
+Positive,1,1,vital signs
+Positive,1,1,baik ah
+Positive,1,1,bo leh
+Positive,1,1,buay pai
+Positive,1,1,buey pai
+Positive,1,1,heng ah
+Positive,1,1,hoe mia
+Positive,1,1,ho say
+Positive,1,1,ho seh
+Positive,1,1,huat ah
+Positive,1,1,lao jiao
+Positive,1,1,shiok man
+Positive,1,1,tio bay pio
+Positive,1,1,to kong
+Positive,1,1,yan dao
+Positive,1,1,at ease
+Positive,1,1,at peace
+Positive,1,1,in love
+Positive,1,1,self confident
+Positive,1,1,self conscious
+Positive,1,1,self satisfaction
+Positive,1,1,self satisfied
+Positive,1,1,baik ah
+Positive,1,1,bo leh
+Positive,1,1,buay pai
+Positive,1,1,buey pai
+Positive,1,1,heng ah
+Positive,1,1,hoe mia
+Positive,1,1,ho say
+Positive,1,1,ho seh
+Positive,1,1,huat ah
+Positive,1,1,lao jiao
+Positive,1,1,shiok man
+Positive,1,1,tio bay pio
+Positive,1,1,to kong
+Positive,1,1,yan dao
+Positive,1,1,at ease
+Positive,1,1,at peace
+Positive,1,1,in love
+Positive,1,1,self confident
+Positive,1,1,self conscious
+Positive,1,1,self satisfaction
+Positive,1,1,self satisfied
+Positive,1,1,baik ah
+Positive,1,1,bo leh
+Positive,1,1,buay pai
+Positive,1,1,buey pai
+Positive,1,1,heng ah
+Positive,1,1,hoe mia
+Positive,1,1,ho say
+Positive,1,1,ho seh
+Positive,1,1,huat ah
+Positive,1,1,lao jiao
+Positive,1,1,shiok man
+Positive,1,1,tio bay pio
+Positive,1,1,to kong
+Positive,1,1,yan dao
+Positive,1,1,at ease
+Positive,1,1,at peace
+Positive,1,1,in love
+Positive,1,1,self confident
+Positive,1,1,self conscious
+Positive,1,1,self satisfaction
+Positive,1,1,self satisfied
+Positive,1,1,baik ah
+Positive,1,1,bo leh
+Positive,1,1,buay pai
+Positive,1,1,buey pai
+Positive,1,1,heng ah
+Positive,1,1,hoe mia
+Positive,1,1,ho say
+Positive,1,1,ho seh
+Positive,1,1,huat ah
+Positive,1,1,lao jiao
+Positive,1,1,shiok man
+Positive,1,1,tio bay pio
+Positive,1,1,to kong
+Positive,1,1,yan dao
+Positive,1,1,at ease
+Positive,1,1,at peace
+Positive,1,1,in love
+Positive,1,1,self confident
+Positive,1,1,self conscious
+Positive,1,1,self satisfaction
+Positive,1,1,self satisfied
+Positive,1,1,baik ah
+Positive,1,1,bo leh
+Positive,1,1,buay pai
+Positive,1,1,buey pai
+Positive,1,1,heng ah
+Positive,1,1,hoe mia
+Positive,1,1,ho say
+Positive,1,1,ho seh
+Positive,1,1,huat ah
+Positive,1,1,lao jiao
+Positive,1,1,shiok man
+Positive,1,1,tio bay pio
+Positive,1,1,to kong
+Positive,1,1,yan dao
+Positive,1,1,at ease
+Positive,1,1,at peace
+Positive,1,1,in love
+Positive,1,1,self confident
+Positive,1,1,self conscious
+Positive,1,1,self satisfaction
+Positive,1,1,self satisfied
+Positive,1,1,baik ah
+Positive,1,1,bo leh
+Positive,1,1,buay pai
+Positive,1,1,buey pai
+Positive,1,1,heng ah
+Positive,1,1,hoe mia
+Positive,1,1,ho say
+Positive,1,1,ho seh
+Positive,1,1,huat ah
+Positive,1,1,lao jiao
+Positive,1,1,shiok man
+Positive,1,1,tio bay pio
+Positive,1,1,to kong
+Positive,1,1,yan dao
+Positive,1,1,at ease
+Positive,1,1,at peace
+Positive,1,1,in love
+Positive,1,1,self confident
+Positive,1,1,self conscious
+Positive,1,1,self satisfaction
+Positive,1,1,self satisfied
+Positive,1,1,baik ah
+Positive,1,1,bo leh
+Positive,1,1,buay pai
+Positive,1,1,buey pai
+Positive,1,1,heng ah
+Positive,1,1,hoe mia
+Positive,1,1,ho say
+Positive,1,1,ho seh
+Positive,1,1,huat ah
+Positive,1,1,lao jiao
+Positive,1,1,shiok man
+Positive,1,1,tio bay pio
+Positive,1,1,to kong
+Positive,1,1,yan dao
+Positive,1,1,at ease
+Positive,1,1,at peace
+Positive,1,1,in love
+Positive,1,1,self confident
+Positive,1,1,self conscious
+Positive,1,1,self satisfaction
+Positive,1,1,self satisfied
+Positive,1,1,maintain control
+Positive,1,1,key assets
+Positive,1,1,make a change
+Positive,1,1,Knowledge sharing
+Positive,1,1,make a difference
+Positive,1,1,large company
+Positive,1,1,make sense
+Positive,1,1,large corporation
+Positive,1,1,master degree
+Positive,1,1,large engagement 
+Positive,1,1,May God Bless U
+Positive,1,1,large firm
+Positive,1,1,more alternative voice
+Positive,1,1,Large footprint
+Positive,1,1,more balance
+Positive,1,1,large organization
+Positive,1,1,more exciting
+Positive,1,1,large project
+Positive,1,1,my vote
+Positive,1,1,Learn more
+Positive,1,1,need more
+Positive,1,1,learn new things
+Positive,1,1,never break
+Positive,1,1,Learned a lot
+Positive,1,1,never fail
+Positive,1,1,learning opportunities
+Positive,1,1,never failed
+Positive,1,1,life gift
+Positive,1,1,never say die
+Positive,1,1,Like-minded 
+Positive,1,1,long term career
+Positive,1,1,lot of fun
+Positive,1,1,nice new pic
+Positive,1,1,lot of influence
+Positive,1,1,nice one
+Positive,1,1,lot of learning opportunities
+Positive,1,1,no aristocrats
+Positive,1,1,lot of talented people
+Positive,1,1,no case
+Positive,1,1,lot of training
+Positive,1,1,no more
+Positive,1,1,lot to learn
+Positive,1,1,no pain no gain
+Positive,1,1,lots of freedom
+Positive,1,1,no prob
+Positive,1,1,Lots of fun projects
+Positive,1,1,No Problem
+Positive,1,1,lots of opportunities
+Positive,1,1,no worry
+Positive,1,1,lots of opportunities 
+Positive,1,1,not all
+Positive,1,1,lots of random experience
+Positive,1,1,not blindly
+Positive,1,1,Lots of roles
+Positive,1,1,not borken
+Positive,1,1,lots of valuable experience
+Positive,1,1,not broken
+Positive,1,1,loyalty and dedication
+Positive,1,1,not charge
+Positive,1,1,major clients
+Positive,1,1,not suck
+Positive,1,1,make it  right
+Positive,1,1,Not to worry
+Positive,1,1,many opportunities  
+Positive,1,1,odds be your favour
+Positive,1,1,massive entity
+Positive,1,1,Oh yeah
+Positive,1,1,more advance
+Positive,1,1,oh yes
+Positive,1,1,more aspirational 
+Positive,1,1,ok shape
+Positive,1,1,more effective organization
+Positive,1,1,on point
+Positive,1,1,more flexible
+Positive,1,1,one star general
+Positive,1,1,more productive
+Positive,1,1,open arms
+Positive,1,1,More rewarding 
+Positive,1,1,paid off
+Positive,1,1,more work life balance
+Positive,1,1,please be with
+Positive,1,1,most value
+Positive,1,1,please come
+Positive,1,1,motivated and challenged
+Positive,1,1,please come and contest
+Positive,1,1,motivated people
+Positive,1,1,please contest
+Positive,1,1,move forward
+Positive,1,1,pls bring
+Positive,1,1,much better
+Positive,1,1,pls capture
+Positive,1,1,multiple opportunities 
+Positive,1,1,pls come
+Positive,1,1,needs are satisfied
+Positive,1,1,pls contest
+Positive,1,1,network effectively 
+Positive,1,1,pls win
+Positive,1,1,new acquisition
+Positive,1,1,plse come
+Positive,1,1,New initiative
+Positive,1,1,power of THOR
+Positive,1,1,new opportunity
+Positive,1,1,pretty and cute
+Positive,1,1,nothing negative 
+Positive,1,1,pretty face
+Positive,1,1,nurtures growth
+Positive,1,1,professional environment
+Positive,1,1,opportunities are endless
+Positive,1,1,quite like it
+Positive,1,1,opportunities are plenty
+Positive,1,1,rally for
+Positive,1,1,outsourcing more responsibilities
+Positive,1,1,ready too
+Positive,1,1,own career path
+Positive,1,1,really confident
+Positive,1,1,parent child approach
+Positive,1,1,rest my case
+Positive,1,1,pay scale is aggressive
+Positive,1,1,rollin the sun
+Positive,1,1,perks
+Positive,1,1,second to none
+Positive,1,1,positive feedback 
+Positive,1,1,seems genuine
+Positive,1,1,prestige and challenging work
+Positive,1,1,self improvement
+Positive,1,1,Prestigious firm
+Positive,1,1,serving to provide the people
+Positive,1,1,Prestigious name
+Positive,1,1,she knows
+Positive,1,1,professional growth
+Positive,1,1,she nice
+Positive,1,1,Professionally challenging
+Positive,1,1,she will
+Positive,1,1,pro's outweigh
+Positive,1,1,she's hot
+Positive,1,1,quick opportunity for growth
+Positive,1,1,sledgehammer time
+Positive,1,1,receptive to your ideas
+Positive,1,1,sleep well
+Positive,1,1,recognition in timely manner
+Positive,1,1,so pretty
+Positive,1,1,recognized name
+Positive,1,1,soldier on
+Positive,1,1,Reimburse expenses quickly
+Positive,1,1,speak fluently and clearly
+Positive,1,1,reorganizes roles 
+Positive,1,1,speaks for the people
+Positive,1,1,resources are vast
+Positive,1,1,stand up
+Positive,1,1,right employees
+Positive,1,1,start form some where right
+Positive,1,1,right place
+Positive,1,1,start from some where right
+Positive,1,1,right place 
+Positive,1,1,starts out young
+Positive,1,1,rise and promotion
+Positive,1,1,stating the fact
+Positive,1,1,Salary is competitive
+Positive,1,1,step forward
+Positive,1,1,self review and feedback
+Positive,1,1,step up
+Positive,1,1,sharp analysis skills
+Positive,1,1,still queuing
+Positive,1,1,significant clients
+Positive,1,1,still the best
+Positive,1,1,significant difference
+Positive,1,1,super hammer
+Positive,1,1,star performers 
+Positive,1,1,sure win
+Positive,1,1,strong accounting skills
+Positive,1,1,swee hor
+Positive,1,1,strong communication skills
+Positive,1,1,take over
+Positive,1,1,Strong lobby culture
+Positive,1,1,team working
+Positive,1,1,strong sense of obligation
+Positive,1,1,thank you
+Positive,1,1,structured promotions
+Positive,1,1,they talk more
+Positive,1,1,substantial improvements
+Positive,1,1,to win
+Positive,1,1,Supporting Colleagues
+Positive,1,1,tons of money
+Positive,1,1,survival of the fittest
+Positive,1,1,too strong
+Positive,1,1,targeting growth
+Positive,1,1,totally agree
+Positive,1,1,team focused
+Positive,1,1,tough choice
+Positive,1,1,teams are strong
+Positive,1,1,united against
+Positive,1,1,Tons of smart people 
+Positive,1,1,up and up
+Positive,1,1,Top notch
+Positive,1,1,up for it
+Positive,1,1,Top quality 
+Positive,1,1,use brain to think
+Positive,1,1,training oportunities
+Positive,1,1,vell done
+Positive,1,1,treasure diversity
+Positive,1,1,very confident
+Positive,1,1,Unlimited sick leave
+Positive,1,1,very happy
+Positive,1,1,unlimited sick time
+Positive,1,1,very lucky
+Positive,1,1,unlimited time off 
+Positive,1,1,vote for
+Positive,1,1,variety of people
+Positive,1,1,vote for change
+Positive,1,1,volunteer opportunities
+Positive,1,1,vote her
+Positive,1,1,well planned
+Positive,1,1,vote in
+Positive,1,1,wide range of experience 
+Positive,1,1,vote is her
+Positive,1,1,willing to help
+Positive,1,1,waiting for this moment
+Positive,1,1,work always gets done
+Positive,1,1,wants it all
+Positive,1,1,work at any location
+Positive,1,1,wasn't too bad
+Positive,1,1,work done right
+Positive,1,1,way to go
+Positive,1,1,work flexibility 
+Positive,1,1,welcome back
+Positive,1,1,work from home
+Positive,1,1,well ahead
+Positive,1,1,Work independently
+Positive,1,1,well done
+Positive,1,1,work life quality
+Positive,1,1,well said
+Positive,1,1,Work-life balance
+Positive,1,1,why not
+Positive,1,1,worth it for you
+Positive,1,1,will be conquered
+Positive,1,1,worth the sacrifice
+Positive,1,1,win all
+Positive,1,1,year over year raises  
+Positive,1,1,win win
+Positive,1,1,year-over-year growth 
+Positive,1,1,win win win
+Positive,1,1,young Colleagues
+Positive,1,1,without any entourage
+Positive,1,1,won't work
+Positive,1,1,a step up
+Positive,1,1,you are my whole world
+Positive,1,1,A team
+Positive,1,1,yummy chocolate
+Positive,1,1,AAA rating
+Positive,1,1,compensated better
+Positive,1,1,absolutely awesome
+Positive,1,1,a lot of training
+Positive,1,1,accept defeat
+Positive,1,1,lots of training
+Positive,1,1,all e best
+Positive,1,1,care about you
+Positive,1,1,all our support
+Positive,1,1,highly rewarded
+Positive,1,1,all the best
+Positive,1,1,huge company
+Positive,1,1,all the very best
+Positive,1,1,immense resources
+Positive,1,1,all the way
+Positive,1,1,learn a lot
+Positive,1,1,always try
+Positive,1,1,lot of growth
+Positive,1,1,anything pap says they will do
+Positive,1,1,lot of recruiters attention
+Positive,1,1,at least
+Positive,1,1,new challenge
+Positive,1,1,be our voice
+Positive,1,1,people oriented
+Positive,1,1,behind you
+Positive,1,1,performance driven culture
+Positive,1,1,best of luck
+Positive,1,1,promotes equality
+Positive,1,1,best wishes
+Positive,1,1,unlimited sick days
+Positive,1,1,better future
+Positive,1,1,work life balance
+Positive,1,1,better mood
+Positive,1,1,advance career
+Positive,1,1,better place
+Positive,1,1,advance fairly quickly
+Positive,1,1,better suggestions
+Positive,1,1,advisory opportunities
+Positive,1,1,better than
+Positive,1,1,amazing accountant
+Positive,1,1,better than nothing
+Positive,1,1,annual promotions
+Positive,1,1,bigger chance
+Positive,1,1,annual raises
+Positive,1,1,bother to
+Positive,1,1,balancing work 
+Positive,1,1,brand new
+Positive,1,1,benefit for career
+Positive,1,1,bring us victory
+Positive,1,1,benefits of working
+Positive,1,1,bring your hammer
+Positive,1,1,better at flexibility
+Positive,1,1,but are they
+Positive,1,1,better bonus
+Positive,1,1,can assist
+Positive,1,1,better career path
+Positive,1,1,can contest
+Positive,1,1,better increment
+Positive,1,1,can manage
+Positive,1,1,better with bonuses
+Positive,1,1,can vote
+Positive,1,1,big company
+Positive,1,1,can you?
+Positive,1,1,big firm
+Positive,1,1,cannot change
+Positive,1,1,big four company
+Positive,1,1,can't fix
+Positive,1,1,Big Four Firm
+Positive,1,1,can't wait
+Positive,1,1,big team
+Positive,1,1,cheerful and sincere
+Positive,1,1,bigger picture
+Positive,1,1,chio bu
+Positive,1,1,bonus increases
+Positive,1,1,come and contest
+Positive,1,1,Brand name
+Positive,1,1,Come take
+Positive,1,1,brand recongintion
+Positive,1,1,cute tho
+Positive,1,1,Bright and experienced
+Positive,1,1,deserve a chance
+Positive,1,1,Bright people
+Positive,1,1,desrve credit
+Positive,1,1,bright staff
+Positive,1,1,did make it happen
+Positive,1,1,care about people
+Positive,1,1,did not cry
+Positive,1,1,career advancement
+Positive,1,1,do not hate
+Positive,1,1,career opportunities
+Positive,1,1,don't bully
+Positive,1,1,career path is direct
+Positive,1,1,don't just target
+Positive,1,1,career progression
+Positive,1,1,don't vote blindly
+Positive,1,1,cares about you
+Positive,1,1,don't worry
+Positive,1,1,challenging and fulfilling
+Positive,1,1,doubles your chances
+Positive,1,1,challenging project 
+Positive,1,1,downsize the highly
+Positive,1,1,Challenging Projects
+Positive,1,1,economy growth
+Positive,1,1,Challenging work
+Positive,1,1,enjoy it
+Positive,1,1,Challenging work 
+Positive,1,1,every single cents
+Positive,1,1,Client exposure
+Positive,1,1,experience grows with age
+Positive,1,1,company  big
+Positive,1,1,feel free
+Positive,1,1,company promotes 
+Positive,1,1,feels good
+Positive,1,1,competitive environment
+Positive,1,1,finally home
+Positive,1,1,cool projects
+Positive,1,1,firm grip
+Positive,1,1,Corporate Structure
+Positive,1,1,fixed all
+Positive,1,1,creates opportunities
+Positive,1,1,for sights
+Positive,1,1,dedicated people
+Positive,1,1,for singapore
+Positive,1,1,develops people
+Positive,1,1,freakin killer
+Positive,1,1,diverse of talent 
+Positive,1,1,full support
+Positive,1,1,drive and ambition
+Positive,1,1,gain experience
+Positive,1,1,dynamic environment
+Positive,1,1,Gd luck
+Positive,1,1,easy job
+Positive,1,1,economy was strong
+Positive,1,1,give her a chance
+Positive,1,1,empowers team
+Positive,1,1,given a chance
+Positive,1,1,encourage lifestyles
+Positive,1,1,go ahead
+Positive,1,1,Endless Opportunities
+Positive,1,1,go for it
+Positive,1,1,Endless resources
+Positive,1,1,go go go
+Positive,1,1,enormous offices
+Positive,1,1,go heaven
+Positive,1,1,environment are worth 
+Positive,1,1,god always bless
+Positive,1,1,ethical high integrity workforce
+Positive,1,1,goes smoothly
+Positive,1,1,Experience gained
+Positive,1,1,golden hammer
+Positive,1,1,exposure is extensive
+Positive,1,1,gonna get it
+Positive,1,1,exposure to different industries
+Positive,1,1,Goo*d morning
+Positive,1,1,extremely smart
+Positive,1,1,good cuppa tea
+Positive,1,1,fantastic people 
+Positive,1,1,good faith
+Positive,1,1,fast track of learning
+Positive,1,1,good fight
+Positive,1,1,few cons
+Positive,1,1,good governance
+Positive,1,1,few dislikes
+Positive,1,1,good luck
+Positive,1,1,firm seems large
+Positive,1,1,good move
+Positive,1,1,first class
+Positive,1,1,good one
+Positive,1,1,flexbile hours
+Positive,1,1,good to dream
+Positive,1,1,flexible summer
+Positive,1,1,goodbye WP
+Positive,1,1,flexible work arrangements
+Positive,1,1,got my
+Positive,1,1,flexible work environment
+Positive,1,1,got my vote
+Positive,1,1,flexible work hours
+Positive,1,1,Great exposure
+Positive,1,1,flexible work policy
+Positive,1,1,greater impression
+Positive,1,1,Flyer mileage
+Positive,1,1,hammer it
+Positive,1,1,focused on growth
+Positive,1,1,hammer them down
+Positive,1,1,gain recognition
+Positive,1,1,Hammer time
+Positive,1,1,gaining experiences
+Positive,1,1,hang out
+Positive,1,1,get high ratings
+Positive,1,1,happy birthday
+Positive,1,1,get promoted
+Positive,1,1,heck yeah
+Positive,1,1,Get Raises quickly
+Positive,1,1,Hell yeah
+Positive,1,1,global  jobs
+Positive,1,1,here I come
+Positive,1,1,Global firm
+Positive,1,1,here to stay
+Positive,1,1,go out of the way to help
+Positive,1,1,high income
+Positive,1,1,grouth focused
+Positive,1,1,huat ah
+Positive,1,1,growth and advancement
+Positive,1,1,huge number of people joining
+Positive,1,1,growth oportunities
+Positive,1,1,I like
+Positive,1,1,growth potential
+Positive,1,1,I like her
+Positive,1,1,Hardworking Staff
+Positive,1,1,I support
+Positive,1,1,high caliber
+Positive,1,1,I will be there
+Positive,1,1,high company growth
+Positive,1,1,interesting than not
+Positive,1,1,it rocks
+Positive,1,1,it works
+Positive,1,1,high level
+Positive,1,1,jai ho
+Positive,1,1,high performance
+Positive,1,1,jia you
+Positive,1,1,high performance 
+Positive,1,1,jin swee
+Positive,1,1,high performance environment
+Positive,1,1,join us
+Positive,1,1,high performing environment
+Positive,1,1,jumped up
+Positive,1,1,high quality in every facet
+Positive,1,1,keep it up
+Positive,1,1,highly competitive
+Positive,1,1,kept those comment to yourself
+Positive,1,1,highly encouraged
+Positive,1,1,hours are flexible
+Positive,1,1,kicking back
+Positive,1,1,inclusive culture
+Positive,1,1,know very well
+Positive,1,1,incredible perks
+Positive,1,1,less unconstructive argument
+Positive,1,1,inspirational on doing activities
+Positive,1,1,limited down
+Positive,1,1,instant credibility
+Positive,1,1,lokking forward
+Positive,1,1,interesting & Challenging work
+Positive,1,1,long may it last
+Positive,1,1,interesting company
+Positive,1,1,look around
+Positive,1,1,interesting opportunity
+Positive,1,1,looking forward
+Positive,1,1,Internatioanlity & global chances
+Positive,1,1,looking forward to
+Positive,1,1,international opportunities
+Positive,1,1,looks really good
+Positive,1,1,job is high
+Positive,1,1,lying down
+Positive,1,1,Job Security
+Positive,1,1,main human resources
+Positive,1,1,Job stability
+Positive,1,1,extension service
+Positive,1,1,extracurricular activity
+Positive,1,1,pleasing entity or occurrence
+Positive,1,1,primrose path
+Positive,1,1,Promised Land
+Positive,1,1,psyched up
+Positive,1,1,quick fix
+Positive,1,1,quiet mind
+Positive,1,1,ray of sunshine
+Positive,1,1,red carpet
+Positive,1,1,red-carpet
+Positive,1,1,red-letter
+Positive,1,1,red letter
+Positive,1,1,regular fellow
+Positive,1,1,right neighborly
+Positive,1,1,right on
+Positive,1,1,rip roaring
+Positive,1,1,rip-roaring
+Positive,1,1,rock and roll
+Positive,1,1,roll in the aisles
+Positive,1,1,roll with the punches
+Positive,1,1,rose-colored
+Positive,1,1,rose-colored glasses
+Positive,1,1,run of luck
+Positive,1,1,self-admiration
+Positive,1,1,self-assured
+Positive,1,1,self-confidence
+Positive,1,1,self-contented
+Positive,1,1,self-esteem
+Positive,1,1,self-love
+Positive,1,1,self-pleased
+Positive,1,1,self-possessed
+Positive,1,1,self-regard
+Positive,1,1,self-respect
+Positive,1,1,self-satisfaction
+Positive,1,1,self-satisfied
+Positive,1,1,self-sufficiency
+Positive,1,1,self-trust
+Positive,1,1,self-worth
+Positive,1,1,self admiration
+Positive,1,1,self assured
+Positive,1,1,self confidence
+Positive,1,1,self contented
+Positive,1,1,self esteem
+Positive,1,1,self love
+Positive,1,1,self pleased
+Positive,1,1,self possessed
+Positive,1,1,self regard
+Positive,1,1,self respect
+Positive,1,1,self satisfaction
+Positive,1,1,self satisfied
+Positive,1,1,self sufficiency
+Positive,1,1,self trust
+Positive,1,1,self worth
+Positive,1,1,seventh heaven
+Positive,1,1,shaggy dog story
+Positive,1,1,Shangri-la
+Positive,1,1,side-splitting
+Positive,1,1,side splitting
+Positive,1,1,sitting pretty
+Positive,1,1,snug as a bug in a rug
+Positive,1,1,soft job
+Positive,1,1,soft pedal
+Positive,1,1,soft-pedal
+Positive,1,1,stars in one's eyes
+Positive,1,1,state of having positive beliefs
+Positive,1,1,steady as a rock
+Positive,1,1,streak of luck
+Positive,1,1,striking it rich
+Positive,1,1,string along
+Positive,1,1,sugary food
+Positive,1,1,sunny side
+Positive,1,1,sweetness and light
+Positive,1,1,that's the ticket
+Positive,1,1,the green light
+Positive,1,1,tickled pink
+Positive,1,1,tickled to death
+Positive,1,1,to have the balls
+Positive,1,1,to the point
+Positive,1,1,top dog
+Positive,1,1,turned pink
+Positive,1,1,turn-on
+Positive,1,1,up to snuff
+Positive,1,1,up-and-coming
+Positive,1,1,vim and vigor
+Positive,1,1,walk on air
+Positive,1,1,walking on air
+Positive,1,1,well-chosen
+Positive,1,1,well-deserved
+Positive,1,1,well-disposed
+Positive,1,1,well-off
+Positive,1,1,well-suited
+Positive,1,1,well-timed
+Positive,1,1,well-to-do
+Positive,1,1,what the doctor ordered
+Positive,1,1,white lie
+Positive,1,1,willing to be in unison
+Positive,1,1,ahead of the game
+Positive,1,1,all systems go
+Positive,1,1,amour propre
+Positive,1,1,amour-propre
+Positive,1,1,at peace
+Positive,1,1,at rest
+Positive,1,1,at the top
+Positive,1,1,at top of ladder
+Positive,1,1,at oneness
+Positive,1,1,at-oneness
+Positive,1,1,au fait
+Positive,1,1,back slapping
+Positive,1,1,back-slapping
+Positive,1,1,bed of roses
+Positive,1,1,believing positively
+Positive,1,1,big break
+Positive,1,1,big hit
+Positive,1,1,big scene
+Positive,1,1,big time
+Positive,1,1,born in the purple
+Positive,1,1,born with a silver spoon
+Positive,1,1,bread upon the waters
+Positive,1,1,break a record
+Positive,1,1,break free
+Positive,1,1,break the ice
+Positive,1,1,break through
+Positive,1,1,brought to a close
+Positive,1,1,buddy-buddy
+Positive,1,1,can't complain
+Positive,1,1,cared for
+Positive,1,1,catbird seat
+Positive,1,1,clear conscience
+Positive,1,1,clear the air
+Positive,1,1,cloud nine
+Positive,1,1,coming up roses
+Positive,1,1,comme il faut
+Positive,1,1,contented state
+Positive,1,1,creature comforts
+Positive,1,1,cut out for
+Positive,1,1,distinctive quality
+Positive,1,1,do well
+Positive,1,1,duty bound
+Positive,1,1,duty-bound
+Positive,1,1,eternal home
+Positive,1,1,eternal rest
+Positive,1,1,every dog has its day
+Positive,1,1,everything going
+Positive,1,1,fat cat
+Positive,1,1,floating on air
+Positive,1,1,flying colors
+Positive,1,1,flying high
+Positive,1,1,for grins
+Positive,1,1,full of life
+Positive,1,1,full of pep
+Positive,1,1,full of promise
+Positive,1,1,full of zip
+Positive,1,1,fun time
+Positive,1,1,fun loving
+Positive,1,1,fun-loving
+Positive,1,1,funny bone
+Positive,1,1,game for
+Positive,1,1,get a break
+Positive,1,1,get some air
+Positive,1,1,getting a break
+Positive,1,1,get-up-and-go
+Positive,1,1,get up and go
+Positive,1,1,glad handering
+Positive,1,1,glad-handering
+Positive,1,1,go along with
+Positive,1,1,go to bat for
+Positive,1,1,golden age
+Positive,1,1,grand slam
+Positive,1,1,gravy train
+Positive,1,1,green fingers
+Positive,1,1,grin like a cheshire cat
+Positive,1,1,happy go lucky
+Positive,1,1,happy-go-lucky
+Positive,1,1,having fun
+Positive,1,1,head rush
+Positive,1,1,health and prosperity
+Positive,1,1,heart to heart
+Positive,1,1,heart-to-heart
+Positive,1,1,high hopes
+Positive,1,1,high jinks
+Positive,1,1,high spirits
+Positive,1,1,high-spirited
+Positive,1,1,high-spiritedness
+Positive,1,1,high spirited
+Positive,1,1,high spiritedness
+Positive,1,1,hit it big
+Positive,1,1,hold the trump card
+Positive,1,1,holding aces
+Positive,1,1,honor-bound
+Positive,1,1,in accord
+Positive,1,1,in character
+Positive,1,1,in favor
+Positive,1,1,in high spirits
+Positive,1,1,in keeping
+Positive,1,1,in the black
+Positive,1,1,in the cards
+Positive,1,1,in the gravy
+Positive,1,1,in the groove
+Positive,1,1,in the lead
+Positive,1,1,in the mood
+Positive,1,1,in the pink of health
+Positive,1,1,into something
+Positive,1,1,joie de vivre
+Positive,1,1,juiced up
+Positive,1,1,just the ticket
+Positive,1,1,just what was ordered
+Positive,1,1,keen interest
+Positive,1,1,keeping the faith
+Positive,1,1,kill two birds with one stone
+Positive,1,1,lack of difficulty
+Positive,1,1,lap of luxury
+Positive,1,1,leave no stone unturned
+Positive,1,1,leisure activity
+Positive,1,1,life everlasting
+Positive,1,1,light in spirit
+Positive,1,1,light-hearted
+Positive,1,1,light hearted
+Positive,1,1,lightheartedness
+Positive,1,1,light heartedness
+Positive,1,1,light-heartedness
+Positive,1,1,lightness in spirit
+Positive,1,1,like-minded
+Positive,1,1,living it up
+Positive,1,1,load off one's mind
+Positive,1,1,look like the cat that swallowed the canary
+Positive,1,1,looking on bright side
+Positive,1,1,looking on the bright side
+Positive,1,1,looking through rose-colored glasses
+Positive,1,1,loose-fitting
+Positive,1,1,lots of laughs
+Positive,1,1,luck in
+Positive,1,1,luck out
+Positive,1,1,lucky break
+Positive,1,1,lucky-dog
+Positive,1,1,made well
+Positive,1,1,mental freedom
+Positive,1,1,much obliged
+Positive,1,1,not bad
+Positive,1,1,on a roll
+Positive,1,1,on a streak
+Positive,1,1,on cloud nine
+Positive,1,1,on the arm
+Positive,1,1,on the ball
+Positive,1,1,on the button
+Positive,1,1,on the nose
+Positive,1,1,on top
+Positive,1,1,on top of world
+Positive,1,1,on track
+Positive,1,1,out front
+Positive,1,1,out in front
+Positive,1,1,paint the town red
+Positive,1,1,palsy-walsy
+Positive,1,1,peace of mind
+Positive,1,1,pearly gates
+Positive,1,1,place where god lives
+Positive,1,1,pleased as punch
+Positive,1,1,new thought
+Positive,1,1,one-hundred percent
+Positive,1,1,pine away
+Positive,1,1,primary health care
+Positive,1,1,rehabilitation program
+Positive,1,1,sanitary code
+Positive,1,1,sanitary engineering
+Positive,1,1,tai chi
+Positive,1,1,t'ai chi
+Positive,1,1,tai chi chuan
+Positive,1,1,t'ai chi chuan
+Positive,1,1,veterinary science
+Positive,1,1,vichy water
+Positive,1,1,vital signs
+Positive,1,1,Cut off
+Positive,1,1,Cut away
+Positive,1,1,Fever has gone down
+Positive,1,1,take action
+Positive,1,1,advance directive
+Positive,1,1,all hail
+Positive,1,1,all right
+Positive,1,1,bill of health
+Positive,1,1,bounce back
+Positive,1,1,care delivery
+Positive,1,1,electrolyte balance
+Positive,1,1,fat farm
+Positive,1,1,feel like a million
+Positive,1,1,feel like a million dollars
+Positive,1,1,fountain of youth
+Positive,1,1,fringe benefit
+Positive,1,1,get over
+Positive,1,1,get well
+Positive,1,1,good for you
+Positive,1,1,group insurance
+Positive,1,1,health care
+Positive,1,1,health check
+Positive,1,1,health code
+Positive,1,1,health food
+Positive,1,1,health insurance
+Positive,1,1,health physics
+Positive,1,1,health profession
+Positive,1,1,health spa
+Positive,1,1,herbal medicine
+Positive,1,1,hot springs
+Positive,1,1,insured person
+Positive,1,1,malt extract
+Positive,1,1,managed+care
+Positive,1,1,mental balance
+Positive,1,1,mental soundness
+Positive,1,1,agree whole-heartedly
+Positive,1,1,right in his comment
+Positive,1,1,multi racial
+Positive,1,1,nulti religious
+Positive,1,1,open minded
+Positive,1,1,some truth to what he say
+Positive,1,1,high quality
+Positive,1,1,jaw droping
+Positive,1,1,jaw dropping
+Positive,1,1,kid friendly
+Positive,1,1,large capacity
+Positive,1,1,law abiding
+Positive,1,1,long lasting
+Positive,1,1,mind blowing
+Positive,1,1,multi purpose
+Positive,1,1,pre eminent
+Positive,1,1,rock star
+Positive,1,1,rock stars
+Positive,1,1,self sufficient
+Positive,1,1,state-of-the-art
+Positive,1,1,state of the art
+Positive,1,1,thumb up
+Positive,1,1,thumbs up
+Positive,1,1,top quality
+Positive,1,1,user friendly
+Positive,1,1,well known
+Positive,1,1,world famous
+Positive,1,1,worth while
+Positive,1,1,baik ah
+Positive,1,1,buay pai
+Positive,1,1,bueypai
+Positive,1,1,buey pai
+Positive,1,1,heng ah
+Positive,1,1,hoe mia
+Positive,1,1,ho say
+Positive,1,1,ho seh
+Positive,1,1,lao jiao
+Positive,1,1,tio bay pio
+Positive,1,1,to kong
+Positive,1,1,yan dao
+Positive,1,1,more spsace
+Positive,1,1,enough space
+Positive,1,1,to like
+Positive,1,1,you like
+Positive,1,1,we like
+Positive,1,1,they like
+Positive,1,1,do like
+Positive,1,1,did like
+Positive,1,1,will like
+Positive,1,1,does like
+Positive,1,1,really like
+Positive,1,1,fall in love
+Positive,1,1,clear cut
+Positive,1,1,counter attack
+Positive,1,1,counter attacks
+Positive,1,1,dummy proof
+Positive,1,1,low cost
+Positive,1,1,low price
+Positive,1,1,low priced
+Positive,1,1,low risk
+Positive,1,1,lower priced
+Positive,1,1,non violence
+Positive,1,1,non violent
+Positive,1,1,problem solver
+Positive,1,1,eye catch
+Positive,1,1,eye catching
+Positive,1,1,eyecatch
+Positive,1,1,eyecatching
+Positive,1,1,fast growing
+Positive,1,1,fast paced
+Positive,1,1,fastest
+Positive,1,1,fastest growing
+Positive,1,1,god given
+Positive,1,1,god send
+Positive,1,1,hands down
+Positive,1,1,hard working
+Positive,1,1,financial windfall 
+Positive,1,1,awe inspiring 
+Positive,1,1,ground breaking 
+Positive,1,1,pro active 
+Positive,1,1,thought provoking 
+Positive,1,1,light hearted 
+Positive,1,1,standing ovation 
+Positive,1,1,heart warming 
+Positive,1,1,court upheld 
+Positive,1,1,cutting edge 
+Positive,1,1,co operative 
+Positive,1,1,thank god 
+Positive,1,1,well known 
+Positive,1,1,self empowerment 
+Positive,1,1,mind blowing 
+Positive,1,1,warm hearted 
+Positive,1,1,rather than reactive
+Positive,1,1,self sacrificing 
+Positive,1,1,thank you 
+Positive,1,1,action packed 
+Positive,1,1,re affirm 
+Positive,1,1,finely wrought 
+Positive,1,1,easily understood 
+Positive,1,1,spell binding 
+Positive,1,1,amuse bouche 
+Positive,1,1,mouth watering 
+Positive,1,1,awe struck 
+Positive,1,1,self confidence 
+Positive,1,1,never wavered 
+Positive,1,1,crime fighter 
+Positive,1,1,eye popping 
+Positive,1,1,self sacrifice 
+Positive,1,1,big hearted 
+Positive,1,1,understated elegance 
+Positive,1,1,pop star 
+Positive,1,1,eye opening 
+Positive,1,1,top notch 
+Positive,1,1,encourage innovation 
+Positive,1,1,high caliber 
+Positive,1,1,no doubt 
+Positive,1,1,pleasantly surprised 
+Positive,1,1,decked out 
+Positive,1,1,upper class 
+Positive,1,1,standing ovations 
+Positive,1,1,cost savings 
+Positive,1,1,remove barriers 
+Positive,1,1,thanking god 
+Positive,1,1,belly laughs 
+Positive,1,1,amiable disposition 
+Positive,1,1,accumulating wealth 
+Positive,1,1,beaming smile 
+Positive,1,1,punch lines 
+Positive,1,1,forward thinking 
+Positive,1,1,honor bestowed 
+Positive,1,1,rapid recovery 
+Positive,1,1,encourages innovation 
+Positive,1,1,open hearted 
+Positive,1,1,sharp witted 
+Positive,1,1,solidly built 
+Positive,1,1,hard fought 
+Positive,1,1,near flawless 
+Positive,1,1,emerged victorious 
+Positive,1,1,re energize 
+Positive,1,1,unprecedented opportunity 
+Positive,1,1,supernatural powers 
+Positive,1,1,exceptional contribution 
+Positive,1,1,thank everyone 
+Positive,1,1,emerging victorious 
+Positive,1,1,intellectually stimulating 
+Positive,1,1,richly imagined 
+Positive,1,1,refined elegance 
+Positive,1,1,soft lighting 
+Positive,1,1,weather resistant 
+Positive,1,1,received accolades 
+Positive,1,1,high quality 
+Positive,1,1,sustained applause 
+Positive,1,1,kind hearted 
+Positive,1,1,eye catching 
+Positive,1,1,quick wit 
+Positive,1,1,sparkling eyes 
+Positive,1,1,won acclaim 
+Positive,1,1,nearly flawless 
+Positive,1,1,towering above 
+Positive,1,1,holistic healing 
+Positive,1,1,lasting contributions 
+Positive,1,1,magnum opus 
+Positive,1,1,beautifully shot 
+Positive,1,1,most importantly 
+Positive,1,1,stay healthy 
+Positive,1,1,exceptional bravery 
+Positive,1,1,exceptional courage 
+Positive,1,1,dramatic advances 
+Positive,1,1,trademark humor 
+Positive,1,1,philanthropic endeavors 
+Positive,1,1,full range 
+Positive,1,1,richly diverse 
+Positive,1,1,looking forward 
+Positive,1,1,unflinching courage 
+Positive,1,1,elegantly decorated 
+Positive,1,1,divine blessings 
+Positive,1,1,engagingly written 
+Positive,1,1,critical praise 
+Positive,1,1,exceptional contributions 
+Positive,1,1,marveling at 
+Positive,1,1,hearty thanks 
+Positive,1,1,lavishly decorated 
+Positive,1,1,head bowed 
+Positive,1,1,sweet treats 
+Positive,1,1,self transcendence 
+Positive,1,1,fresh baked 
+Positive,1,1,vivacious young 
+Positive,1,1,strongly encourage 
+Positive,1,1,deep admiration 
+Positive,1,1,sparkling wit 
+Positive,1,1,readily available 
+Positive,1,1,divine inspiration 
+Positive,1,1,aesthetic beauty 
+Positive,1,1,piercing eyes 
+Positive,1,1,god bless 
+Positive,1,1,highly rewarding 
+Positive,1,1,unfailingly polite 
+Positive,1,1,profound admiration 
+Positive,1,1,dauntless courage 
+Positive,1,1,infectious enthusiasm 
+Positive,1,1,deepest thanks 
+Positive,1,1,passionate commitment 
+Positive,1,1,gothic romance 
+Positive,1,1,offer reassurance 
+Positive,1,1,guardian angel 
+Positive,1,1,tireless commitment 
+Positive,1,1,widely praised 
+Positive,1,1,friendly smile 
+Positive,1,1,free spirited 
+Positive,1,1,courtly love 
+Positive,1,1,irresistible charm 
+Positive,1,1,polite applause 
+Positive,1,1,drew inspiration 
+Positive,1,1,leading edge 
+Positive,1,1,scholarly achievement 
+Positive,1,1,critical acclaim 
+Positive,1,1,corrosion resistant 
+Positive,1,1,god mercy 
+Positive,1,1,rapid advances 
+Positive,1,1,encourages creativity 
+Positive,1,1,actively encouraged 
+Positive,1,1,actively encouraging 
+Positive,1,1,finely crafted 
+Positive,1,1,gaining popularity 
+Positive,1,1,easily readable 
+Positive,1,1,mutual affection 
+Positive,1,1,romantic fantasies 
+Positive,1,1,breakthrough innovations 
+Positive,1,1,received numerous 
+Positive,1,1,lasting fame 
+Positive,1,1,look forward 
+Positive,1,1,noteworthy accomplishments 
+Positive,1,1,highest quality 
+Positive,1,1,incomparable beauty 
+Positive,1,1,generous contributions 
+Positive,1,1,lasting prosperity 
+Positive,1,1,tactical advantage 
+Positive,1,1,triumphed over 
+Positive,1,1,charitable trusts 
+Positive,1,1,tranquil beauty 
+Positive,1,1,successive victories 
+Positive,1,1,deeply honored 
+Positive,1,1,world renown 
+Positive,1,1,demonstrated excellence 
+Positive,1,1,conspicuous courage 
+Positive,1,1,warmly welcome 
+Positive,1,1,impeccably dressed 
+Positive,1,1,warm smile 
+Positive,1,1,warmest congratulations 
+Positive,1,1,well suited 
+Positive,1,1,competitive advantage 
+Positive,1,1,deeply flavored 
+Positive,1,1,sincere piety 
+Positive,1,1,remain optimistic 
+Positive,1,1,ready witted 
+Positive,1,1,exquisite workmanship 
+Positive,1,1,mind boggling 
+Positive,1,1,highly esteemed 
+Positive,1,1,extraordinary talents 
+Positive,1,1,renewed optimism 
+Positive,1,1,richly flavored 
+Positive,1,1,shock resistant 
+Positive,1,1,received acclaim 
+Positive,1,1,recognizes excellence 
+Positive,1,1,dogged determination 
+Positive,1,1,passionate devotion 
+Positive,1,1,congregational worship 
+Positive,1,1,dazzling smile 
+Positive,1,1,wise counsel 
+Positive,1,1,abiding love 
+Positive,1,1,wide renown 
+Positive,1,1,soft spoken 
+Positive,1,1,provide reassurance 
+Positive,1,1,wild applause 
+Positive,1,1,wise cracking 
+Positive,1,1,profoundly moving 
+Positive,1,1,warm welcome 
+Positive,1,1,gently humorous 
+Positive,1,1,blowing kisses 
+Positive,1,1,profound respect 
+Positive,1,1,highest honour 
+Positive,1,1,timeless elegance 
+Positive,1,1,strongly encourages 
+Positive,1,1,path breaking 
+Positive,1,1,clearly articulate 
+Positive,1,1,easily adapted 
+Positive,1,1,immensely talented 
+Positive,1,1,revolutionary advances 
+Positive,1,1,wondrous beauty 
+Positive,1,1,pro actively 
+Positive,1,1,tastefully decorated 
+Positive,1,1,widely known 
+Positive,1,1,peaceful resolution 
+Positive,1,1,rapturous applause 
+Positive,1,1,restore peace 
+Positive,1,1,worshipping god 
+Positive,1,1,generous donors 
+Positive,1,1,dramatic improvements 
+Positive,1,1,immensely readable 
+Positive,1,1,extraordinary talent 
+Positive,1,1,hollywood glamour 
+Positive,1,1,readily adaptable 
+Positive,1,1,sheer delight 
+Positive,1,1,tremendous advances 
+Positive,1,1,absolute joy 
+Positive,1,1,self assured 
+Positive,1,1,charitable giving 
+Positive,1,1,legendary figure 
+Positive,1,1,timeless beauty 
+Positive,1,1,pre eminent 
+Positive,1,1,sustained economic growth
+Positive,1,1,positive effects 
+Positive,1,1,deep seated 
+Positive,1,1,valuable contribution 
+Positive,1,1,intrinsic beauty 
+Positive,1,1,attain proficiency 
+Positive,1,1,gods grace 
+Positive,1,1,dramatic improvement 
+Positive,1,1,comely young 
+Positive,1,1,self effacing 
+Positive,1,1,saluted him 
+Positive,1,1,luxurious comfort 
+Positive,1,1,much nicer 
+Positive,1,1,youthful enthusiasm 
+Positive,1,1,tremendous enthusiasm 
+Positive,1,1,enthusiastic admiration 
+Positive,1,1,highest accolades 
+Positive,1,1,proactive stance 
+Positive,1,1,well respected 
+Positive,1,1,tender hearted 
+Positive,1,1,lasting happiness 
+Positive,1,1,highly educated 
+Positive,1,1,self abnegation 
+Positive,1,1,extend my 
+Positive,1,1,inspire creativity 
+Positive,1,1,gods blessing 
+Positive,1,1,divine goodness 
+Positive,1,1,lifelong commitment 
+Positive,1,1,demonstrated exceptional 
+Positive,1,1,selfless generosity 
+Positive,1,1,sincere congratulations 
+Positive,1,1,profound appreciation 
+Positive,1,1,open minded 
+Positive,1,1,full flavoured 
+Positive,1,1,fatherly love 
+Positive,1,1,rip roaring 
+Positive,1,1,honoring excellence 
+Positive,1,1,draws inspiration 
+Positive,1,1,expressive eyes 
+Positive,1,1,self reliance 
+Positive,1,1,expressed gratitude 
+Positive,1,1,calm down 
+Positive,1,1,close friend 
+Positive,1,1,unconditional love 
+Positive,1,1,stay calm 
+Positive,1,1,critically praised 
+Positive,1,1,worth noting 
+Positive,1,1,express gratitude 
+Positive,1,1,clear eyed 
+Positive,1,1,feminine elegance 
+Positive,1,1,warm affection 
+Positive,1,1,richly furnished 
+Positive,1,1,divine majesty 
+Positive,1,1,pay tribute 
+Positive,1,1,sheer pleasure 
+Positive,1,1,worth considering 
+Positive,1,1,simple pleasures 
+Positive,1,1,warm applause 
+Positive,1,1,lucidly written 
+Positive,1,1,richly deserved 
+Positive,1,1,absolute loyalty 
+Positive,1,1,ardent love 
+Positive,1,1,hearty applause 
+Positive,1,1,demonstrating proficiency 
+Positive,1,1,draw inspiration 
+Positive,1,1,proved decisive 
+Positive,1,1,deepest respect 
+Positive,1,1,spurring innovation 
+Positive,1,1,toothy smile 
+Positive,1,1,light heartedness 
+Positive,1,1,simple hearted 
+Positive,1,1,restoring peace 
+Positive,1,1,liberate themselves 
+Positive,1,1,underwent restoration 
+Positive,1,1,my profound 
+Positive,1,1,inner calm 
+Positive,1,1,received honorable 
+Positive,1,1,rapid growth 
+Positive,1,1,warmest thanks 
+Positive,1,1,selfless love 
+Positive,1,1,posthumously honored 
+Positive,1,1,unanimously recommended 
+Positive,1,1,warm ovation 
+Positive,1,1,passionate love 
+Positive,1,1,widespread praise 
+Positive,1,1,remain stable 
+Positive,1,1,pleasing manners 
+Positive,1,1,rosy cheeks 
+Positive,1,1,eyes sparkled 
+Positive,1,1,highly commendable 
+Positive,1,1,looks forward 
+Positive,1,1,indomitable courage 
+Positive,1,1,stands poised 
+Positive,1,1,started clapping 
+Positive,1,1,award honoree 
+Positive,1,1,clear sighted 
+Positive,1,1,fluorescence excitation 
+Positive,1,1,demonstrated competency 
+Positive,1,1,endless fascination 
+Positive,1,1,have a surprise
+Positive,1,1,had a surprise
+Positive,1,1,has a surprise
+Positive,1,1,have a suprise
+Positive,1,1,had a suprise
+Positive,1,1,has a suprise
+Positive,1,1,nice dark
+Positive,1,1,superhero shit
+Positive,1,1,need that shit
+Positive,1,1,want that shit
+Positive,1,1,get that shit
+Positive,1,1,that shit tough
+Positive,1,1,shit is pro
+Positive,1,1,want to dance
+Positive,1,1,want to sing
+Positive,1,1,give full coverage
+Positive,1,1,give coverage
+Positive,1,1,really want
+Positive,1,1,do want
+Positive,1,1,I want
+Positive,1,1,ease the stress
+Positive,1,1,more opportunities
+Positive,1,1,word hard
+Positive,1,1,pay raise 
+Positive,1,1,pay raises 
+Positive,1,1,sharply dressed
+Positive,1,1,very structured
+Positive,1,1,issue resolution
+Positive,1,1,commute opportunities
+Positive,1,1,commute opportunity
+Positive,1,1,is fair
+Positive,1,1,was fair
+Positive,1,1,were fair
+Positive,1,1,minimal politics
+Positive,1,1,little politics
+Positive,1,1,big name
+Positive,1,1,growth opportunities
+Positive,1,1,balance life
+Positive,1,1,pay heed
+Positive,1,1,paid heed
+Positive,1,1,work on variety
+Positive,1,1,variety of opportunities 
+Positive,1,1,variety of experience
+Positive,1,1,variety of experiences
+Positive,1,1,fun environment
+Positive,1,1,Learning experience
+Positive,1,1,Extensive opportunities
+Positive,1,1,name brand recognition
+Positive,1,1,high performing
+Positive,1,1, variety of engagements
+Positive,1,1,opportunities for personal growth
+Positive,1,1,Brand recognition
+Positive,1,1,knowledge base
+Positive,1,1,provides opportunity
+Positive,1,1,quality and risk
+Positive,1,1,Lots of opportunities
+Positive,1,1,grow your career
+Positive,1,1,Variety of client projects 
+Positive,1,1,variety of job opportunities
+Positive,1,1,get to learn 
+Positive,1,1,Young atmosphere
+Positive,1,1,Consulting opportunities
+Positive,1,1,abilities to work
+Positive,1,1,ability to take initiative
+Positive,1,1,Endless opportunities
+Positive,1,1, gaining experience
+Positive,1,1,know what needs
+Positive,1,1,Risk Assurance
+Positive,1,1,risk sense
+Positive,1,1,Risk management policies ensure
+Positive,1,1,low risk
+Positive,1,1,opportunity to
+Positive,1,1,ability to work

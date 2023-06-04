@@ -1,0 +1,26 @@
+﻿Sentiment,Sentiment Num,Multi,Text
+Negative,-1,-1,arent good.
+Neutral,0,0,don excellent.
+Neutral,0,0,not anger.
+Negative,-1,-1,cant love.
+Neutral,0,0,can't hate.
+Negative,-1,-1,did not enjoy.
+Negative,-1,-1,didn’t satisfied.
+Negative,-1,-1,don excited.
+Negative,-1,-1,doesnot nice?
+Neutral,0,0,not outstanding.
+Negative,-1,-1,cant be amazing?
+Negative,-1,-1,hadnt smart.
+Negative,-1,-1,hasn’t happy.
+Positive,1,2,this is so good.
+Negative,-1,-2,very bad movie.
+Positive,1,1,this is not bad movie.
+Neutral,0,0, @smrtsg Still didn't state how graphic designers are paid to do their jobs in Singapore.
+Positive,1,2," I hope I can get more information, wishing you all the best uncle. "
+Positive,1,2,sufficient nice
+Positive,1,2,tremendous beauty
+Positive,1,2,"ultimately good. I am, here."
+Negative,-1,-2,ultimately bad
+Positive,1,2,vast good
+Negative,-1,-2,awful
+Negative,-1,-2,terrified

@@ -1,0 +1,10 @@
+﻿Sentiment,Sentiment Num,Multi,Text
+Negative,-1,-1,alcohol addiction
+Negative,-1,-1,bad condition
+Negative,-1,-1,health hazard
+Positive,1,1,extension service
+Positive,1,1,extracurricular activity
+Positive,1,1,good good
+Neutral,0,0,Neutral
+Neutral,0,0,Neutral
+Neutral,0,0,Neutral

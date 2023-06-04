@@ -1,0 +1,11 @@
+﻿Sentiment,Sentiment Num,Multi,Text
+Positive,1,1," you  are  good, do not ask."
+Negative,-1,-1," He cloth is ugly, there is no shopping here to buy one"
+Positive,1,2,"haha this meeting so intereting, I will not be there before 5 pm"
+Negative,-1,-2,"it is really that hard to get another one, this is bad, I donot remember it."
+Negative,-1,-1," It's just plain sad, I will not go to city today."
+Positive,1,1,"Thank you uncle for the care delivery, I cannot ask more!"
+Positive,1,1,"Thanks SMRT remind me the logo, I do not see it"
+Negative,-1,-1,"In the morning I lost my phone, sad. I have not find it till now."
+Negative,-1,-1,Seriously? Picture might being Edited? Not see it
+Negative,-1,-1,"it is bad, Isn't it"

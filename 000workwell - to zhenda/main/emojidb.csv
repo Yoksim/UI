@@ -1,0 +1,62 @@
+﻿Emoji,Meaning,Sentiment,SentimentNum
+\U0001F642,acceptance ,positive,1
+\U0001F648,admiration ,positive,1
+\U0001F632,alarm ,negative,-1
+\U0001F440,alerted ,neutral,0
+\U0001F603,amazement ,positive,1
+\U0001F620,anger ,negative,-1
+\U0001F644,annoyance ,negative,-1
+\U0001F612,annoyance ,negative,-1
+\U0001F91E,anticipation ,positive,1
+\U0001F61F,anxiety ,negative,-1
+\U0001F924,attraction ,positive,1
+\U0001F634,boredom ,negative,-1
+\U0001F60E,calmness ,positive,1
+\U0001F625,dejected ,negative,-1
+\U0001F61E,disappointment ,negative,-1
+\U0001F922,disgust ,negative,-1
+\U00002639,sadness ,negative,-1
+\U0001F633,embarrassment ,negative,-1
+\U0001F973,enjoying ,positive,1
+\U0001F92A,excitement ,positive,1
+\U0001F974,fatigued ,negative,-1
+\U0001F628,fear ,negative,-1
+\U0001F629,frustration ,negative,-1
+\U0001F62D,grief ,negative,-1
+\U0001F64A,guilty ,negative,-1
+\U0001F600,happy ,positive,1
+\U0001F917,happy ,positive,1
+\U0001F621,hate ,negative,-1
+\U0001F937,indifference ,negative,-1
+\U0001F602,joy ,positive,1
+\U0001F923,joy ,positive,1
+\U0001F497,love ,positive,1
+\U0001F609,wink,positive,1
+\U0001F614,pensiveness ,negative,-1
+\U0001F4AF,pride ,positive,1
+\U0001F47F,rage ,negative,-1
+\U0001F60C,relief ,positive,1
+\U0001F627,remorse ,negative,-1
+\U0001F622,distress ,negative,-1
+\U0001F606,satisfaction ,positive,1
+\U0001F62E,surprise ,positive,1
+\U0001F450,sympathy ,neutral,0
+\U0001F631,terror ,negative,-1
+\U0001F6CE,vigilance ,neutral,0
+\U0001F62A,sleepy ,negative,-1
+\U0001F637,sick ,negative,-1
+\U0001F912,sick ,negative,-1
+\U0001F62C,painful ,negative,-1
+\U0001F605,happy ,positive,1
+\U0001F384,christmas vibes ,neutral,0
+\U0001F689,train ,neutral,0
+\U0001F914,wondering ,neutral,0
+\U0001F92E,nauseous ,negative,-1
+\U0001F611,pissed off ,negative,-1
+\U0001F610,pissed off ,negative,-1
+\U0001F331,seedling ,neutral,0
+\U0001F921,funny ,positive,1
+\U0001F60A,happy ,positive,1
+\U0001F4B5,money ,neutral,0
+\U0001F92B,keep quiet ,neutral,0
+\U0001F604,happy ,positive,1
