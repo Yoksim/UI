@@ -1,21 +1,17 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from sentiment_explorerVersion7 import *
-import pandas as pd
-import nltk
-from nltk import word_tokenize
-
 
 app = Flask(__name__)
 # CORS(app, resources={r"/*": {"origins": "*"}})
 
 @app.route('/generate')
 def get_score():
-    # multi_value(scores['Polarities Found'],scores['Text'], scores['Polarity Count-after Adversative'], 5)
-    # multi_value(polarity_list, text, final_polarity, k)
 
     text = "her film is unrelentingly claustrophobic and unpleasant ."
-    polarity4_list = findPolarity4(text)
+    text = newtext_fullstop(text)
+    text = newtext(text)
+    polarity4_list = findPolarity4_too_like(text)
     score4 = countPolarity4(polarity4_list, 7)
     polarity5_list = findPolarity5(text)
     score5 = countPolarity5(polarity5_list, 7)

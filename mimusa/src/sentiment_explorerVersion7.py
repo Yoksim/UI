@@ -6,6 +6,7 @@ model specifically in the Singapore's transport context.
 import pandas as pd
 import nltk
 from nltk import word_tokenize
+import re
 
 
 ## All imported dictionaries/databases
@@ -22,7 +23,7 @@ negation_list = ["aren\'t",	"arenot",	"arent",	"can\'t",	"can't", "canot",	"cann
                  "needn't",	"neednot",	"neednt",	"neither",	"never",	"no",	"nor",	"not",	"ought\'nt",	"ought'nt",	"oughtn\'t",	"oughtn't",	"oughtnot",	"oughtnt",	"rare", "isnt"
                  "rarely",	"shan\'t",	"shan't",	"shanot", "shant",	"should have",	"should\'nt",	"should'nt",	"shouldn\'t",	"shouldn't",	"shouldnot",	"shouldnt",	"wasn\'t",	"wasnot",	"wasnt",	
                  "werenot",	"werent",	"won\'t",	"won't",	"wont",	"wouldn\'t",	"wouldn't",	"wouldnot",	"wouldnt"]      
- 
+
 negateNeutral = pd.read_csv('negateneutral.csv', header = None)
 domainlist = list(domaindict["Word"])
 after_adverse = ['but', 'nevertheless', 'even so','yet','no matter what', 'however']
@@ -35,13 +36,191 @@ emojilabels_data = pd.read_csv('emojidb.csv')
 emoji_dict = dict(zip((x.encode().decode('unicode_escape') for x in emojilabels_data['Emoji']), emojilabels_data.SentimentNum))
 emoji_list = [x.encode().decode('unicode_escape') for x in emojilabels_data.Emoji.values]
 
-def pdColumn_to_list_converter(df):
-    """General function to convert df column to list
+# def pdColumn_to_list_converter(df):
+#     """General function to convert df column to list
 
-    """
-    df_list = df.values.tolist() #produces list of lists
-    proper_list = [item for sublist in df_list for item in sublist] #a single list
-    return proper_list
+#     """
+#     df_list = df.values.tolist() #produces list of lists
+#     proper_list = [item for sublist in df_list for item in sublist] #a single list
+#     return proper_list
+
+
+##----------------------------------------------- Step 0 cleaning of text -----------------------------------------------##
+def newtext(text):
+    text = text.strip()
+    text = text.replace('/\s\s+/g', ' ') # replace multiple spaces with a single space
+    text = text.replace(":)","happy")
+    text = text.replace(":(","sad")
+    text = re.sub ('\s+', ' ', text)
+    text = re.sub('@[^\s]+','',text)  # delete the username
+    text = re.sub('&[^\s]+','',text)
+    text = re.sub('#[^\s]+','',text)
+    text = re.sub('".*?"', '', text)  # delete anything in quotation marks
+    text = re.sub('http[s]?://\S+', '', text) # delete urls
+    for k, v in replace_words_dic.items():
+        if k in text:
+            text = re.sub(k,v,text)
+    text = text.replace("comfort delgro","comfortdelgro")            
+    text = text.replace("as well as","and")
+    text = text.replace("as well","also")
+    text = text.replace("would like","shall")
+    text = text.replace("should have","slightly negative")
+    text = text.replace("could have","slightly negative")
+    text = text.replace("would have","slightly negative")
+    text = text.replace("would be","slightly negative")
+    text = text.replace("could be","slightly negative")
+    text = text.replace("should be","slightly negative")
+    
+    text = text.replace("n't","not")
+    text = text.replace("n't","not")
+    text = text.replace("don","not")
+    text = text.replace("dun","not")
+    text = text.replace("'s","is")
+    text = text.replace("'s","is")
+    text = text.replace("'ve","have")
+    text = text.replace("'ve","have")
+    text = text.replace("'d","had")
+    text = text.replace("'d","had")
+    text = text.replace("'ll","will")
+    text = text.replace("'ll","will")
+    text = text.replace("'re","are")
+    text = text.replace("'re","are")
+    text = text.replace("'m","am")
+    text = text.replace("'m","am")
+
+    text = text.replace("should improve","slightly negative")
+    text = text.replace("would improve","slightly negative")
+    text = text.replace("could improve","slightly negative")
+    text = text.replace("would enhance","slightly negative")
+    text = text.replace("could enhance","slightly negative")
+    text = text.replace("would enhance","slightly negative")
+    text = text.replace("to be honest","I will say")
+    text = text.replace("it's like","alike")
+    text = text.replace("middle finger","slightly negative")
+    text = text.replace("snapped","slightly negative")
+    text = text.replace("constantly accelerate","slightly negative") 
+    text = text.replace("accelerate constantly","slightly negative")
+    text = text.replace("accelerate and decelerate constantly","slightly negative") 
+    text = text.replace("stopage","negative")
+    text = text.replace("constantly accelerate and decelerate","slightly negative") 
+    text = text.replace("extension service","good")
+    text = text.replace("take advantage","slightly negative")
+    text = text.replace("took advantage","slightly negative")
+    text = text.replace("taking advantage","slightly negative")
+    text = text.replace("takes advantage","slightly negative") 
+    #text = text.replace("please help","slightly negative")
+    #text = text.replace("please","do") 
+
+    text = re.sub("\S*@\S*\s?",'',text)   # delete email address
+    text = text.replace('\n', ' ').replace('\r', '')  # Clean up all "\n"
+    
+    text = re.sub(r"""
+               [)(@#&$]+  # Accept one or more copies of punctuation
+               \ *           # plus zero or more copies of a space,
+               """,
+               "",          # and replace it with no space   [,.;@#?!&$]+ 
+               text, flags=re.VERBOSE)
+    
+    text = text.replace('.', ' .') #specially added to maintain fullstop
+    text = text.replace('?', ' ?') #specially added to maintain question mark
+    text = text.replace('!', ' !') #specially added to maintain exclamation mark
+    text = text.replace(',', ' ,') #specially added to maintain exclamation mark
+    text = text.replace(';', ' ;') #specially added to maintain exclamation mark
+    text = text.replace(':', ' :') #specially added to maintain exclamation mark
+    
+    text= re.sub(' +', ' ', text)
+    #text= re.sub(':', '', text)
+    text= re.sub("[:']", '', text)
+    #text = re.sub ('\s+', '', text)
+    return text.lower()
+
+def newtext_fullstop(text):
+    text = text.strip()
+    text = text.replace('/\s\s+/g', ' ') # replace multiple spaces with a single space
+    text = text.replace(":)","happy")
+    text = text.replace(":(","sad")
+    text = re.sub ('\s+', ' ', text)
+    text = re.sub('@[^\s]+','',text)  # delete the username
+    text = re.sub('&[^\s]+','',text)
+    text = re.sub('#[^\s]+','',text)
+    text = re.sub('".*?"', '', text)  # delete anything in quotation marks
+    text = re.sub('http[s]?://\S+', '', text) # delete urls
+    for k, v in replace_words_dic.items():
+        if k in text:
+            text = re.sub(k,v,text)    
+    text = text.replace("comfort delgro","comfortdelgro")       
+    text = text.replace("as well as","and")
+    text = text.replace("as well","also")
+    text = text.replace("would like","shall")
+    text = text.replace("should have","slightly negative")
+    text = text.replace("could have","slightly negative")
+    text = text.replace("would have","slightly negative")
+    text = text.replace("would be","slightly negative")
+    text = text.replace("could be","slightly negative")
+    text = text.replace("should be","slightly negative")
+
+    text = text.replace("n't","not")
+    text = text.replace("n't","not")
+    text = text.replace("don","not")
+    text = text.replace("dun","not")
+    text = text.replace("'s","is")
+    text = text.replace("'s","is")
+    text = text.replace("'ve","have")
+    text = text.replace("'ve","have")
+    text = text.replace("'d","had")
+    text = text.replace("'d","had")
+    text = text.replace("'ll","will")
+    text = text.replace("'ll","will")
+    text = text.replace("'re","are")
+    text = text.replace("'re","are")
+    text = text.replace("'m","am")
+    text = text.replace("'m","am")
+      
+    text = text.replace("should improve","slightly negative")
+    text = text.replace("would improve","slightly negative")
+    text = text.replace("could improve","slightly negative")
+    text = text.replace("would enhance","slightly negative")
+    text = text.replace("could enhance","slightly negative")
+    text = text.replace("would enhance","slightly negative")
+    text = text.replace("to be honest","I will say")
+    text = text.replace("it's like","alike")
+    text = text.replace("middle finger","slightly negative")
+    text = text.replace("snapped","slightly negative")
+    text = text.replace("constantly accelerate","slightly negative") 
+    text = text.replace("accelerate constantly","slightly negative")
+    text = text.replace("accelerate and decelerate constantly","slightly negative") 
+    text = text.replace("stopage","negative")
+    text = text.replace("constantly accelerate and decelerate","slightly negative") 
+    text = text.replace("extension service","good")
+    text = text.replace("take advantage","slightly negative")
+    text = text.replace("took advantage","slightly negative")
+    text = text.replace("taking advantage","slightly negative")
+    text = text.replace("takes advantage","slightly negative")
+    #text = text.replace("please help","slightly negative")
+    #text = text.replace("please","do") 
+    
+    text = re.sub("\S*@\S*\s?",'',text)   # delete email address
+    text = text.replace('\n', ' ').replace('\r', '')  # Clean up all "\n"
+    
+    text = re.sub(r"""
+               [)(@#&$]+  # Accept one or more copies of punctuation
+               \ *           # plus zero or more copies of a space,
+               """,
+               "",          # and replace it with no space
+               text, flags=re.VERBOSE)
+    
+    text = text.replace('.', ' .') #specially added to maintain fullstop
+    text = text.replace('?', ' ?') #specially added to maintain question mark
+    text = text.replace('!', ' !') #specially added to maintain exclamation mark
+    text = text.replace(',', ' ,') #specially added to maintain exclamation mark
+    text = text.replace(';', ' ;') #specially added to maintain exclamation mark
+    text = text.replace(':', ' :') #specially added to maintain exclamation mark
+    
+    text= re.sub(' +', ' ', text)
+    #text= re.sub(':', '', text)
+    text= re.sub("[:']", '', text)
+    #text = re.sub ('\s+', '', text)
+    return text.lower()
 
 ##----------------------------------------------- Step 1 prof wang's standard english-----------------------------------------------##
 def findPolarity(text):
