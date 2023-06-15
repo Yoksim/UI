@@ -1,5 +1,0 @@
-4--strong positive---(2)
-3--postive-----------(1)
-2--neutral-----------(0)
-1--strong negative---(-2)
-0--negative----------(-1)
