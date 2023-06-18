@@ -8,11 +8,13 @@ app = Flask(__name__)
 @app.route('/generate')
 def get_score():
 
-    text = "her film is unrelentingly claustrophobic and unpleasant ."
+    text = "The bad guy broke his arm, he was so lucky."
     text = newtext_fullstop(text)
     text = newtext(text)
     polarity4_list = findPolarity4_too_like(text)
     score4 = countPolarity4(polarity4_list, 7)
+    sarcasm = recognise_sarcasm(polarity4_list)
+    score4 = flip(sarcasm, score4)
     polarity5_list = findPolarity5(text)
     score5 = countPolarity5(polarity5_list, 7)
     polarity6_list = findPolarity6(text)

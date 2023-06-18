@@ -7,6 +7,18 @@ import pandas as pd
 import nltk
 from nltk import word_tokenize
 import re
+import csv
+nltk.download('averaged_perceptron_tagger')
+
+# Read CSV file
+replace_words_dic = {}
+with open('ngram_20170222_ZX2021_replace_words.csv', 'r') as file:
+    reader = csv.DictReader(file)
+    for row in reader:
+        original_phrase = row['original_phases'].lower()
+        target_word1 = row['target_produced_words1'].lower()
+        target_word2 = row['target_produced_words2'].lower()
+        replace_words_dic[original_phrase] = (target_word1, target_word2)
 
 
 ## All imported dictionaries/databases
@@ -17,12 +29,12 @@ combined_singlish = pd.read_csv('profwang&our_singlish.csv')
 domaindict = pd.read_csv('transport_dict.csv')
 
 negation_list = ["aren\'t",	"arenot",	"arent",	"can\'t",	"can't", "canot",	"cannot",	"cannt",	"cant",	"coudnt",	"could have",	"couldn\'t",	"couldn't",	"couldnot",	"couldnt",
-                 "didn\'t",	"didn't",	"didnot",	"didnt",	"doesn\'t",	"doesn't",	"doesnot",	"doesnt",	"don",	"don\'t",	"don't",	"donot",	"dont",	"dosnt", "dun",	"hadn\'t", "weren\'t"
-                 "hadn't",	"hadnot",	"hadnt",	"hasn\'t",	"hasn't",	"hasnot",	"hasnt",	"haven\'t",	"haven't",	"havenot",	"havent",	"isn\'t",	"isnot", "willnot", "willnt", "willnt"	
-				 "lack",	"lacked",	"lacking",	"lacks",	"limit",	"limited",	"must\'nt",	"must'nt",	"mustn\'t",	"mustn't",	"mustnot",	"mustnt",	"nednt",	"need\'nt",	"need'nt",	"needn\'t",
-                 "needn't",	"neednot",	"neednt",	"neither",	"never",	"no",	"nor",	"not",	"ought\'nt",	"ought'nt",	"oughtn\'t",	"oughtn't",	"oughtnot",	"oughtnt",	"rare", "isnt"
-                 "rarely",	"shan\'t",	"shan't",	"shanot", "shant",	"should have",	"should\'nt",	"should'nt",	"shouldn\'t",	"shouldn't",	"shouldnot",	"shouldnt",	"wasn\'t",	"wasnot",	"wasnt",	
-                 "werenot",	"werent",	"won\'t",	"won't",	"wont",	"wouldn\'t",	"wouldn't",	"wouldnot",	"wouldnt"]      
+                "didn\'t",	"didn't",	"didnot",	"didnt",	"doesn\'t",	"doesn't",	"doesnot",	"doesnt",	"don",	"don\'t",	"don't",	"donot",	"dont",	"dosnt", "dun",	"hadn\'t", "weren\'t",
+                "hadn't",	"hadnot",	"hadnt",	"hasn\'t",	"hasn't",	"hasnot",	"hasnt",	"haven\'t",	"haven't",	"havenot",	"havent",	"isn\'t",	"isnot", "willnot", "willnt", "willnt",
+			    "lack",	"lacked",	"lacking",	"lacks",	"limit",	"limited",	"must\'nt",	"must'nt",	"mustn\'t",	"mustn't",	"mustnot",	"mustnt",	"nednt",	"need\'nt",	"need'nt",	"needn\'t",
+                "needn't",	"neednot",	"neednt",	"neither",	"never",	"no",	"nor",	"not",	"ought\'nt",	"ought'nt",	"oughtn\'t",	"oughtn't",	"oughtnot",	"oughtnt",	"rare", "isnt",
+                "rarely",	"shan\'t",	"shan't",	"shanot", "shant",	"should have",	"should\'nt",	"should'nt",	"shouldn\'t",	"shouldn't",	"shouldnot",	"shouldnt",	"wasn\'t",	"wasnot",	"wasnt",	
+                "werenot",	"werent",	"won\'t",	"won't",	"wont",	"wouldn\'t",	"wouldn't",	"wouldnot",	"wouldnt"]      
 
 negateNeutral = pd.read_csv('negateneutral.csv', header = None)
 domainlist = list(domaindict["Word"])
@@ -36,17 +48,18 @@ emojilabels_data = pd.read_csv('emojidb.csv')
 emoji_dict = dict(zip((x.encode().decode('unicode_escape') for x in emojilabels_data['Emoji']), emojilabels_data.SentimentNum))
 emoji_list = [x.encode().decode('unicode_escape') for x in emojilabels_data.Emoji.values]
 
-# def pdColumn_to_list_converter(df):
-#     """General function to convert df column to list
+def pdColumn_to_list_converter(df):
+    """General function to convert df column to list
 
-#     """
-#     df_list = df.values.tolist() #produces list of lists
-#     proper_list = [item for sublist in df_list for item in sublist] #a single list
-#     return proper_list
+    """
+    df_list = df.values.tolist() #produces list of lists
+    proper_list = [item for sublist in df_list for item in sublist] #a single list
+    return proper_list
 
 
 ##----------------------------------------------- Step 0 cleaning of text -----------------------------------------------##
 def newtext(text):
+    
     text = text.strip()
     text = text.replace('/\s\s+/g', ' ') # replace multiple spaces with a single space
     text = text.replace(":)","happy")
@@ -914,6 +927,14 @@ def recognise_sarcasm(input_list):
 
 ## remove or is_subsequence(input_list, [1, -1, 1])  or is_subsequence(input_list, [1, 11, 1]) or is_subsequence(input_list, [1, 11])
 ## added--or is_subsequence(input_list, [11, 1])
+def flip(sarcasm,polarity_count):
+    if sarcasm==-1:
+        if polarity_count>0:
+            return polarity_count*(-1)
+        else:
+            return polarity_count
+    elif sarcasm==0:
+        return polarity_count
 
 ## ---------------------------------------------------- step 8 + adversative ------------------------------------------------------##
 def findPolarity5(text):
