@@ -3,12 +3,15 @@ from flask_cors import CORS
 from sentiment_explorerVersion7 import *
 
 app = Flask(__name__)
-# CORS(app, resources={r"/*": {"origins": "*"}})
+CORS(app, resources={r"/*": {"origins": "*"}})
 
-@app.route('/generate')
+@app.route('/generate', methods=['POST'])
 def get_score():
+    text = request.get_data(as_text=True)
+    print("\nReceived sentiment text in text format:", text)
 
-    text = "The bad guy broke his arm, he was so lucky."
+    # text = "There must be a reason why the officer did this to the PMD rider."
+    # text = "The bad guy broke his arm, he was so lucky."
     text = newtext_fullstop(text)
     text = newtext(text)
     polarity4_list = findPolarity4_too_like(text)
@@ -25,24 +28,14 @@ def get_score():
     score_multi = qn_mark(text, score_multi)
     final_score = new_multi(score_multi)
 
-    # check if score is an integer
-    if isinstance(final_score,int):
-        return jsonify(
-            {
-                "code": 200,
-                "text": text,
-                "data": final_score
-            }
-        )
+
     return jsonify(
         {
-            "code": 404,
+            "code": 200,
             "text": text,
-            "data": {},
-            "message": "No polarity generated."
+            "data": final_score
         }
-    ), 404
-
+    )
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8000, debug=True)
