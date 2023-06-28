@@ -8,6 +8,7 @@ const app = Vue.createApp({
             original_text: "",
             score: "",
             sentiment: "",
+            final_text: "",
         }
     },
 
@@ -26,6 +27,7 @@ const app = Vue.createApp({
                 .then(response => response.json())
                 .then(data => {
                     this.score = data.data;
+                    this.final_text = data.text;
                     if (this.score == -2) {
                         this.sentiment = "Strongly Negative"
                     }
@@ -41,7 +43,8 @@ const app = Vue.createApp({
                     else if (this.score == 2) {
                         this.sentiment = "Strongly Positive"
                     }
-                })
+                });
+            console.log(this.final_text);
         },
 
     }
