@@ -44,7 +44,7 @@ const app = Vue.createApp({
                     else if (this.score == 2) {
                         this.sentiment = "Strongly Positive"
                     }
-                    console.log(data);
+                    // console.log(data);
                 });
         },
     }
