@@ -1,5 +1,5 @@
-const mimusa_python_code_URL = "https://mimusa-test-model.onrender.com/generate"
-// const mimusa_python_code_URL = "http://192.168.1.28:8000/generate"
+// const mimusa_python_code_URL = "https://mimusa-test-model.onrender.com/generate"
+const mimusa_python_code_URL = "http://54.151.190.12:8000/generate"
 
 const app = Vue.createApp({
 
