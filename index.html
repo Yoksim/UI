@@ -72,6 +72,22 @@
                 </div>
             </div>
 
+            <div class="row mt-3 justify-content-center">
+                <div class=" col-xl-9">
+                    <div class="border border-secondary border-opacity-75 p-3">
+                        <h5>Quick explanation</h5>
+                        <span v-show="textType == 'sentence'">
+                            Based on our internal dictionary, each word is analysed and assigned a sentiment value. 
+                            Depending on the detection of sarcasm, double negative etc, the values of all individual words will be taken into consideration for the computation of the sentiment category displayed at the end.
+                        </span>
+                        <span v-show="textType == 'paragraph'">
+                            Utilising the compounding values from the Sentence-Level model, each sentence is analysed and assigned a sentiment value. 
+                            Depending on the percantages of positive, negative, and neutral sentences, the overall percentages will be used for the computation of the sentiment category displayed at the end.
+                        </span>
+                    </div>
+                </div>
+            </div>
+
             <br>
             Enter your {{textType}}:
             <div class="row pt-1">
@@ -81,13 +97,14 @@
                     <!-- <textarea class="form-control" v-model="original_text" @keydown.enter.prevent="get_score()"></textarea> -->
                 </div>
             </div>
-            <div class="row pt-3">
-                <div class="col-sm-4 col-lg-2">
+            <div class="row">
+                <div class="col-sm-4 col-md-3 col-lg-2 py-3">
                     <button type="button" class="btn btn-primary w-100" v-on:click="get_score()">
                         Analyse
                     </button>
                 </div>
-                <div class="col-sm-4 col-lg-2 align-self-center">
+
+                <div class="col-sm-4 col-md-3 col-lg-2 text-center text-sm-start align-self-center">
                     <a class="link-offset-2 link-underline link-underline-opacity-0" href="about.html">Learn more</a>
                 </div>
             </div>
