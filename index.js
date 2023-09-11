@@ -1,6 +1,6 @@
 // const mimusa_python_code_URL = "https://mimusa-test-model.onrender.com/generate"
 // const mimusa_python_code_URL = "https://54.151.190.12:8000/generate"
-const mimusa_python_code_URL = "https://model.socialopinionanalytics.net/generate"
+const mimusa_python_code_URL = "https://model.socialopinionanalytics.net/"
 
 const app = Vue.createApp({
 
@@ -11,14 +11,20 @@ const app = Vue.createApp({
             score: "",
             sentiment: "",
             final_text: "",
+            textType: "sentence",
         }
     },
 
     //=========== METHODS ===========
     methods: {
         get_score() {
+            let subDomain = "generate"
+            if (this.textType == "paragraph") 
+                subDomain = "paragraph"
+
             console.log(this.original_text);
-            fetch(`${mimusa_python_code_URL}`,
+            console.log(subDomain)
+            fetch(`${mimusa_python_code_URL + "generate"}`,
                 {
                     method: "POST",
                     headers: {
@@ -53,3 +59,11 @@ const app = Vue.createApp({
 
 
 app.mount('#app')
+
+
+
+// For tooltip
+document.querySelectorAll('[data-bs-toggle="tooltip"]')
+    .forEach(tooltip => {
+        new bootstrap.Tooltip(tooltip)
+    })
